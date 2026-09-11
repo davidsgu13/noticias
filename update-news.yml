@@ -1,0 +1,45 @@
+name: Actualizar noticias del mercado
+
+on:
+  schedule:
+    # 05:00 y 15:00 hora Bogotá (Bogotá = UTC-5 todo el año, sin horario de verano)
+    - cron: "0 10,20 * * *"
+  workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/fetch_news.py"
+      - ".github/workflows/update-news.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar recolector de noticias
+        run: python scripts/fetch_news.py
+
+      - name: Publicar cambios si hay noticias nuevas
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualización automática de noticias"
+          file_pattern: data/news.json
+          commit_user_name: "radar-co-bot"
+          commit_user_email: "actions@users.noreply.github.com"
