@@ -1,0 +1,325 @@
+/* ---------------------------------------------------------------------
+   Radar CO — panel de mercado financiero colombiano
+   Paleta: papel cálido + tinta azul noche + acentos oro (reservas) y
+   verde billete. Serif para titulares, mono para datos, sans para UI.
+   ------------------------------------------------------------------ */
+
+:root {
+  --paper: #F6F2E7;
+  --paper-raised: #FFFFFF;
+  --ink: #17233A;
+  --ink-soft: #4B5769;
+  --line: #DFD6BF;
+  --gold: #B8863A;
+  --gold-deep: #8E661F;
+  --teal: #2E6659;
+  --teal-soft: #E4EEE9;
+  --red-flag: #A23B2E;
+
+  --font-serif: "Newsreader", "Iowan Old Style", Georgia, serif;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+/* ---------- Ticker ---------- */
+
+.ticker {
+  background: var(--ink);
+  color: var(--paper);
+  overflow: hidden;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--gold-deep);
+}
+
+.ticker__track {
+  display: inline-block;
+  padding: 7px 0;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  animation: scroll-ticker 22s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker__track { animation: none; }
+}
+
+.ticker__item {
+  display: inline-block;
+  padding: 0 28px;
+  position: relative;
+}
+
+.ticker__item::after {
+  content: "•";
+  position: absolute;
+  right: -3px;
+  color: var(--gold);
+}
+
+@keyframes scroll-ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-33.333%); }
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  border-bottom: 3px double var(--ink);
+  background: var(--paper);
+}
+
+.masthead__inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 36px 24px 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.masthead__eyebrow {
+  margin: 0 0 6px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--teal);
+  letter-spacing: 0.04em;
+}
+
+.masthead__title {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: clamp(2.4rem, 5vw, 3.4rem);
+  line-height: 1;
+  color: var(--ink);
+}
+
+.masthead__title-accent {
+  color: var(--gold-deep);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.masthead__subtitle {
+  margin: 12px 0 0;
+  max-width: 46ch;
+  font-size: 15px;
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+.masthead__status {
+  text-align: right;
+  padding: 12px 18px;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  min-width: 210px;
+}
+
+.masthead__status-label {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.masthead__status-value {
+  margin: 4px 0 0;
+  font-family: var(--font-mono);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.masthead__status-sub {
+  margin: 4px 0 0;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--teal);
+}
+
+/* ---------- Filters ---------- */
+
+.content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 28px 24px 60px;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 26px;
+}
+
+.filters__chip {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  padding: 7px 13px;
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--ink-soft);
+  cursor: pointer;
+  border-radius: 2px;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.filters__chip:hover {
+  border-color: var(--gold);
+  color: var(--ink);
+}
+
+.filters__chip.is-active {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--paper);
+}
+
+/* ---------- Feed ---------- */
+
+.feed {
+  display: grid;
+  gap: 18px;
+}
+
+.feed__loading {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.card {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--teal);
+  padding: 18px 20px;
+  display: grid;
+  gap: 8px;
+}
+
+.card[data-source-flag="true"] {
+  border-left-color: var(--gold-deep);
+}
+
+.card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: baseline;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--teal);
+}
+
+.card__source {
+  font-weight: 500;
+  color: var(--gold-deep);
+}
+
+.card__time {
+  color: var(--ink-soft);
+}
+
+.card__title {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: 1.28rem;
+  line-height: 1.28;
+  font-weight: 500;
+}
+
+.card__title a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.card__title a:hover {
+  color: var(--gold-deep);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.card__title a:focus-visible,
+.filters__chip:focus-visible {
+  outline: 2px solid var(--gold-deep);
+  outline-offset: 2px;
+}
+
+.card__summary {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-soft);
+  line-height: 1.55;
+  max-width: 68ch;
+}
+
+.card__category {
+  display: inline-block;
+  margin-top: 2px;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--teal);
+  background: var(--teal-soft);
+  padding: 2px 8px;
+  border-radius: 2px;
+  width: fit-content;
+}
+
+/* ---------- Empty state ---------- */
+
+.empty-state {
+  font-size: 14px;
+  color: var(--ink-soft);
+  border: 1px dashed var(--line);
+  padding: 18px 20px;
+  line-height: 1.6;
+}
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 22px 24px 40px;
+}
+
+.site-footer p {
+  max-width: 980px;
+  margin: 0 auto;
+  font-size: 12.5px;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+.site-footer code {
+  font-family: var(--font-mono);
+  background: var(--teal-soft);
+  padding: 1px 5px;
+  border-radius: 2px;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 620px) {
+  .masthead__inner { flex-direction: column; align-items: flex-start; }
+  .masthead__status { text-align: left; width: 100%; }
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar CO — Mercado financiero colombiano</title>
+<meta name="description" content="Noticias del mercado financiero colombiano, consolidadas automáticamente desde varias fuentes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="ticker" aria-hidden="true">
+  <div class="ticker__track" id="tickerTrack">
+    <span class="ticker__item">RADAR CO</span>
+    <span class="ticker__item">MERCADO FINANCIERO COLOMBIANO</span>
+    <span class="ticker__item">ACTUALIZACIÓN AUTOMÁTICA DIARIA</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="masthead__inner">
+    <div class="masthead__title-block">
+      <p class="masthead__eyebrow">Bogotá, Colombia</p>
+      <h1 class="masthead__title">Radar<span class="masthead__title-accent">CO</span></h1>
+      <p class="masthead__subtitle">Un tablero de noticias sobre el mercado financiero colombiano, recopilado solo de varias fuentes económicas.</p>
+    </div>
+    <div class="masthead__status" id="statusBlock">
+      <p class="masthead__status-label">Última actualización</p>
+      <p class="masthead__status-value" id="lastUpdated">cargando…</p>
+      <p class="masthead__status-sub" id="itemCount"></p>
+    </div>
+  </div>
+</header>
+
+<main class="content">
+  <nav class="filters" id="filters" aria-label="Filtrar por categoría">
+    <button class="filters__chip is-active" data-filter="todas">Todas</button>
+  </nav>
+
+  <section class="feed" id="feed" aria-live="polite">
+    <p class="feed__loading" id="loadingMsg">Cargando noticias…</p>
+  </section>
+
+  <p class="empty-state" id="emptyState" hidden>
+    Todavía no hay noticias cargadas. Si acabas de crear el sitio, espera a que corra
+    la acción automática por primera vez, o ejecútala manualmente desde la pestaña
+    <strong>Actions</strong> del repositorio.
+  </p>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Este sitio se reconstruye solo todos los días vía GitHub Actions: un script en Python
+    consulta varias fuentes de noticias, arma <code>data/news.json</code> y lo publica en
+    GitHub Pages. No es asesoría financiera — es un panel de lectura rápida.
+  </p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
