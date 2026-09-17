@@ -6,6 +6,8 @@ El Tiempo - Economía, Portafolio, La República, Bloomberg Línea, y
 búsquedas específicas en Google News sobre BVC, TRM/dólar, Banco de la
 República, PIB/inflación y renta fija).
 
+https://davidsgu13.github.io/noticias/
+
 No hay servidor ni base de datos: un script de Python corre dentro de
 **GitHub Actions**, arma `data/news.json`, lo sube al repositorio, y
 **GitHub Pages** sirve el HTML que lee ese archivo. Todo gratis, sin que
