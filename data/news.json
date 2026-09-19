@@ -1,7 +1,340 @@
 {
-  "last_updated_utc": "2026-09-19T13:43:44.494161+00:00",
+  "last_updated_utc": "2026-09-19T22:11:22.458392+00:00",
   "count": 60,
   "items": [
+    {
+      "id": "52f7cc9d5ff92287",
+      "title": "Ecuador registra 11 incendios forestales activos, dos de ellos en Quito e Imbabura",
+      "link": "https://www.larepublica.co/globoeconomia/ecuador-registra-11-incendios-forestales-activos-dos-de-ellos-en-quito-e-imbabura-4486314",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Autoridades reportan dos incendios controlados: uno en Quito-Itchimbía y otro en Quito-Yaruqui",
+      "published": "2026-09-19T22:06:10+00:00"
+    },
+    {
+      "id": "0f86d5683ead7769",
+      "title": "Restaurantes toman fuerza en Amor y Amistad: el gasto de los colombianos destinado a el sector crecería 16% este año",
+      "link": "https://www.eltiempo.com/economia/restaurantes-toman-fuerza-en-amor-y-amistad-el-gasto-de-los-colombianos-destinado-a-el-sector-creceria-16-este-ano-3587352",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Salir a comer con la pareja es el plan más elegido, con 32% de las preferencias, por encima de comprar regalos y reunirse con amigos o familiares.",
+      "published": "2026-09-19T22:05:29+00:00"
+    },
+    {
+      "id": "bb81bc83d9d88724",
+      "title": "Real Madrid y Atlético llegan al derbi tras gastar 348 millones de euros en fichajes, casi la mitad de lo invertido por toda LaLiga",
+      "link": "https://www.valoraanalitik.com/real-madrid-y-atletico-llegan-al-derbi-tras-gastar-348-millones-de-euros-en-fichajes-casi-la-mitad-de-lo-invertido-por-toda-laliga/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Real Madrid y Atlético llegan al derbi tras invertir 348 millones de euros en fichajes, el 47,5 % de todo el gasto de LaLiga en el último mercado.",
+      "published": "2026-09-19T22:00:00+00:00"
+    },
+    {
+      "id": "54e213d63cda328b",
+      "title": "Obispos uruguayos trasmitieron al papa León XIV preocupación por violencia y narcotráfico",
+      "link": "https://www.larepublica.co/globoeconomia/obispos-uruguayos-trasmitieron-al-papa-leon-xiv-preocupacion-por-violencia-y-narcotrafico-en-el-pais-4486312",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los uruguayos se reunieron con el sumo pontífice en la previa de su visita de noviembre a Uruguay para hablar sobre estos asuntos",
+      "published": "2026-09-19T21:52:59+00:00"
+    },
+    {
+      "id": "b82171434b577ba6",
+      "title": "JP Morgan prevé que El Niño obligará a restringir el tráfico por el Canal de Panamá",
+      "link": "https://www.larepublica.co/globoeconomia/jp-morgan-preve-que-el-nino-obligara-a-restringir-el-trafico-por-el-canal-de-panama-4486308",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Las interrupciones en el transporte marítimo provocadas por los conflictos están provocando un aumento de los precios",
+      "published": "2026-09-19T21:40:17+00:00"
+    },
+    {
+      "id": "77f5982a1755a959",
+      "title": "La presidencia de Milei corre peligro debido al estancamiento de la economía argentina",
+      "link": "https://www.larepublica.co/globoeconomia/la-presidencia-de-milei-corre-peligro-debido-al-estancamiento-de-la-economia-argentina-4486306",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El producto interior bruto se contrajo 0,6% en el segundo trimestre con respecto a los tres meses anteriores, la primera contracción en dos años",
+      "published": "2026-09-19T21:39:37+00:00"
+    },
+    {
+      "id": "c9e8e32fee80658f",
+      "title": "Lula Da Dilva anunció un aumento de ayudas sociales antes de las elecciones de octubre",
+      "link": "https://www.larepublica.co/globoeconomia/lula-anuncia-aumento-de-ayudas-sociales-antes-de-las-elecciones-de-octubre-4486298",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El gobierno aumentará las prestaciones mínimas mensuales de los actuales 600 reales a 691 reales (US$133,85) como parte del programa conocido como “Bolsa Família”",
+      "published": "2026-09-19T21:22:50+00:00"
+    },
+    {
+      "id": "ee5e94ea7101b23d",
+      "title": "Colombia fortalece acciones para proteger sus costas frente a la erosión -",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3BJc2RYNmx2eEN3YTdUbFdqdjFfOEdNbm93NUZIUmpNcXFfVV91NlVEaHduSEoycUR0N3lHR3lfZmZkS25pNy1LZ1NLaXppS2R4YTBRUUhmZk5faDhjTWNUc0paa2staHBiSTE3RXFrejdOVXRwY2RYS09TMHEzSnZZSUduZ0NKRWlMd0VZQ092cXZEVGxfeWhiMVdhQm8zN2FZelRhRQ?oc=5",
+      "source": "minambiente.gov.co",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "Colombia fortalece acciones para proteger sus costas frente a la erosión - &nbsp;&nbsp; minambiente.gov.co",
+      "published": "2026-09-19T21:14:13+00:00"
+    },
+    {
+      "id": "0ff3527e90026cc0",
+      "title": "MinTransporte reprogramará $5,5 billones en vigencias futuras de la ANI con los concesionarios",
+      "link": "https://www.valoraanalitik.com/mintransporte-reprogramara-55-billones-en-vigencias-futuras-de-la-ani-con-los-concesionarios/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La ministra de Transporte, Elsa Noguera, expuso la estrategia para hacer frente al déficit presupuestal y garantizar la terminación de las obras inconclusas.",
+      "published": "2026-09-19T21:00:00+00:00"
+    },
+    {
+      "id": "9c1b2c462ffdb588",
+      "title": "El líder paraguayo, Santiago Peña, visitó a Venezuela en un giro tras años de enemistad",
+      "link": "https://www.larepublica.co/globoeconomia/el-lider-paraguayo-visita-venezuela-en-un-giro-tras-anos-de-enemistad-4486291",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Paraguay rompió relaciones con Caracas en 2019, reconoció al entonces líder de la oposición, Juan Guaidó, como presidente interino y fue uno de los últimos países de la región en retirar dicho reconocimiento",
+      "published": "2026-09-19T20:53:21+00:00"
+    },
+    {
+      "id": "126e0ca09bbc693d",
+      "title": "La crisis de Ceuta alimenta a la extrema derecha de la Unión Europea, pese a baja de llegadas",
+      "link": "https://www.larepublica.co/globoeconomia/la-crisis-de-ceuta-alimenta-a-la-extrema-derecha-de-la-union-europea-pese-a-baja-de-llegadas-4486277",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Más de 72.000 personas entraron en el enclave procedentes de Marruecos a finales de julio, pero la mayoría se marchó después",
+      "published": "2026-09-19T20:10:57+00:00"
+    },
+    {
+      "id": "cba63393544a94d8",
+      "title": "Televisa gana terreno en la bolsa a días de dejar su lugar en el IPC a Alpek",
+      "link": "https://www.larepublica.co/globoeconomia/televisa-gana-terreno-en-la-bolsa-a-dias-de-dejar-su-lugar-en-el-ipc-a-alpek-4486275",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los títulos de la petroquímica regiomontana cerraron la jornada del 18 de septiembre con un avance de 5,9% a MXN$15,08 por acción",
+      "published": "2026-09-19T20:06:41+00:00"
+    },
+    {
+      "id": "6cc4e80d5e6db9d7",
+      "title": "Uribe pide a los banqueros dar créditos a 30 años al estado para la reconstrucción por el sismo",
+      "link": "https://www.larepublica.co/finanzas/expresidente-uribe-pide-a-banqueros-dar-creditos-a-30-anos-al-estado-para-la-reconstruccion-4486272",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El exmandatario hizo un llamado a la banca nacional para que acompañe al gobierno de Abelardo De La Espriella y a los damnificados por el terremoto",
+      "published": "2026-09-19T20:02:19+00:00"
+    },
+    {
+      "id": "1e99cab14efe3de4",
+      "title": "Michelle Bachelet abandonó candidatura para presidir la Organización de las Naciones Unidas",
+      "link": "https://www.larepublica.co/globoeconomia/michelle-bachelet-abandono-candidatura-para-presidir-la-organizacion-de-las-naciones-unidas-4486270",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La exvicepresidenta de Costa Rica, Rebeca Grynspan, figura como la favorita para convertirse en la décima secretaria general de la ONU",
+      "published": "2026-09-19T20:00:32+00:00"
+    },
+    {
+      "id": "2e1cad59122072b9",
+      "title": "Desarrollo de Medellín, impulsado por el turismo y la derrama económica de la vivienda turística: esto dicen cifras y expertos",
+      "link": "https://www.valoraanalitik.com/desarrollo-de-medellin-impulsado-por-el-turismo-y-la-derrama-economica-de-la-vivienda-turistica-esto-dicen-cifras-y-expertos/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Expertos hacen énfasis en que la vivienda turística se ha convertido en un motor para Medellín.",
+      "published": "2026-09-19T20:00:00+00:00"
+    },
+    {
+      "id": "d29a2d2d6c867d2c",
+      "title": "Juzgado de Medellín ordenó reintegrar a trabajadora de call center tras ser despedida por hacer colecta para un compañero enfermo: 'Una falta grave'",
+      "link": "https://www.eltiempo.com/economia/empresas/juzgado-de-medellin-ordeno-reintegrar-a-trabajadora-de-call-center-tras-ser-despedida-por-hacer-colecta-para-un-companero-enfermo-una-falta-grave-3587327",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "La decisión se tomó en primera instancia. La empresa podría apelar la medida anunciada.",
+      "published": "2026-09-19T19:38:45+00:00"
+    },
+    {
+      "id": "6a144fab64f96b5b",
+      "title": "Nu Colombia planea invertir $5 billones hasta 2030 para consolidarse como una de las mayores entidades financieras del país",
+      "link": "https://www.eltiempo.com/economia/nu-colombia-planea-invertir-5-billones-hasta-2030-para-consolidarse-como-una-de-las-mayores-entidades-financieras-del-pais-3587325",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "La plataforma digital cumple cinco años en el país y ya es una de las cinco entidades financieras más grandes de Colombia.",
+      "published": "2026-09-19T19:35:30+00:00"
+    },
+    {
+      "id": "4e4aee92041cd5d1",
+      "title": "Trump nombrará un zar de la IA mientras rechaza los riesgos de seguridad como un engaño",
+      "link": "https://www.larepublica.co/globoeconomia/trump-nombrara-un-zar-de-la-ia-mientras-rechaza-los-riesgos-de-seguridad-como-un-engano-4486261",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El mandatario estadounidense rechazó las preocupaciones de que la tecnología en rápida evolución pudiera suponer riesgos para los seres humanos, calificándolas de engaño",
+      "published": "2026-09-19T19:33:09+00:00"
+    },
+    {
+      "id": "67c9d302c5516bb5",
+      "title": "¿Dónde se gasta más en Amor y Amistad? Santander es el departamento con mayor compra de Colombia durante las fechas",
+      "link": "https://www.eltiempo.com/economia/donde-se-gasta-mas-en-amor-y-amistad-santander-es-el-departamento-con-mayor-compra-de-colombia-durante-las-fechas-3587321",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Cada transacción alcanza en promedio $205.006, el valor más alto entre los principales territorios, mientras aumenta el gasto de los colombianos.",
+      "published": "2026-09-19T19:10:19+00:00"
+    },
+    {
+      "id": "a4ca7781c2b9262e",
+      "title": "Ungrd y Naciones Unidas se reunieron en Cali para trabajar en recuperación tras el sismo",
+      "link": "https://www.larepublica.co/especiales/catastrofe-nacional/ungrd-y-naciones-unidas-se-reunieron-en-cali-para-trabajar-en-recuperacion-tras-el-sismo-4486244",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La jornada cuenta con la participación de Kamal Kishore, representante especial del secretario general de las Naciones Unidas para la Reducción del Riesgo de Desastres",
+      "published": "2026-09-19T19:03:51+00:00"
+    },
+    {
+      "id": "24fe7f3a3ed973c1",
+      "title": "Alerta en el sistema eléctrico: Ocho embalses de Colombia operarían por debajo de sus mínimos históricos por El Niño",
+      "link": "https://www.valoraanalitik.com/alerta-en-el-sistema-electrico-ocho-embalses-de-colombia-operarian-por-debajo-de-sus-minimos-historicos-por-el-nino/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Embalses estratégicos para el parque hidroeléctrico nacional caerán a registros no vistos durante la temporada seca.",
+      "published": "2026-09-19T18:56:00+00:00"
+    },
+    {
+      "id": "99a8255c2eeb871d",
+      "title": "De la Espriella anuncia nuevo dique flotante con capacidad superior a 13.000 toneladas",
+      "link": "https://www.larepublica.co/economia/nuevo-dique-flotante-para-colombia-4486245",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El presidente, Abelardo de la Espriella, anunció esta nueva flota naval la cual cuenta con una longitud de hasta 220 metros y una manga interior de 36 metros",
+      "published": "2026-09-19T18:51:34+00:00"
+    },
+    {
+      "id": "5a1733e2fc32c558",
+      "title": "Gobierno habilita $624.656 millones del Banco Mundial para gastarlos en la reconstrucción tras el terremoto",
+      "link": "https://www.eltiempo.com/economia/gobierno-habilita-624-656-millones-del-banco-mundial-para-gastarlos-en-la-reconstruccion-tras-el-terremoto-3587316",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El Decreto 1412 no trae dinero nuevo, sino que habilita jurídicamente el uso de un desembolso que el país ya tenía en su cuenta desde agosto.",
+      "published": "2026-09-19T18:34:50+00:00"
+    },
+    {
+      "id": "c1ecfcc9e4c4c2f2",
+      "title": "Gobierno De la Espriella destina $87.700 millones para finalizar el Gran Malecón del Mar en Cartagena",
+      "link": "https://www.valoraanalitik.com/gobierno-de-la-espriella-destina-87-700-millones-para-finalizar-el-gran-malecon-del-mar-en-cartagena/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Según el cronograma de la obra, el próximo 15 de octubre debían ponerse en operación los primeros 2 kilómetros habilitados.",
+      "published": "2026-09-19T18:00:00+00:00"
+    },
+    {
+      "id": "b78a01c5a2296ff6",
+      "title": "La Casa Blanca niega acceso a periodistas de CNN y MS NOW tras prohibición de Trump",
+      "link": "https://www.larepublica.co/globoeconomia/la-casa-blanca-niega-acceso-a-periodistas-de-cnn-y-ms-now-tras-prohibicion-4486219",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La Casa Blanca retiró las acreditaciones de CNN, MS NOW y Politico, mientras los tres medios anunciaron que defenderán sus derechos amparados por la Primera Enmienda",
+      "published": "2026-09-19T17:56:08+00:00"
+    },
+    {
+      "id": "788ec0e6e763d77f",
+      "title": "Precio del dólar en Colombia hoy sábado 19 de septiembre de 2026: TRM, cambio COP y compra-venta en bancos",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTzZ2WVhTMEk0RlU5TGlVQkJWMmJnQWItSFRTRWJkQlA2ZkxJT2RReFIwMjNkdUV0NzA4V3B4SHFTNjE0alIyTUFCdktldHh0WDJYN1RMZmQwR250LUZEOWhsZnlqLXNRaFc2SmJWZUREeGQyekhPOFZsV2YwZk5pMm1lcUF0S1lfeVNQZTJ5aGc2Wm52VEEwUkhnLUtwTmlkNmFEY2Y1RUdBNEQ3U2FzTTJXS2JpMXQ5ZWtZT1l6YlJFOF9wWW95M01BTkZoM29sNXJHdGdqR29CanpzaTlSWjYwNnZiQ0RIeWt1SmVXX0V0RzV6U2pJ?oc=5",
+      "source": "El Comercio Perú",
+      "category": "Dólar y TRM",
+      "summary": "Precio del dólar en Colombia hoy sábado 19 de septiembre de 2026: TRM, cambio COP y compra-venta en bancos &nbsp;&nbsp; El Comercio Perú",
+      "published": "2026-09-19T17:22:49+00:00"
+    },
+    {
+      "id": "eb5a121afefbfc41",
+      "title": "Econexia de Corferias conectó a empresas creativas colombianas con compradores de México, España y Chile",
+      "link": "https://www.valoraanalitik.com/econexia-corferias-resultados-rueda-industrias-creativas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La demanda se concentró en los sectores tecnológico, editorial, artesanal y didáctico, con oferentes de Bogotá, Antioquia, Cundinamarca y Atlántico.",
+      "published": "2026-09-19T17:00:00+00:00"
+    },
+    {
+      "id": "7c4f9b0a27aef94f",
+      "title": "Groenlandia y Dinamarca dicen que acuerdo con EE.UU. no es cesión de soberanía",
+      "link": "https://www.larepublica.co/globoeconomia/groenlandia-y-dinamarca-dicen-que-el-acuerdo-con-ee-uu-no-supondra-una-cesion-de-soberania-4486205",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "No se han hecho públicos los detalles del acuerdo, entre ellos el grado de presencia militar estadounidense en el territorio",
+      "published": "2026-09-19T16:35:55+00:00"
+    },
+    {
+      "id": "72a788e0cdc9070e",
+      "title": "Entrevista | DiDi Food cumple cinco años en Colombia: ya suma 9 millones de usuarios y 15.000 restaurantes",
+      "link": "https://www.valoraanalitik.com/didi-food-cumple-cinco-anos-en-colombia-ya-suma-9-millones-de-usuarios-y-15-000-restaurantes/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Catalina Arteaga, directora de Desarrollo de Negocios para DiDi Food Hispanoamérica, explicó a Valora Analitik, cómo ha crecido la app en Colombia.",
+      "published": "2026-09-19T16:00:00+00:00"
+    },
+    {
+      "id": "0e1e5670accfea16",
+      "title": "Sismo de magnitud 4,6 se registró en Chocó y se sintió en varias ciudades",
+      "link": "https://www.larepublica.co/economia/sismo-de-magnitud-4-6-se-registro-en-choco-y-se-sintio-en-varias-ciudades-4486193",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El SGC actualizó la magnitud del movimiento de 4,3 a 4,6 y estableció una profundidad de 39 kilómetros, con epicentro en Istmina, Chocó",
+      "published": "2026-09-19T15:29:12+00:00"
+    },
+    {
+      "id": "ca01d965e827c6f1",
+      "title": "Autonomía universitaria y cumplimiento de la ley",
+      "link": "https://www.larepublica.co/analisis/cesar-mauricio-rodriguez-zarate-3545376/autonomia-universitaria-y-cumplimiento-de-la-ley-4485846",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La Corte Constitucional ha sido clara frente al alcance de esa autonomía y ha reiterado que ninguna de las facultades derivadas de ella tiene carácter ilimitado",
+      "published": "2026-09-19T15:01:52+00:00"
+    },
+    {
+      "id": "b5d064b076fc2ff6",
+      "title": "Sin acueducto, sin alcantarillado y con la tierra temblando: la otra cara de la reconstrucción en Chocó",
+      "link": "https://www.valoraanalitik.com/sin-acueducto-sin-alcantarillado-y-con-la-tierra-temblando-la-otra-cara-de-la-reconstruccion-en-choco/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La burocracia que frena la reconstrucción luego del terremoto y la ayuda que llega a cuentagotas en el Chocó.",
+      "published": "2026-09-19T15:00:00+00:00"
+    },
+    {
+      "id": "1ffa9104bff9ab93",
+      "title": "El Homo relationalis",
+      "link": "https://www.larepublica.co/analisis/ramiro-santa-513971/el-homo-relationalis-4486190",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "",
+      "published": "2026-09-19T14:33:26+00:00"
+    },
+    {
+      "id": "06d2def76575b368",
+      "title": "Así le fue al dólar esta semana en Colombia: tasas de la Fed y petróleo generaron presión sobre el peso",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLUUwTlVxcnhZd1l5NTVfem5yeTU4dl8zRmhHTnBwLVU1dGV0c2E1MXdXeUNRZm5ZeE1ocGFPUEdGNlpDN2pTU19Lb0FJczd3U0J1WHhrTmxRT1pXNUR4YUlrdS1RV1puZUFBUDhNRjg1bk42MEt0b1FuWExkSkUyUmVHZzhGWE1oSEZkQWd5SGI5LWZMQUJIWHNNSmZOcFl1S2pJVXNwUldUWEUyM25wNDVuSkNjTEU0UFVISEh1dUtyTE1CRnRFZmxabDgyUWN4SWRLcGFWMHpNb09NeVQybUZCR3VDWldEekc3UnNMWk13WERfMVVv0gH8AUFVX3lxTE5MYU1RdGVHbl84dlVCN2hjbUJfYWN2NF9BdnYxYUFPYVlGb1hhT0hibWZ5OFlOTVB3WHE5eWJiU3BFc2U1RzdjZWdnYnJYUTZwVHRMMmRoVW5RcVAwa3FSN09VX0pfSGxBcXA2SGdfN1BNS1lhcXRlRzE3Sl9CcUtEcGlIUkh6M1hmZFVTaHpXajljWm13UGlxVHRic0EyMkdWZVRaeF9hVERmLTd6VDRNSWp3RXl6YjRsVTc2LTVudzl4M1MzcEpQUlNHQjlGMVpzVm5rZVNXNnVNb2dZbnNqUHBZdnJMa2NKeERaQmtWTjhGMEdkUjluMEpScw?oc=5",
+      "source": "portafolio.co",
+      "category": "Dólar y TRM",
+      "summary": "Así le fue al dólar esta semana en Colombia: tasas de la Fed y petróleo generaron presión sobre el peso &nbsp;&nbsp; portafolio.co",
+      "published": "2026-09-19T14:19:20+00:00"
+    },
+    {
+      "id": "50e3449b71c8fa29",
+      "title": "Reportan humo cerca del aeropuerto de Riad tras alertas en Arabia Saudita",
+      "link": "https://www.larepublica.co/globoeconomia/reportan-humo-cerca-del-aeropuerto-de-riad-tras-alertas-en-arabia-saudita-4486183",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La defensa civil saudita emitió alertas por un posible peligro en Riad y Al-Kharj, que fueron levantadas durante la mañana del sábado",
+      "published": "2026-09-19T14:10:23+00:00"
+    },
+    {
+      "id": "49c2643a1dd456b4",
+      "title": "¿Por qué el dólar en Colombia cayó de $4.000 a casi $3.000 en menos de un año? Esto dicen analistas de lo que se espera para la tasa de cambio",
+      "link": "https://www.valoraanalitik.com/que-llevo-al-precio-del-dolar-a-pasar-de-los-4-000-a-rozar-los-3-000/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Los analistas señalan que este podría no ser un piso definitivo para la divisa estadounidense, que podría llegar a tocar niveles entre los $2.800 y los $2.700.",
+      "published": "2026-09-19T14:00:00+00:00"
+    },
+    {
+      "id": "719f5b7bf75e4f6e",
+      "title": "China critica duramente la ley que endurece las sanciones contra Rusia e Irán",
+      "link": "https://www.larepublica.co/globoeconomia/china-critica-duramente-la-ley-que-endurece-las-sanciones-contra-rusia-e-iran-4486180",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Pekín rechazó las sanciones unilaterales y advirtió que tomará las medidas necesarias para proteger sus intereses y los de sus empresas",
+      "published": "2026-09-19T13:57:08+00:00"
+    },
     {
       "id": "d87a0dfff0e3cf47",
       "title": "Estados Unidos logra acuerdo sobre Groenlandia y zanja disputa con la Otan",
@@ -37,15 +370,6 @@
       "category": "fuente directa",
       "summary": "Fujimori designó al economista José Angelo Tangherlini, quien hasta ahora ejercía como viceministro de Desarrollo de Agricultura Familiar",
       "published": "2026-09-19T12:40:13+00:00"
-    },
-    {
-      "id": "b87b2b4b16c2bc0f",
-      "title": "Las bolsas de valores de Colombia cerraron con subidas; el COLCAP ganó un 1.05%",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2ItQmlSU1ZvOWlkRHZYVjFPanV5NVNldlRRTEd0bUtDZzhRc2NfWWVORW55UGxWVjJIVUJ4MUJkejVPS0lDcWN0bExya3dPU3NhNDNxUkFaSUR1UEdCc0I5cDRzeTh6Q1dQbjlqRzJodjR2UzN0VGtZSDFmaEpCN25kY0hQQTZBaHFLdFJQX01BOFpUbEhmLWFPaWVrcTFsRXdTZ0YtYW05a1doX2dGVy03V01fSzF4Ql9xM3F3RFpDSlRPVDdERjNsT0I?oc=5",
-      "source": "Investing.com México - Finanzas, Bolsa y Forex",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "Las bolsas de valores de Colombia cerraron con subidas; el COLCAP ganó un 1.05% &nbsp;&nbsp; Investing.com México - Finanzas, Bolsa y Forex",
-      "published": "2026-09-19T09:22:30+00:00"
     },
     {
       "id": "c650bd95e8140faf",
@@ -217,330 +541,6 @@
       "category": "fuente directa",
       "summary": "Las floristerías reportan incrementos de hasta 300% en sus ventas durante la celebración, mientras que algunas marcas de chocolates rompen récords",
       "published": "2026-09-19T05:01:43+00:00"
-    },
-    {
-      "id": "66c0d3e6af8b1847",
-      "title": "¡Aaaa-Chis!, un concierto escénico para la primera infancia llega gratis al García Márquez",
-      "link": "https://www.larepublica.co/ocio/aaaa-chis-un-concierto-escenico-sin-palabras-para-la-primera-infancia-llega-gratis-al-centro-cultural-gabriel-garcia-marquez-4485887",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Cuatro seres microscópicos, una misión musical y un \"virus\" contagioso: el de la música. La obra del Programa Nidos de Idartes se presenta este sábado 19 de septiembre",
-      "published": "2026-09-19T05:01:42+00:00"
-    },
-    {
-      "id": "82838d126d26ad88",
-      "title": "El relevo generacional de los Buffett en un conglomerado que vale más de US$1 billón",
-      "link": "https://www.larepublica.co/globoeconomia/el-relevo-generacional-de-los-buffett-en-un-conglomerado-que-vale-mas-de-us-1-billon-4485623",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Warren Buffett dejó la presidencia de Berkshire Hathaway, tras casi seis décadas al frente del grupo empresarial, y fue sucedido por su hijo, Howard Buffett",
-      "published": "2026-09-19T05:01:37+00:00"
-    },
-    {
-      "id": "422f135239ba0948",
-      "title": "El increíble Dane",
-      "link": "https://www.larepublica.co/analisis/piedad-urdinola-3874408/el-increible-dane-4485809",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Sin embargo, su mayor activo es el prestigio, una construcción frágil basada en la confianza pública",
-      "published": "2026-09-19T05:01:37+00:00"
-    },
-    {
-      "id": "455713e4118c2022",
-      "title": "La bomba de corrupción en Ecopetrol",
-      "link": "https://www.larepublica.co/analisis/santiago-angel-rodriguez-3548824/la-bomba-de-corrupcion-en-ecopetrol-4485821",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La compañía gerenciada por Ricardo Roa permitió que allí empezaran a tener influencia personas que nunca debieron tenerla",
-      "published": "2026-09-19T05:01:33+00:00"
-    },
-    {
-      "id": "2b60f2770b7702bd",
-      "title": "“Esperamos llegar a 50.000 clientes nuevos mensuales con la aplicación de Rappi Pay”",
-      "link": "https://www.larepublica.co/finanzas/entrevista-con-paolo-di-marco-ceo-de-rappi-pay-4485789",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Paolo Di Marco, CEO de Rappi Pay, anunció una nueva rentabilidad en sus bóvedas y los nuevos productos de dólares digitales",
-      "published": "2026-09-19T05:01:33+00:00"
-    },
-    {
-      "id": "37c1239724b8e6db",
-      "title": "La evolución de la joya de la corona de Apple en casi dos décadas, del iPhone al Duo",
-      "link": "https://www.larepublica.co/internet-economy/evolucion-del-iphone-en-casi-dos-decadas-4486015",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En los 19 años que Apple lleva vendiendo teléfonos, sus productos se han posicionado como los más populares del mundo, al vender 3.000 millones de unidades",
-      "published": "2026-09-19T05:01:30+00:00"
-    },
-    {
-      "id": "f9bcfd209c863ad9",
-      "title": "‘Leche Pal Pelo’ lleva su producto capilar a nueve países desde Yumbo, en el Valle del Cauca",
-      "link": "https://www.larepublica.co/empresas/entrevista-con-juan-camilo-rodriguez-socio-de-leche-pal-pelo-sobre-la-expansion-de-la-marca-en-la-region-4484713",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Juan Camilo Rodríguez, socio de Leche Pal Pelo, recalcó que en las próximas semanas abrirán una planta que producirá casi 50 millones de unidades al año",
-      "published": "2026-09-19T05:01:30+00:00"
-    },
-    {
-      "id": "da1d16a32ca9d75e",
-      "title": "Nada más dañino que un peso apreciado",
-      "link": "https://www.larepublica.co/opinion/editorial/nada-mas-danino-que-un-peso-apreciado-4484681",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Lo más probable es que este año el peso colombiano sea la moneda emergente más revaluada, lo que la ha convertido en un objeto de manipulación externa",
-      "published": "2026-09-19T05:01:30+00:00"
-    },
-    {
-      "id": "9ebb5df5b150bdb0",
-      "title": "Generativa vs. agéntica, los dos caminos para automatizar tareas y aumentar productividad",
-      "link": "https://www.larepublica.co/internet-economy/generativa-vs-agentica-los-dos-caminos-para-automatizar-tareas-4485999",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La inteligencia artificial agéntica puede desarrollar tareas sin supervisión y de forma automatizada, basándose en predicciones",
-      "published": "2026-09-19T05:01:29+00:00"
-    },
-    {
-      "id": "e05fc5f94cac7b88",
-      "title": "“Hemos abierto más de 343 procesos sancionatorios por quemas e incendios forestales”",
-      "link": "https://www.larepublica.co/economia/entrevista-con-la-directora-de-cortolima-olga-lucia-alfonso-sobre-el-impacto-de-los-incendios-en-tolima-4485683",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La directora de Cortolima, Olga Lucía Alfonso, detalló que hay 48.033 hectáreas afectadas por incendios y advirtió que El Niño pone en riesgo el abastecimiento de agua",
-      "published": "2026-09-19T05:01:25+00:00"
-    },
-    {
-      "id": "c9206383e746aa36",
-      "title": "El ISE de julio subió 1,1% durante julio, pero el agro y minas siguen sin levantar cabeza",
-      "link": "https://www.larepublica.co/economia/el-ise-de-julio-subio-1-1-pero-el-agro-y-minas-siguen-sin-levantar-cabeza-4485708",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En el séptimo mes del año, las actividades terciarias jalonaron el crecimiento, con 2,59%, mientras que las secundarias y primarias cayeron 2,29% y 3,72%",
-      "published": "2026-09-19T05:01:25+00:00"
-    },
-    {
-      "id": "303816eab12cf3eb",
-      "title": "Clínica Santa Fe, Valle del Lili, HIC y Pablo Tobón entraron al nuevo ranking de Newsweek",
-      "link": "https://www.larepublica.co/empresas/clinica-santa-fe-valle-del-lili-hic-y-pablo-tobon-entraron-al-ranking-de-newsweek-4485984",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En el ranking World's Best Specialized Hospitals 2027, la Fundación Santa Fe de Bogotá figuró en tres categorías destacadas",
-      "published": "2026-09-19T05:01:25+00:00"
-    },
-    {
-      "id": "f6858ff592b14276",
-      "title": "La nueva generación de la cocina peruana, con restaurantes que exploran la biodiversidad",
-      "link": "https://www.larepublica.co/ocio/la-nueva-generacion-de-la-cocina-peruana-4486115",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Lima convirtió su biodiversidad en identidad gastronómica. Kjolle, Shizen, Mérito y Mayta muestran como la cocina peruana explora su territorio",
-      "published": "2026-09-19T05:01:18+00:00"
-    },
-    {
-      "id": "d87cf1e85a5e5a9d",
-      "title": "El experimento actoral de Betty la Fea que convierte a un actor en protagonista de una broma",
-      "link": "https://www.larepublica.co/ocio/el-experimento-actoral-de-betty-la-fea-4485759",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El experimento actoral de Betty la Fea que convirtió una situación inesperada en uno de los momentos más curiosos de la producción",
-      "published": "2026-09-19T05:01:16+00:00"
-    },
-    {
-      "id": "24b5d39880fdcb16",
-      "title": "\"El ´Tour al Sol´ va a ser una experiencia completa, será mucho más que un concierto\"",
-      "link": "https://www.larepublica.co/ocio/entrevista-con-carlos-vives-cantautor-y-empresario-4484703",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Carlos Vives habló sobre El último disco, su nuevo álbum doble grabado en acetato, su regreso a los escenarios con Tour al Sol y su visión sobre la colombianidad",
-      "published": "2026-09-19T05:01:13+00:00"
-    },
-    {
-      "id": "0d345d0e6f1e668f",
-      "title": "Peugeot amplía su portafolio de vehículos eléctricos con nuevos modelos",
-      "link": "https://www.larepublica.co/ocio/peugeot-amplia-oferta-de-vehiculos-4486141",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La llegada de estas dos referencias fortalece el portafolio de utilitarios de la marca y acompaña la creciente incorporación de tecnologías electrificadas",
-      "published": "2026-09-19T05:01:11+00:00"
-    },
-    {
-      "id": "c9d6a36408cb87be",
-      "title": "El terremoto y la obligación de reconstruir con derechos",
-      "link": "https://www.larepublica.co/analisis/david-florez-ballesteros-4458209/el-terremoto-y-la-obligacion-de-reconstruir-con-derechos-4485856",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Las medidas deben guardar estricta relación con la atención del desastre y respetar los derechos constitucionales",
-      "published": "2026-09-19T05:01:08+00:00"
-    },
-    {
-      "id": "f7a7e3a493ec5bc5",
-      "title": "Un evento de 12 horas busca recaudar fondos para la reconstrucción",
-      "link": "https://www.larepublica.co/empresas/entrevista-con-gabriel-vallejo-conferencista-internacional-en-servicio-al-cliente-4485917",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Gabriel Vallejo, conferencista internacional y autor de siete libros, habló sobre liderazgo, cultura de servicio y el papel de la educación en la reconstrucción",
-      "published": "2026-09-19T05:01:04+00:00"
-    },
-    {
-      "id": "6f24781d90cf49cf",
-      "title": "Riesgo país de Colombia cayó 86 puntos, según Indicador de Bonos de Mercados Emergentes",
-      "link": "https://www.larepublica.co/globoeconomia/el-riesgo-pais-de-colombia-cayo-86-puntos-segun-el-indicador-de-bonos-de-mercados-emergentes-4485632",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Colombia se posiciona en el sexto puesto regional, a la vez que Uruguay, Chile y Perú lideran como los países con menor riesgo de deuda, mientras Argentina con el mayor",
-      "published": "2026-09-19T05:01:00+00:00"
-    },
-    {
-      "id": "60f1dfb6efafe500",
-      "title": "Las necesidades tecnológicas de Colombia tras los resultados de las pruebas Pisa 2025",
-      "link": "https://www.larepublica.co/internet-economy/las-necesidades-tecnologicas-de-colombia-tras-los-resultados-de-las-pruebas-pisa-2025-4486159",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los resultados revelan brechas de aprendizaje y plantean nuevos desafíos para el uso de tecnología, conectividad e inteligencia artificial en la educación",
-      "published": "2026-09-19T05:01:00+00:00"
-    },
-    {
-      "id": "25e0b8932b9706f2",
-      "title": "Los países que encabezan el uso de herramientas de inteligencia artificial",
-      "link": "https://www.larepublica.co/internet-economy/los-paises-que-encabezan-el-uso-de-herramientas-de-inteligencia-artificial-4486069",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los sitios web registraron 125.700 millones de visitas mundialmente, 46% más que en 2024. Colombia ocupó el puesto 21, con 1.770 millones de visitas y 1,4% del tráfico global",
-      "published": "2026-09-19T05:00:09+00:00"
-    },
-    {
-      "id": "ab39397bfa2c794d",
-      "title": "Lotería de Risaralda del viernes 18 de septiembre de 2026: resultado, número ganador y premios del sorteo de hoy",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-risaralda-del-viernes-18-de-septiembre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-de-hoy-3587243",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Esta noche se conocieron los resultados de las loterías más destacadas del país. Consulte aquí si fue uno de los afortunados.",
-      "published": "2026-09-19T04:16:19+00:00"
-    },
-    {
-      "id": "7ff9a82d2cc47416",
-      "title": "Lotería de Santander del viernes 18 de septiembre de 2026: resultado, número ganador y premios del sorteo de hoy",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-santander-del-viernes-18-de-septiembre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-de-hoy-3587244",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-09-19T04:15:00+00:00"
-    },
-    {
-      "id": "fc1f8fd44044d66f",
-      "title": "Lotería de Medellín del viernes 18 de septiembre de 2026: resultado, número ganador y premios del sorteo de hoy",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-medellin-del-viernes-18-de-septiembre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-de-hoy-3587247",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-09-19T04:12:07+00:00"
-    },
-    {
-      "id": "d4e148210fc147d2",
-      "title": "Día del Amor y la Amistad en Colombia: ¿cómo celebrar esta festividad con la pareja, amigos y familia sin descuidar el bolsillo y ahorrar?",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/dia-del-amor-y-la-amistad-en-colombia-como-celebrar-esta-festividad-con-la-pareja-amigos-y-familia-sin-descuidar-el-bolsillo-y-ahorrar-3587080",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Conozca, además, la historia de por qué en el país se festeja esta fecha en septiembre y no en febrero como en gran parte del mundo.",
-      "published": "2026-09-19T04:09:34+00:00"
-    },
-    {
-      "id": "9a40db4a88d6952f",
-      "title": "Informe revela que el sistema microfinanciero atendió a menos empresarios del Valle de Aburrá en 2025",
-      "link": "https://www.valoraanalitik.com/informe-revela-que-clientes-activos-de-microcredito-en-el-valle-de-aburra-disminuyeron-118-en-2025/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Desembolsó operaciones por sumas de dinero más elevadas, consolidando una cartera vigente que alcanzó los $10 billones.",
-      "published": "2026-09-19T02:00:00+00:00"
-    },
-    {
-      "id": "b7747ddd352119fc",
-      "title": "LR01 ganó la final local del Hot Wheels Legends Tour",
-      "link": "https://www.eltiempo.com/economia/empresas/lr01-gano-la-final-local-del-hot-wheels-legends-tour-3587242",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Diseñado y fabricado por el piloto Julián Leal, representará al país en la final latinoamericana.",
-      "published": "2026-09-19T01:56:41+00:00"
-    },
-    {
-      "id": "7cecf2f2bc99f8b0",
-      "title": "Colombia: clave para Renault a nivel mundial",
-      "link": "https://www.eltiempo.com/economia/empresas/colombia-clave-para-renault-a-nivel-mundial-3587240",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Durante el anuncio de una nueva inversión para la alianza Renault Geely do Brasil, la marca resaltó la importancia que tiene nuestro país.",
-      "published": "2026-09-19T01:52:58+00:00"
-    },
-    {
-      "id": "fd7a98130db4625b",
-      "title": "Trump anuncia acuerdo con Dinamarca para ampliar presencia militar en Groenlandia",
-      "link": "https://www.valoraanalitik.com/ee-uu-y-dinamarca-alcanzan-acuerdo-para-ampliar-presencia-militar-en-groenlandia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El pacto busca reforzar la seguridad en el Ártico y limitar la presencia militar e inversiones sensibles de países adversarios.",
-      "published": "2026-09-19T01:44:23+00:00"
-    },
-    {
-      "id": "9e45dba15903f1b5",
-      "title": "Abelardo de la Espriella dio ultimátum a cabecillas de grupos armados que operan en Bolívar: “Están advertidos”",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa1NwYjRiTHMtSHN5YTN6T2pnMjRLOU1pY05tYTYyQjZSdEJmM2ZqUVFOc3VHZnZVRFBoZWcxZG1QSzVmbmlXcHRDQXZqb2lLZEE3V0czRmg4Ym0yV28tTktlaGo2ODBYQVNqMXpxcFc1YVhqWVhwMzZaXzFzaGxCZXBQZW9iMzhyb2RRY0NtS3dEWDR6RXQ1MEgySk85dWxxSnRsUjF1OWduNUx2RG1IMFlvZS0zdC1LLWZ2aWJDa0l0UTZRVXhVcGs1MDJKTFR3RnNjc0JsT2I0MGJVLVVuVzlkS0JLSUtL0gGDAkFVX3lxTE9oUWRQa0pVckFMeUlfd3N2Z091MENGQ0Q0cU9nT2k3XzF4YW03eEc2NHF0T2s0V1RpSjMycjdxbXcwREV2ejREcDZ5N2l2WGFCQzcyZ2RJWXN1dDc4ME5ERk51MVA3V1JlYUJ1UGlpcTltZ2NzZWN0STgxdG94ODZ3TjI5TXdEdnNoMjV0eThQQmxqTWZDdVFXeW9BdEhRd2JzSmdsaHNCWEgzVkpEemwydU9LWGR2cW1OZHd3aVh1YldmNl80c1F4bVFMMGtaZTdSWmZ3Y0dXc0hzUzM3Z0V0MnlybWdTVW5OWnNJSWc5SlUxYUg5aFNMd0VhcWN6dEtJeW8?oc=5",
-      "source": "Infobae",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "Abelardo de la Espriella dio ultimátum a cabecillas de grupos armados que operan en Bolívar: “Están advertidos” &nbsp;&nbsp; Infobae",
-      "published": "2026-09-19T01:28:41+00:00"
-    },
-    {
-      "id": "2646d0cbb22b980f",
-      "title": "Gobierno Nacional decreta alivios para familias que viven en arriendo y resultaron afectadas por el terremoto",
-      "link": "https://www.eltiempo.com/economia/sectores/gobierno-nacional-decreta-alivios-para-familias-que-viven-en-arriendo-y-resultaron-afectadas-por-el-terremoto-3587233",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Se busca proteger a las familias afectadas, incentivar los acuerdos de pago y apoyar la recuperación de conjuntos residenciales afectados.",
-      "published": "2026-09-19T01:13:08+00:00"
-    },
-    {
-      "id": "34f07e3aca8f5b99",
-      "title": "Trump se reunirá con Delcy Rodríguez en Nueva York el próximo martes",
-      "link": "https://www.larepublica.co/globoeconomia/trump-se-reunira-con-delcy-rodriguez-en-nueva-york-el-proximo-martes-4485926",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La líder opositora María Corina Machado se enfrenta a un dilema sobre cuándo regresar al país para recibir apoyos",
-      "published": "2026-09-19T00:58:24+00:00"
-    },
-    {
-      "id": "ab8a5a950483566b",
-      "title": "Así funcionarán las medidas anunciadas por el Gobierno para reconstruir las mipymes",
-      "link": "https://www.larepublica.co/empresas/asi-funcionan-las-nuevas-medidas-anunciadas-por-el-gobierno-para-reconstruir-mipymes-4485662",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El balance del Gobierno estima daños en los negocios y empresas en hasta $10,7 billones, afirmando que aproximadamente 40,4% de las empresas afectadas tuvo que cerrar u operar en cero",
-      "published": "2026-09-19T00:54:11+00:00"
-    },
-    {
-      "id": "f65e18bda87da007",
-      "title": "Trump y Delcy Rodríguez tendrán su primer encuentro cara a cara en Nueva York",
-      "link": "https://www.valoraanalitik.com/trump-y-delcy-rodriguez-tendran-su-primer-encuentro-cara-a-cara-en-nueva-york/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "La reunión se dará durante la Asamblea General de la ONU y será la primera entre ambos mandatarios tras el restablecimiento de relaciones diplomáticas.",
-      "published": "2026-09-19T00:41:38+00:00"
-    },
-    {
-      "id": "6f42c6cc98d14f08",
-      "title": "Gobierno autoriza pagar o ampliar plazo de concesiones por obras de emergencia por terremoto; lanza salvavidas a sistemas de transporte",
-      "link": "https://www.valoraanalitik.com/gobierno-ampliar-plazo-de-concesiones-por-obras-de-emergencia-por-terremoto/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Las medias quedaron fijadas con la expedición del Decreto 1424 de 2026.",
-      "published": "2026-09-19T00:00:32+00:00"
-    },
-    {
-      "id": "474a5d53d75e253e",
-      "title": "Prosperidad Social tendrá marco normativo excepcional para transferencias tras el sismo",
-      "link": "https://www.larepublica.co/economia/prosperidad-social-tendra-marco-normativo-excepcional-para-transferencias-4485814",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La medida se suma a un paquete de 15 decretos para acelerar la reconstrucción de las zonas afectadas por el terremoto",
-      "published": "2026-09-18T23:47:26+00:00"
     }
   ]
 }
