@@ -1,96 +1,375 @@
 {
-  "last_updated_utc": "2026-10-09T00:10:35.852650+00:00",
+  "last_updated_utc": "2026-10-09T16:50:37.642985+00:00",
   "count": 60,
   "items": [
     {
-      "id": "91ec7cef759cd85f",
-      "title": "Diner en Blanc Cartagena espera reunir a 1.000 asistentes: inversión en producción asciende a $650 millones",
-      "link": "https://www.valoraanalitik.com/diner-en-blanc-cartagena-espera-reunir-a-1-000-asistentes-inversion-en-produccion-asciende-a-650-millones/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Se estima que el 60 % de los asistentes serán foráneos, entre nacionales y extranjeros.",
-      "published": "2026-10-09T00:00:00+00:00"
-    },
-    {
-      "id": "47f255522791d345",
-      "title": "Bancolombia presentó nuevos beneficios para sus empleados tras conversaciones sindicales",
-      "link": "https://www.larepublica.co/finanzas/bancolombia-presento-nuevos-beneficios-para-sus-empleados-por-conversaciones-sindicales-4499636",
+      "id": "272f0ccff9c9d16c",
+      "title": "El mayor desafío para Elon Musk tras Airwaves es la construcción de una costosa red",
+      "link": "https://www.larepublica.co/globoeconomia/el-mayor-desafio-para-elon-musk-tras-airwaves-es-la-construccion-de-una-costosa-red-4500238",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "La entidad anunció que, entre sus beneficios, se encuentra alza de salarios, mejores coberturas médicas y opciones de financiación de vivienda",
-      "published": "2026-10-08T23:58:22+00:00"
+      "summary": "SpaceX podría asociarse con una de las grandes compañías de telecomunicaciones actuales para adoptar su infraestructura terrestre",
+      "published": "2026-10-09T16:43:22+00:00"
     },
     {
-      "id": "119397d29e6a9172",
-      "title": "Ministerio de Comercio articula al ICA, Dian, Invima y Antinarcóticos para agilizar exportaciones desde Puerto Antioquia",
-      "link": "https://www.eltiempo.com/economia/sectores/ministerio-de-comercio-articula-al-ica-dian-invima-y-antinarcoticos-para-agilizar-exportaciones-desde-puerto-antioquia-3592359",
+      "id": "848f5837e293e684",
+      "title": "El Monopolio del Dinero: Cómo el Banco de la República y el Estado Asfixian a Colombia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUFxbVJnWlBndC1oUnZTRkJVTC1zTUdPeVBRaEN3eS1pQjZMQVpSZmdKNHJqZ2FDbzJvX3BUVTlaYUlac2ptX1dNUlI3VzhLUmpuZnRVcGtDelJNa2h0WWpaV0ViMURUVjU5a3JvQlFUNzcyU0N5WmNuRzZWMGpHS2ZyQnF5WHp2NTRkbk1FZVNFazFxeEFvMFAwUDRnQ09TMmdqT25VUExWM05Wa0E?oc=5",
+      "source": "Al Poniente",
+      "category": "Banco de la República",
+      "summary": "El Monopolio del Dinero: Cómo el Banco de la República y el Estado Asfixian a Colombia &nbsp;&nbsp; Al Poniente",
+      "published": "2026-10-09T16:41:15+00:00"
+    },
+    {
+      "id": "cb1d2a47c0817f7e",
+      "title": "IDU continúa trabajos en línea matriz nororiental tras desempate de tubería",
+      "link": "https://www.larepublica.co/economia/idu-continua-trabajos-en-linea-matriz-nororiental-tras-desempate-de-tuberia-4500200",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Por la contingencia, se suspendió el servicio entre la calle 119 hasta la calle 198, entre la carrera 7 y la carrera 10 este",
+      "published": "2026-10-09T16:39:42+00:00"
+    },
+    {
+      "id": "c6e661469d7a14ac",
+      "title": "Claudia Sheinbaum anuncia nuevo decreto para regular las redes sociales en México",
+      "link": "https://www.larepublica.co/globoeconomia/claudia-sheinbaum-anuncia-nuevo-decreto-para-regular-las-redes-sociales-en-mexico-4500230",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La iniciativa surge después de los hechos de violencia registrados en Coahuila y busca evitar que redes sociales se conviertan en espacios para promover agresiones",
+      "published": "2026-10-09T16:37:28+00:00"
+    },
+    {
+      "id": "6b6b47a6f9362767",
+      "title": "Bessent, del Tesoro EE.UU., no asistirá a reuniones del FMI y el Banco Mundial en Bangkok",
+      "link": "https://www.larepublica.co/globoeconomia/bessent-del-tesoro-ee-uu-no-asistira-a-reuniones-del-fmi-y-el-banco-mundial-en-bangkok-4500228",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El Tesoro señaló que los funcionarios colaborarán con sus socios en las reuniones para abordar las políticas y temas de crecimiento",
+      "published": "2026-10-09T16:34:20+00:00"
+    },
+    {
+      "id": "872ec7d30adb79f3",
+      "title": "Huracán Simon se fortalece a categoría 2 mientras avanza hacia México",
+      "link": "https://www.larepublica.co/globoeconomia/huracan-simon-se-fortalece-a-categoria-2-mientras-avanza-hacia-mexico-4500217",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Se prevé que este mismo viernes Simon alcance una categoría de huracán mayor, mientras se aproxima a costas del occidente de México",
+      "published": "2026-10-09T16:30:25+00:00"
+    },
+    {
+      "id": "3312197273e3933e",
+      "title": "Banco de España eleva a 2,6% su previsión de crecimiento para la economía este año",
+      "link": "https://www.larepublica.co/globoeconomia/banco-de-espana-eleva-a-2-6-su-prevision-de-crecimiento-para-la-economia-este-ano-4500218",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Respecto al empleo, el Banco de España prevé que el ritmo de creación de puestos de trabajo continúe cayendo, hasta quedar en 1,8%",
+      "published": "2026-10-09T16:29:57+00:00"
+    },
+    {
+      "id": "ec71575ec67dd461",
+      "title": "Así es la mega reforma a las concesiones portuarias que De La Espriella aplicará en Colombia",
+      "link": "https://www.valoraanalitik.com/asi-es-la-mega-reforma-a-las-concesiones-portuarias-que-de-la-espriella-aplicara-en-colombia/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La iniciativa responde al diagnóstico técnico del sector, que advierte que de aquí al 2040 se vencerá el 85 % de los contratos vigentes.",
+      "published": "2026-10-09T16:23:00+00:00"
+    },
+    {
+      "id": "de635305f3065ba0",
+      "title": "Colombia prende alertas por alta intensidad de fenómeno de El Niño hasta marzo de 2027; avanza plan de mitigación",
+      "link": "https://www.valoraanalitik.com/colombia-prende-alertas-por-alta-intensidad-de-fenomeno-de-el-nino-hasta-marzo-de-2027/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El fenómeno podría mantener una intensidad de fuerte a muy fuerte hasta marzo de 2027, mientras las autoridades avanzan en medidas para mitigar sus efectos.",
+      "published": "2026-10-09T16:20:00+00:00"
+    },
+    {
+      "id": "3a5f36e413427421",
+      "title": "Bancolombia reportó donaciones de 50.000 empresas y personas por $9.300 millones",
+      "link": "https://www.larepublica.co/finanzas/bancolombia-reporto-donaciones-de-50-000-empresas-y-personas-por-9-300-millones-4500176",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Dos meses después del sismo del 10 de agosto, los recursos fueron destinados para 89 equipos médicos y 18 instituciones educativas",
+      "published": "2026-10-09T16:16:23+00:00"
+    },
+    {
+      "id": "91eb5398c836b56f",
+      "title": "Por el fenómeno de El Niño en Colombia en este mes habría “déficit” de lluvias",
+      "link": "https://www.valoraanalitik.com/por-el-fenomeno-de-el-nino-en-colombia-en-este-mes-habria-deficit-de-lluvias/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El gobierno De la Espriella confirmó que el fenómeno de El Niño ya hace presencia en Colombia",
+      "published": "2026-10-09T16:00:00+00:00"
+    },
+    {
+      "id": "042f04068977fd33",
+      "title": "Gobierno pidió acelerar adición de $2,7 billones al PGN 2026 para atender el terremoto",
+      "link": "https://www.larepublica.co/economia/gobierno-pidio-acelerar-adicion-de-2-7-billones-al-pgn-2026-para-atender-el-terremoto-4500188",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El proyecto también propone un traslado de $1,2 billones para prevenir la crisis energética por el fenómeno de El Niño ya declarado",
+      "published": "2026-10-09T15:58:36+00:00"
+    },
+    {
+      "id": "776d646073d71bee",
+      "title": "Venezuela prevé firmar 105 contratos petroleros antes de finalizar el año, según Pdvsa",
+      "link": "https://www.larepublica.co/globoeconomia/venezuela-preve-firmar-105-contratos-petroleros-para-finales-de-ano-presidente-de-pdvsa-4500199",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La producción petrolera del país alcanzará los 1,5 millones de barriles diarios para finales de 2027, añadió Héctor Obregón, durante un panel",
+      "published": "2026-10-09T15:53:11+00:00"
+    },
+    {
+      "id": "6a3e31f7374f2f92",
+      "title": "Medellín convocó a más de 1.000 personas para conversar sobre el significado de liderar el aprendizaje hoy",
+      "link": "https://www.valoraanalitik.com/medellin-convoco-a-mas-de-1-000-personas-para-conversar-sobre-el-significado-de-liderar-el-aprendizaje-hoy/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El encuentro recibió 191 propuestas provenientes de ocho países y 11 departamentos de Colombia.",
+      "published": "2026-10-09T15:48:55+00:00"
+    },
+    {
+      "id": "22d81730cee99a0f",
+      "title": "Paraguay e Israel firman acuerdo de cooperación en salud y medicina para fortalecer relaciones",
+      "link": "https://www.larepublica.co/globoeconomia/paraguay-e-israel-firman-acuerdo-de-cooperacion-en-salud-y-medicina-4500187",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El convenio ratifica la voluntad de los gobiernos de profundizar vínculos de amistad, con el objetivo de contribuir al bienestar de ambos países",
+      "published": "2026-10-09T15:31:56+00:00"
+    },
+    {
+      "id": "0c33941056e52ffc",
+      "title": "La Casa Blanca crea un comité para investigar a Lisa Cook, gobernadora de la FED",
+      "link": "https://www.larepublica.co/globoeconomia/la-casa-blanca-forma-un-comite-para-investigar-a-cook-de-la-reserva-federal-4500179",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "",
+      "published": "2026-10-09T15:21:49+00:00"
+    },
+    {
+      "id": "f2f73a21bb6add4b",
+      "title": "Netanyahu acusa al Comité del Nobel de perder su brújula moral tras premiar a Navi Pillay",
+      "link": "https://www.larepublica.co/globoeconomia/netanyahu-acusa-al-comite-del-nobel-de-perder-su-brujula-moral-tras-premiar-a-navi-pillay-4500174",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "En un mensaje publicado en la red social X, la oficina de Netanyahu criticó la decisión y calificó a Navi Pillay de \"fanática\"",
+      "published": "2026-10-09T15:11:22+00:00"
+    },
+    {
+      "id": "255f50d505c589a3",
+      "title": "Ahora | Gobierno pide tramitar con urgencia proyecto para adicionar $2,7 billones al Presupuesto de 2026",
+      "link": "https://www.valoraanalitik.com/gobierno-urgencia-adicion-presupuesto-2026/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La iniciativa busca incorporar recursos destinados exclusivamente a atender el terremoto del pasado 10 de agosto.",
+      "published": "2026-10-09T15:06:00+00:00"
+    },
+    {
+      "id": "461cbb22afca9f0a",
+      "title": "Noboa afirma que Guayaquil tendrá “autoridades locales dignas” durante las fiestas de independencia",
+      "link": "https://www.larepublica.co/globoeconomia/noboa-afirma-que-guayaquil-tendra-autoridades-locales-dignas-durante-las-fiestas-de-independencia-4500154",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Durante su intervención, el mandatario señaló que los futuros funcionarios deberán demostrar un profundo compromiso con la ciudadanía",
+      "published": "2026-10-09T15:01:13+00:00"
+    },
+    {
+      "id": "97a0d83cc8538120",
+      "title": "Juan Carlos Vives Menotti",
+      "link": "https://www.larepublica.co/obituarios/juan-carlos-vives-menotti-n-1945-2026-4500135",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El exgobernador del Magdalena y exviceministro del Interior hizo carrera entre la política samaria y el Gobierno nacional, donde dirigió la Dirección Nacional de Estupefacientes",
+      "published": "2026-10-09T14:58:57+00:00"
+    },
+    {
+      "id": "22c52226ea110450",
+      "title": "Gobierno firma nueve contratos de ronda minera para proyectos de oro, cobro, polimetálicos y fosfatos",
+      "link": "https://www.valoraanalitik.com/gobierno-firma-nueve-contratos-de-ronda-minera-para-proyectos-de-oro-cobro-polimetalicos-y-fosfatos/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Campos de cobre, minerales polimetálicos, oro y minerales asociados se encuentran en Antioquia, Cesar, La Guajira y Tolima; el de fosfatos está en el Huila.",
+      "published": "2026-10-09T14:54:00+00:00"
+    },
+    {
+      "id": "c773b27acae481be",
+      "title": "EE.UU, impone sanciones a la CPI a las pocas horas del anuncio del Nobel a una exjueza",
+      "link": "https://www.larepublica.co/globoeconomia/ee-uu-impone-sanciones-a-la-cpi-a-las-pocas-horas-del-anuncio-del-nobel-a-una-exjueza-4500149",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La administración estadounidense lleva tiempo mostrando hostilidad hacia la Corte y ya había impuesto sanciones a fiscales y jueces",
+      "published": "2026-10-09T14:51:12+00:00"
+    },
+    {
+      "id": "a143ff29a4abd1a0",
+      "title": "Vuelo de Avianca fue desviado preventivamente a Miami tras presentar turbulencia",
+      "link": "https://www.larepublica.co/empresas/vuelo-de-avianca-fue-desviado-preventivamente-a-miami-tras-presentar-turbulencia-4500132",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El vuelo cubría la ruta Medellín-Nueva York. Tres miembros de la tripulación y seis pasajeros presentaron afectaciones",
+      "published": "2026-10-09T14:47:39+00:00"
+    },
+    {
+      "id": "ba9cfab4f8d6619c",
+      "title": "Cox cerró contrato de venta de energía a largo plazo con EPM y busca fortalecerse en Colombia y la región",
+      "link": "https://www.valoraanalitik.com/cox-cerro-contrato-de-venta-de-energia-a-largo-plazo-con-epm-y-busca-fortalecerse-en-colombia-y-la-region/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La compañía gestiona activos de agua y energía solar y tiene una cartera de 20 proyectos fotovoltaicos en Colombia.",
+      "published": "2026-10-09T14:45:00+00:00"
+    },
+    {
+      "id": "6dfeeda618da12ca",
+      "title": "Panamá sale de la lista negra de paraísos fiscales de la Unión Europea tras más de seis años",
+      "link": "https://www.larepublica.co/globoeconomia/panama-sale-de-la-lista-negra-de-paraisos-fiscales-de-la-union-europea-tras-mas-de-seis-anos-4500133",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El país solicitó una revisión presencial del Foro Global de la Ocde, que espera realizarse durante el primer semestre de 202",
+      "published": "2026-10-09T14:44:59+00:00"
+    },
+    {
+      "id": "6d5b45ef8fdd5885",
+      "title": "La confianza del consumidor estadounidense cae a su nivel más bajo en cinco meses",
+      "link": "https://www.larepublica.co/globoeconomia/la-confianza-del-consumidor-estadounidense-cae-a-su-nivel-mas-bajo-en-cinco-meses-en-octubre-4500121",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El aumento del precio del combustible está afectando a unos consumidores ya de por sí frustrados por la inflación persistente y el creciente coste de la vida",
+      "published": "2026-10-09T14:30:53+00:00"
+    },
+    {
+      "id": "93a3ee3091d6a74f",
+      "title": "Acciones repuntan ante baja del petróleo y menor inquietud por inteligencia artificial",
+      "link": "https://www.larepublica.co/globoeconomia/acciones-repuntan-ante-baja-del-petroleo-y-menor-inquietud-por-inteligencia-artificial-4500107",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los futuros del índice de referencia de Estados Unidos subían 0,4%, mientras que los contratos del Nasdaq 100 avanzaban 0,8%.",
+      "published": "2026-10-09T14:16:11+00:00"
+    },
+    {
+      "id": "8f5de27f267074e9",
+      "title": "Así es la empresa que dos colombianos crearon en EE. UU. y que ya ha procesado más de US$10 millones en pagos",
+      "link": "https://www.valoraanalitik.com/asi-es-la-empresa-que-dos-colombianos-crearon-en-ee-uu-y-que-ya-ha-procesado-mas-de-us10-millones-en-pagos/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Blinka ofrece cuentas en dólares para empresas con operaciones internacionales y hace parte de Y Combinator.",
+      "published": "2026-10-09T14:15:00+00:00"
+    },
+    {
+      "id": "29aca8a1591f97e6",
+      "title": "Nueva Delhi despliega un dispositivo de seguridad ante la protesta por registro electoral",
+      "link": "https://www.larepublica.co/globoeconomia/nueva-delhi-despliega-un-dispositivo-de-seguridad-ante-la-protesta-por-registro-electoral-4500093",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El partido de Modi ha desestimado las manifestaciones, calificándolas de intento de la oposición por desacreditar las instituciones",
+      "published": "2026-10-09T14:06:20+00:00"
+    },
+    {
+      "id": "adedba79e55c909c",
+      "title": "Deuda externa alcanzó US$255.632 millones en julio, equivale a 50,1% del PIB",
+      "link": "https://www.larepublica.co/economia/deuda-externa-alcanzo-us-255-632-millones-en-julio-equivale-a-50-1-del-pib-4499998",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Para el mismo mes de 2025, las obligaciones externas sumaban US$221.736 millones y representaban 52,2% del PIB",
+      "published": "2026-10-09T13:49:08+00:00"
+    },
+    {
+      "id": "690f0b6f7251663b",
+      "title": "¿Qué es la tasa de cambio nominal en Colombia y cómo influye en el valor del peso frente al dólar?",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmg5NFNfdU1LU0NBeXJJSlloWE52Z2hucVM1aXFxOE84Tk5LcFVKeW1NWjlsVG0zalQ5X2FXZURFMFJPb0Q0SzFPSVFSZG91bkJhZy1rdHcxM2NUc3dOaHFSakxEaWF6akNEXzc0ZTlBT0tMd3JHN0RLVHI0LW42X0ROWXdRczRNUkhDRGE1amVLVWo4MXpSY0tBa3RNeXNNUFVxa1B4el9nUG1yX2FrRXVSbTc1MDJhUjJya9IBwgFBVV95cUxQclJLeVBPSXdvTTVDX0llRDBEM0hqX0dLZXpkcEY0eEVPV3RqaWZiQVJVZXRTaUZjRi1GV0Z3MzlGREdNTHJMQjZhN3VZbmFtVEExQUV0N3hnalN3Z0tQZ2trdUtJQS1rWGpwcDM3NUV3OHFoY1E4RDZSamN6LXhFRGI0SmR0RGRibnM4MFUxSUY5NVN1NmdTYnMwZmtNaEFUOTVZYW00WU9fV0RZQXZ3dzhFX3hwb04tdXNKLXVTQWZ3dw?oc=5",
+      "source": "Pulzo",
+      "category": "Dólar y TRM",
+      "summary": "¿Qué es la tasa de cambio nominal en Colombia y cómo influye en el valor del peso frente al dólar? &nbsp;&nbsp; Pulzo",
+      "published": "2026-10-09T13:36:13+00:00"
+    },
+    {
+      "id": "c7290471a27fb3a3",
+      "title": "Dólar en Colombia abre a la baja en $3.212 ante caída de precios del petróleo y menor presión en bonos de EE. UU.",
+      "link": "https://www.valoraanalitik.com/dolar-en-colombia-abre-a-la-baja-caida-precios-petroleo-menor-presion-bonos-ee-uu/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El mercado ve con buenos ojos los recientes mensajes del presidente Trump, quien descartó, por ahora, un ataque militar contra Irán.",
+      "published": "2026-10-09T13:35:00+00:00"
+    },
+    {
+      "id": "ea5cc5f46af1a8d2",
+      "title": "Senador Enrique Gómez pide a Ecopetrol investigar ventas de polietileno a empresa Química Comercial Andina",
+      "link": "https://www.eltiempo.com/economia/sectores/senador-enrique-gomez-pide-a-ecopetrol-investigar-ventas-de-polietileno-a-empresa-quimica-comercial-andina-3592398",
       "source": "El Tiempo - Economía",
       "category": "fuente directa",
-      "summary": "La iniciativa busca que las autoridades que intervienen en el proceso exportador trabajen de manera coordinada.",
-      "published": "2026-10-08T23:37:11+00:00"
+      "summary": "En la petición se relaciona a dicha empresa con la familia de Juanita León, de La Silla Vacía, medio que explicó que fue vendida en 2021.",
+      "published": "2026-10-09T13:29:14+00:00"
     },
     {
-      "id": "30be7421dc1b38c3",
-      "title": "De la Espriella Lawyers negó alianza en la defensa de Ricardo Orrego tras señalamientos por una supuesta red: anunció acciones legales",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQY2lIY2JYNldmZlllTG02SnlXb1dhY01SR2lrMVNCN3hsbTdpRkNPdE1WMG1vTVE4NWR4X3hpeUhaNzVUdlhwU28xMHhZb1BFUWZKVW1POHcxbFlmY1NRakt5UXpTV0ZUR1I1dE5wbFBTZUt1VnRRRFNSYjdWRjBtdEhaTC1BLXkxR3pJb25MN29rM25UbHVIV1BCTlNCdTBQVHkxWk1tXzBibWVXUXFKcHY4ekxMV0hNejFsOXZmMThJei1mVV8ybng2U05Ycm9UdlVDcG1ONkJIeE10Yk5QbHFqRWFLNHJaVE5YMXNpb1hkeVNBeWl2Q3pGOWwwQ094Nk9OVHNOck5ad9IBpAJBVV95cUxPOHlCU2hMRUpfOEtTSGxaSE4xNGtWQVhSTDAwenRhTnRpZ0xEU3FFWHQ2YWlhUDBrNVRGdEFrQ0tPV2RqRVMtQ2hNTnAzalo3dUVMSUlBMnpUQXhMaDJ1Z2pjWGZHRk42dE1wYzNfaGQ4TlFjRGgzQkRLQllMSy1tMzg5cHB6U2pOU3dHbXNsUVpfM19tbDVpNTJKenI3MVZ0S1gyTk9POWVhMFJaNXp5aXU1M0VyMEpOYWU5YkJIR3doYktRcHlMSm5Lb1g1NVQ5RmV6OXNCVVVwWXkxZUF2MlVzWDlfSjg4TkZvZmQydF9jQWMzZVVDeUhUbE9KZk9JZ01jUnRDenByX1V4bFg5b1dIcF81VjBMTGxyS250T2JIZ2JK?oc=5",
-      "source": "Infobae",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "De la Espriella Lawyers negó alianza en la defensa de Ricardo Orrego tras señalamientos por una supuesta red: anunció acciones legales &nbsp;&nbsp; Infobae",
-      "published": "2026-10-08T23:33:09+00:00"
+      "id": "b2b55e14215e30cd",
+      "title": "Uruguay busca medidas fiscales para mejorar la competitividad del comercio frente a Brasil",
+      "link": "https://www.larepublica.co/globoeconomia/uruguay-busca-medidas-fiscales-para-mejorar-la-competitividad-del-comercio-frente-a-brasil-4500021",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Las empresas fronterizas de Uruguay sostienen que deben compensar la caída en las ventas por el ingreso de productos desde Brasil",
+      "published": "2026-10-09T13:25:43+00:00"
     },
     {
-      "id": "99e1bacf51f9e9e0",
-      "title": "Sacyr prevé cerrar financiación del Canal del Dique en diciembre y arrancar obras en 2027",
-      "link": "https://www.valoraanalitik.com/canal-del-dique-obras-comenzarian-en-2027/",
+      "id": "3f3d0f213f1b25f1",
+      "title": "Chile declara zona de catástrofe tras aluvión provocado por intensas lluvias en Santiago",
+      "link": "https://www.larepublica.co/globoeconomia/chile-declara-zona-de-catastrofe-tras-aluvion-provocado-por-intensas-lluvias-en-santiago-4500028",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Según el Servicio Nacional de Prevención y Respuesta ante Desastres, Senapred, varias personas quedaron atrapadas en vehículos",
+      "published": "2026-10-09T13:19:56+00:00"
+    },
+    {
+      "id": "2ec214141f95749f",
+      "title": "Plataform abrió posibilidad de inversión en sus acciones desde $5 millones",
+      "link": "https://www.larepublica.co/finanzas/plataform-abrio-posibilidad-de-inversion-en-sus-acciones-desde-un-minimo-de-5-millones-4500024",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La fintech alcanzó su punto de equilibrio durante el año pasado y proyecta una utilidad antes de impuestos superior a US$1 millón",
+      "published": "2026-10-09T13:17:32+00:00"
+    },
+    {
+      "id": "447f52edbe6fc8b2",
+      "title": "Pese a los esfuerzos de Trump, los precios del diésel en EE. UU. continúan cerca de máximos históricos",
+      "link": "https://www.valoraanalitik.com/pese-a-los-esfuerzos-de-trump-los-precios-del-diesel-en-ee-uu-continuan-cerca-de-maximos-historicos/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "El proyecto contempla 40 meses de trabajos y la generación de cerca de 60.000 empleos en 18 municipios de Atlántico, Bolívar y Sucre.",
-      "published": "2026-10-08T23:30:00+00:00"
+      "summary": "Los conflictos geopolíticos en Ucrania e Irán están presionando el precio de este combustible.",
+      "published": "2026-10-09T13:15:00+00:00"
     },
     {
-      "id": "2c90d33a83934c09",
-      "title": "Parmalat revive los peluches de los años 90 con inversión de más de un millón de dólares",
-      "link": "https://www.eltiempo.com/economia/empresas/parmalat-revive-los-peluches-de-los-anos-90-con-inversion-de-mas-de-un-millon-de-dolares-3592357",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La compañía relanza su colección de peluches como parte de su estrategia de crecimiento y conexión con nuevas generaciones.",
-      "published": "2026-10-08T23:22:56+00:00"
-    },
-    {
-      "id": "891d55836878257a",
-      "title": "Meta prohíbe a TikTok anunciarse en sus aplicaciones en medio de una creciente disputa",
-      "link": "https://www.larepublica.co/globoeconomia/meta-prohibe-a-tiktok-anunciarse-en-sus-aplicaciones-en-medio-de-una-creciente-disputa-4499768",
+      "id": "e1df4df8d1257a47",
+      "title": "Zohran Mamdani exige el fin de las operaciones del ICE tras el tiroteo en Nueva York",
+      "link": "https://www.larepublica.co/globoeconomia/mamdani-exige-el-fin-de-las-operaciones-del-ice-tras-el-tiroteo-en-nueva-york-4500005",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "Otras plataformas tecnológicas de consumo también han generado fricciones entre sus productos y los de la competencia",
-      "published": "2026-10-08T23:21:42+00:00"
+      "summary": "Mamdani reiteró su petición de que se abola el ICE, afirmando que no se quedaría de brazos cruzados mientras los agentes \"aterrorizan a nuestras comunidades\"",
+      "published": "2026-10-09T13:06:01+00:00"
     },
     {
-      "id": "c89fbef34bf62db8",
-      "title": "Cotelco resaltó menor incremento en las tarifas de alojamiento frente al IPC",
-      "link": "https://www.larepublica.co/economia/cotelco-resalto-menor-incremento-en-las-tarifas-de-alojamiento-frente-al-ipc-4499710",
+      "id": "b9a9e1aab9892d61",
+      "title": "El dólar cotiza en la jornada $17,44 por debajo de la TRM, a un precio de $3.201",
+      "link": "https://www.larepublica.co/finanzas/precio-del-dolar-y-petroleo-hoy-9-de-octubre-de-2026-4499926",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "José Andrés Duarte, presidente ejecutivo de Cotelco, afirmó que los establecimientos han buscado contener el traslado de los mayores costos operativos a las tarifas",
-      "published": "2026-10-08T23:06:38+00:00"
+      "summary": "Los futuros del crudo brent LCOc1 bajaban US$1,37, o 1,3%, hasta situarse en US$102,91 el barril; los futuros del crudo",
+      "published": "2026-10-09T13:03:48+00:00"
     },
     {
-      "id": "9737f434bcb0d83b",
-      "title": "De la Espriella pone la lupa sobre la situación financiera del Fomag",
-      "link": "https://www.larepublica.co/economia/de-la-espriella-pone-la-lupa-sobre-la-situacion-financiera-del-fomag-4499722",
+      "id": "65f93b934d1dd16e",
+      "title": "Keiko Fujimori pide al Congreso superar diferencias y otorgar facultades para combatir la delincuencia",
+      "link": "https://www.larepublica.co/globoeconomia/keiko-fujimori-pide-al-congreso-superar-diferencias-y-otorgar-facultades-para-combatir-la-delincuencia-4499969",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "El anuncio se da después que el Consejo Directivo del Fomag, aprobara el traslado de $859.000 millones al presupuesto",
-      "published": "2026-10-08T23:00:32+00:00"
+      "summary": "Fujimori dirigió su mensaje a los congresistas encargados de evaluar el pedido de facultades legislativas formulado por el Ejecutivo",
+      "published": "2026-10-09T12:58:30+00:00"
     },
     {
-      "id": "b278fbee443aa84a",
-      "title": "Analdex advierte sobrecosto de casi $100.000 millones al año por sobretasa a la carga en Buenaventura",
-      "link": "https://www.valoraanalitik.com/analdex-advierte-sobrecosto-de-casi-100-000-millones-al-ano-por-sobretasa-a-la-carga-en-buenaventura/",
-      "source": "Valora Analitik",
+      "id": "df3cfeeb4fa7aaae",
+      "title": "La inflación en Brasil supera el techo objetivo antes de la segunda vuelta presidencial",
+      "link": "https://www.larepublica.co/globoeconomia/la-inflacion-en-brasil-supera-el-techo-objetivo-antes-de-la-segunda-vuelta-presidencial-4499992",
+      "source": "La República",
       "category": "fuente directa",
-      "summary": "La tarifa equivale a un pago adicional de $127.050 por un tractocamión con 30 toneladas, según cálculos del gremio.",
-      "published": "2026-10-08T23:00:00+00:00"
+      "summary": "El banco central tiene como objetivo una inflación de 3%, con un margen de tolerancia de 1,5 puntos porcentuales en cualquier dirección",
+      "published": "2026-10-09T12:53:30+00:00"
     },
     {
       "id": "f5528b3fdce920f7",
@@ -99,448 +378,169 @@
       "source": "El Tiempo - Economía",
       "category": "fuente directa",
       "summary": "El proyecto “Conectar para Transformar” fue reconocido por el BID por ampliar la cobertura 4G en zonas rurales del país.",
-      "published": "2026-10-08T22:49:05+00:00"
+      "published": "2026-10-09T12:53:06+00:00"
     },
     {
-      "id": "bf5c858e88b68f0d",
-      "title": "Analdex alertó por sobrecostos de hasta $91.000 millones por cobro en Buenaventura",
-      "link": "https://www.larepublica.co/economia/analdex-alerto-por-sobrecostos-de-hasta-91-000-millones-por-cobro-en-buenaventura-4499618",
+      "id": "3cecdd127d794762",
+      "title": "Netflix tiene previsto recortar alrededor de 5% de su plantilla, según informa Puck News",
+      "link": "https://www.larepublica.co/globoeconomia/netflix-tiene-previsto-recortar-un-5-de-su-plantilla-segun-informa-puck-news-4499987",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "El gremio señaló que el cobro aumentaría los costos de las exportaciones colombianas y podría reducir su competitividad en los mercados internacionales",
-      "published": "2026-10-08T22:41:59+00:00"
+      "summary": "La última ronda importante de despidos del gigante del \"streaming\" tuvo lugar en 2022, cuando la empresa eliminó cientos de puestos de trabajo",
+      "published": "2026-10-09T12:47:46+00:00"
     },
     {
-      "id": "259b5669c8474ac5",
-      "title": "Cesar vive un ‘boom’ de proyectos solares: inversiones podrían superar los US$500 millones",
-      "link": "https://www.valoraanalitik.com/cesar-vive-un-boom-de-proyectos-solares-inversiones-podrian-superar-los-us500-millones/",
+      "id": "48a3ba41938b4eec",
+      "title": "Silvia Tcherassi recibe en Madrid el Premio Influencia Hispana por su trayectoria",
+      "link": "https://www.larepublica.co/ocio/silvia-tcherassi-recibe-en-madrid-el-premio-influencia-hispana-por-su-trayectoria-4499974",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La diseñadora colombiana fue reconocida en la categoría de Moda por su creatividad, proyección internacional y aporte a la identidad hispana. La ceremonia se realizó en los Teatros del Canal, en Madrid",
+      "published": "2026-10-09T12:44:37+00:00"
+    },
+    {
+      "id": "8012b7454ff0827e",
+      "title": "China y la UE pactan sobre vehículos híbridos y mantienen negociaciones por los eléctricos",
+      "link": "https://www.larepublica.co/globoeconomia/china-y-la-ue-pactan-sobre-vehiculos-hibridos-y-mantienen-negociaciones-por-los-electricos-4499983",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El ministro de Comercio de China y el comisario de Comercio de la UE, alcanzaron entendimientos sobre comercio, inversión y acceso a mercados",
+      "published": "2026-10-09T12:43:17+00:00"
+    },
+    {
+      "id": "31393c40f435781b",
+      "title": "En cierre de año cafetero 2025-2026 producción cayó en 2,21 millones de sacos",
+      "link": "https://www.larepublica.co/economia/en-cierre-de-ano-cafetero-2025-2026-produccion-cayo-en-2-21-millones-de-sacos-4499915",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "En septiembre se produjeron 1,21 millones de sacos, un crecimiento de 6% frente a 1,14 millones registrados en 2025",
+      "published": "2026-10-09T12:34:27+00:00"
+    },
+    {
+      "id": "48c403da7d1a5a2f",
+      "title": "Estados Unidos ejecutará públicamente a un exsoldado con un pelotón de fusilamiento",
+      "link": "https://www.larepublica.co/globoeconomia/eeuu-ejecutara-publicamente-a-un-exsoldado-con-un-peloton-de-fusilamiento-4499944",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Trump lleva décadas defendiendo la pena de muerte y firmó una orden ejecutiva que restablece la pena capital el primer día de su segundo mandato",
+      "published": "2026-10-09T12:20:00+00:00"
+    },
+    {
+      "id": "6a8eb79432009bce",
+      "title": "La electricidad fue la que jaló al alza la canasta energética en la inflación de septiembre",
+      "link": "https://www.valoraanalitik.com/la-electricidad-fue-la-que-jalo-al-alza-la-canasta-energetica-en-la-inflacion-de-septiembre/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "SER Colombia reveló que este departamento colombiano es el segundo más importante para la generación solar, tan solo detrás de Atlántico.",
-      "published": "2026-10-08T22:30:00+00:00"
+      "summary": "Esto se produce en un contexto en el que Colombia atraviesa un fenómeno de El Niño y registra una creciente importación de gas.",
+      "published": "2026-10-09T12:10:00+00:00"
     },
     {
-      "id": "333555e664b9d889",
-      "title": "Economía circular suma casos en empresas de Colombia: las historias de sostenibilidad que se encontraron en el Zero Waste Summit 2026",
-      "link": "https://www.eltiempo.com/economia/economia-circular-suma-casos-en-empresas-de-colombia-las-historias-de-sostenibilidad-que-se-encontraron-en-el-zero-waste-summit-3592313",
-      "source": "El Tiempo - Economía",
+      "id": "e67efa84a83e5fc7",
+      "title": "Operarios de mina chilena Centinela mantienen huelga y advierten que impacto producción",
+      "link": "https://www.larepublica.co/globoeconomia/operarios-de-la-mina-chilena-centinela-mantienen-la-huelga-y-advierten-que-el-impacto-en-la-produccion-se-vera-en-noviembre-4499953",
+      "source": "La República",
       "category": "fuente directa",
-      "summary": "Terpel, Auteco, Vive Claro y la Alcaldía de Medellín presentaron en Bogotá sus proyectos de economía circular. Se entregaron 79 reconocimientos.",
-      "published": "2026-10-08T22:15:22+00:00"
+      "summary": "El efecto en la producción de cobre se evidenciará a plenitud en noviembre, con una disminución de cerca de 50%\", dijeron gremios en comunicado",
+      "published": "2026-10-09T12:09:05+00:00"
     },
     {
-      "id": "ad80515814fa8910",
-      "title": "Bancolombia acuerda aumento salarial del 10,15 % y más beneficios en salud y vivienda para 11.000 empleados",
-      "link": "https://www.eltiempo.com/economia/sector-financiero/bancolombia-acuerda-aumento-salarial-del-10-15-y-mas-beneficios-en-salud-y-vivienda-para-11-000-empleados-3592329",
-      "source": "El Tiempo - Economía",
+      "id": "41aeba1aa296594a",
+      "title": "Pilar Quintana convierte a Caperucita en una mujer que enfrenta el deseo y la violencia",
+      "link": "https://www.larepublica.co/ocio/pilar-quintana-convierte-a-caperucita-en-una-mujer-que-enfrenta-el-deseo-la-violencia-y-sus-propios-lobos-4498431",
+      "source": "La República",
       "category": "fuente directa",
-      "summary": "La nueva convención colectiva de trabajo firmada con los sindicatos Uneb y Sintrabancol tendrá una vigencia de cuatro años.",
-      "published": "2026-10-08T22:05:36+00:00"
+      "summary": "En Caperucita se come al lobo, la escritora colombiana Pilar Quintana reúne ocho relatos que exploran la sexualidad, la pasión y las contradicciones humanas a través de historias crudas e incómodas",
+      "published": "2026-10-09T12:00:54+00:00"
     },
     {
-      "id": "0940eb5f5954a26c",
-      "title": "Nueva colaboración entre Bon Bon Bum y J Balvin proyecta llevar 55 millones de bombones a 15 países",
-      "link": "https://www.valoraanalitik.com/nueva-colaboracion-entre-bon-bon-bum-y-j-balvin-proyecta-llevar-55-millones-de-bombones-a-15-paises/",
+      "id": "b37d96bdf469c25d",
+      "title": "Apple reduce hasta 15% de los pedidos del iPhone 18 Pro tras una débil demanda",
+      "link": "https://www.larepublica.co/globoeconomia/apple-recorta-los-pedidos-del-iphone-18-pro-por-la-escasa-demanda-4499942",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El fabricante del iPhone ha adoptado una postura más cautelosa respecto a los envíos, con un recorte de al menos 15%",
+      "published": "2026-10-09T11:59:43+00:00"
+    },
+    {
+      "id": "88f13a5886cc4024",
+      "title": "Flávio Bolsonaro promete cambiar la política climática y amazónica de Brasil",
+      "link": "https://www.larepublica.co/globoeconomia/flavio-bolsonaro-promete-cambiar-radicalmente-la-politica-climatica-y-amazonica-de-brasil-4499938",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Bolsonaro apoya la expansión de la producción petrolera en la desembocadura del río Amazonas, una de las iniciativas más controvertidas de Lula",
+      "published": "2026-10-09T11:55:40+00:00"
+    },
+    {
+      "id": "b23f71cf3eb0e126",
+      "title": "Premercado | Mercados se recuperan tras perspectivas de ingresos de OpenAI y caída del petróleo por anuncios de Trump",
+      "link": "https://www.valoraanalitik.com/premercado-mercados-se-recuperan-tras-perspectivas-de-ingresos-de-openai-y-caida-del-petroleo-por-anuncios-de-trump/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "Bon Bon Bum concentra el 78 % de participación de mercado y una distribución superior al 80 % del territorio colombiano.",
-      "published": "2026-10-08T22:00:00+00:00"
+      "summary": "Trump afirmó que EE. UU. no atacaría a Irán \"en ningún momento\" antes de las próximas elecciones de mitad de mandato.",
+      "published": "2026-10-09T11:46:02+00:00"
     },
     {
-      "id": "9e2dc5526ae20866",
-      "title": "Bancolombia aportó 46,6% de la financiación a Altia para adquisición de portafolio",
-      "link": "https://www.larepublica.co/finanzas/bancolombia-aporto-46-6-de-la-financiacion-a-altia-para-adquisicion-de-portafolio-a-isagen-4499464",
+      "id": "328c2a1f99114f27",
+      "title": "María Corina Machado pide que se celebren elecciones en Venezuela antes de julio",
+      "link": "https://www.larepublica.co/globoeconomia/maria-corina-machado-pide-que-se-celebren-elecciones-en-venezuela-antes-de-julio-4499935",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "El banco, junto con otras cinco entidades, entregaron $1,29 billones a Altia para la incorporación de 219 MW de generación renovable",
-      "published": "2026-10-08T21:58:11+00:00"
+      "summary": "Corina Machado también reclamó transparencia en la gestión de los ingresos procedentes de las ventas de petróleo de Venezuela",
+      "published": "2026-10-09T11:43:39+00:00"
     },
     {
-      "id": "27fdfb7a4d622061",
-      "title": "MinTrabajo crea mesa técnica para revisar situación laboral por liquidación de Igualdad",
-      "link": "https://www.larepublica.co/economia/mintrabajo-crea-mesa-tecnica-para-revisar-situacion-laboral-por-liquidacion-de-igualdad-4499605",
+      "id": "cce6df2177a0f813",
+      "title": "El petróleo retrocede mientras Trump descarta ataques contra Irán antes de las elecciones",
+      "link": "https://www.larepublica.co/globoeconomia/el-petroleo-retrocede-mientras-trump-descarta-ataques-contra-iran-antes-de-las-elecciones-4499925",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "La medida se acordó durante una reunión liderada por la ministra del Trabajo, Natalia López Fuentes, y el ministro liquidador, John Milton Rodríguez González",
-      "published": "2026-10-08T21:41:36+00:00"
+      "summary": "Los futuros repuntaron esta semana por los nuevos ataques iraníes contra petroleros, que incrementaron los riesgos para los buques",
+      "published": "2026-10-09T11:34:58+00:00"
     },
     {
-      "id": "a3fd33eef2dbc3d9",
-      "title": "Los gremios piden suspender el cobro de 4.235 pesos por tonelada en Buenaventura y alertan por el impacto en los costos logísticos",
-      "link": "https://www.eltiempo.com/economia/sectores/los-gremios-piden-suspender-el-cobro-de-4-235-pesos-por-tonelada-en-buenaventura-y-alertan-por-el-impacto-en-los-costos-logisticos-3592299",
-      "source": "El Tiempo - Economía",
+      "id": "241f5d42783d90f5",
+      "title": "Maresca defiende al Manchester City y asegura que sus títulos no están manchados",
+      "link": "https://www.larepublica.co/ocio/maresca-defiende-al-manchester-city-y-asegura-que-sus-titulos-no-estan-manchados-4499920",
+      "source": "La República",
       "category": "fuente directa",
-      "summary": "Asocaña, ANDI, Fenavi y transportadores cuestionan el nuevo cobro y piden revisar su impacto en los costos.",
-      "published": "2026-10-08T21:40:09+00:00"
+      "summary": "Se trata del primer partido del líder de la liga desde que fue declarado culpable de más de 100 infracciones graves de las normas financieras de la Premier",
+      "published": "2026-10-09T11:33:21+00:00"
     },
     {
-      "id": "1f629cc554b7293b",
-      "title": "Fondos de pensiones tuvieron compras récord de TES en Colombia en septiembre",
-      "link": "https://www.valoraanalitik.com/fondos-de-pensiones-tuvieron-compras-record-de-tes-en-colombia-en-septiembre/",
+      "id": "71a1ffd2965d3137",
+      "title": "Esta es la lista de los alimentos en Colombia que más suben y bajan de precio",
+      "link": "https://www.valoraanalitik.com/esta-es-la-lista-de-los-alimentos-en-colombia-que-mas-suben-y-bajan-de-precio/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "Los Fondos de pensiones lideraron la demanda de deuda pública interna en un mes marcado por el repunte de tasas y tensiones fiscales globales.",
-      "published": "2026-10-08T21:40:00+00:00"
+      "summary": "El precio de los alimentos en Colombia seguirá condicionado a cierre de este año.",
+      "published": "2026-10-09T11:30:00+00:00"
     },
     {
-      "id": "534f513f70d28edf",
-      "title": "Oracle transporta gas en camiones para evitar retrasos en suministro de centros de datos",
-      "link": "https://www.larepublica.co/globoeconomia/oracle-transporta-gas-en-camiones-para-evitar-retrasos-en-el-suministro-electrico-de-sus-centros-de-datos-4499574",
+      "id": "a050e457dbcf9e10",
+      "title": "El oro sube mientras que la demanda en las subastas reduce los rendimientos de los bonos",
+      "link": "https://www.larepublica.co/finanzas/el-oro-sube-mientras-que-la-demanda-en-las-subastas-reduce-los-rendimientos-de-los-bonos-4499910",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "Oracle también está utilizando este método para iniciar los trabajos en uno de sus campus, que se está construyendo para OpenAI en el condado de Shackelford",
-      "published": "2026-10-08T21:35:51+00:00"
+      "summary": "El oro subió hasta 1,8%, cotizando por encima de los US$4.200 la onza, extendiendo las ganancias desde el mínimo de dos meses alcanzado a principios de esta semana",
+      "published": "2026-10-09T11:29:17+00:00"
     },
     {
-      "id": "2d7ff48845dde3a0",
-      "title": "Findeter recibió autorización para emitir bonos por un valor de hasta $300.000 millones",
-      "link": "https://www.larepublica.co/finanzas/findeter-recibio-autorizacion-para-emitir-bonos-por-un-valor-de-hasta-300-000-millones-4499406",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La Superintendencia Financiera de Colombia autorizó el 6 de octubre la emisión de bonos ordinarios de la banca Findeter",
-      "published": "2026-10-08T21:35:48+00:00"
-    },
-    {
-      "id": "853fd7cf6386ec8f",
-      "title": "Comestibles Ricos, que tiene marcas como Todo Rico, Tajamiel y Súper Ricas, cumple 65 años y prepara su expansión: esta es su nueva apuesta",
-      "link": "https://www.valoraanalitik.com/comestibles-ricos-que-tiene-marcas-como-todo-rico-tajamiel-y-super-ricas-cumple-65-anos-y-prepara-su-expansion-esta-es-su-nueva-apuesta/",
+      "id": "0e517ce65cac34b1",
+      "title": "Video | Índice MSCI Colcap cierra con un retroceso de 0,36 %",
+      "link": "https://www.valoraanalitik.com/video-indice-msci-colcap-cierra-con-un-retroceso-de-036/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "Comestibles Ricos celebra 65 años mientras ajusta su estrategia para crecer en Colombia y fortalecer sus exportaciones.",
-      "published": "2026-10-08T21:20:00+00:00"
+      "summary": "El índice MSCI Colcap continua con un desplazamiento alcista",
+      "published": "2026-10-09T11:26:01+00:00"
     },
     {
-      "id": "a2e6ae3a0b5c1626",
-      "title": "Erasmo Zuleta se reunió con MinHacienda para fortalecer las finanzas de Córdoba",
-      "link": "https://www.larepublica.co/economia/erasmo-zuleta-se-reunio-con-minhacienda-para-fortalecer-las-finanzas-de-cordoba-4499554",
+      "id": "a092d6dd8fdf100e",
+      "title": "Russell logra con Mercedes el mejor tiempo en la primera sesión de Singapur",
+      "link": "https://www.larepublica.co/ocio/russell-logra-con-mercedes-el-mejor-tiempo-en-la-unica-sesion-de-entrenamientos-de-singapur-4499914",
       "source": "La República",
       "category": "fuente directa",
-      "summary": "Según explicó, la reunión también contó con parte del equipo del Ministerio de Hacienda y se abordaron cuatro ejes principales para apoyar a la región",
-      "published": "2026-10-08T21:06:39+00:00"
-    },
-    {
-      "id": "82ad1686fcfb2661",
-      "title": "Trump propone cobrar US$70.000 a estudiantes internacionales por permiso de trabajo",
-      "link": "https://www.larepublica.co/globoeconomia/trump-propone-cobrar-us-70-000-a-estudiantes-internacionales-por-permiso-de-trabajo-4499553",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Las numerosas críticas advierten que estas tarifas podrían perjudicar la innovación y generar costos para los contribuyentes",
-      "published": "2026-10-08T21:02:27+00:00"
-    },
-    {
-      "id": "f4f3595a1b063abf",
-      "title": "Scott, Guetta y Charli XCX: así construyeron sus fortunas estrellas del Estéreo Picnic 2027",
-      "link": "https://www.larepublica.co/ocio/scott-guetta-y-charli-xcx-asi-construyeron-sus-fortunas-estrellas-del-estereo-picnic-2027-4499509",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los tres artistas que encabezan el cartel del festival en Bogotá reúnen un patrimonio estimado de US$290 millones, impulsado por conciertos, regalías, catálogos musicales, marcas y acuerdos comerciales",
-      "published": "2026-10-08T21:01:30+00:00"
-    },
-    {
-      "id": "b4c1912f6b423beb",
-      "title": "Claves del reporte mensual de facturación electrónica que envía la DIAN: ¿qué se debe revisar?",
-      "link": "https://www.valoraanalitik.com/claves-del-reporte-mensual-de-facturacion-electronica-que-envia-la-dian-que-se-debe-revisar/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "De acuerdo con Saphety, el reporte presenta información tanto de los documentos electrónicos generados como de aquellos recibidos por el facturador.",
-      "published": "2026-10-08T21:00:00+00:00"
-    },
-    {
-      "id": "aeb3a9cbb23fbd98",
-      "title": "Flávio Bolsonaro promete cooperar con EE.UU. y China sin tomar partido entre ambos países",
-      "link": "https://www.larepublica.co/globoeconomia/flavio-bolsonaro-promete-trabajar-con-ee-uu-y-china-no-voy-a-elegir-bandos-4499550",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "\"Mi bando será el pueblo brasileño, ya sea que tratemos con China, Israel, Medio Oriente, Argentina o India. No importa\", aseguró Bolsonaro",
-      "published": "2026-10-08T20:39:41+00:00"
-    },
-    {
-      "id": "55283a5eb4072c7d",
-      "title": "Dólar estabilizado cerca de los $3.240 COP tras dato de inflación anual de 6,29%",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0YtMjZtVGZPTXpGQzFoOXBWYVJZVENlUHpCZUlrY1hlZmNRN1VOZzVBRmdXM21YeEd6eHp0ZE9BUFVpMzhJVzZQUWZJX29DSDdMZEZuTHd5OEx4UkQ1TDA3Z3o2NVU1cFlIZnphZ01lbV9CLXRITy1FRVp0VmxLWWo5aUN1SFNIcWJteUxqaG1OODY4Q0JjTWxFQzJGUld2?oc=5",
-      "source": "La FM",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "Dólar estabilizado cerca de los $3.240 COP tras dato de inflación anual de 6,29% &nbsp;&nbsp; La FM",
-      "published": "2026-10-08T20:39:22+00:00"
-    },
-    {
-      "id": "879a22b0abc1f637",
-      "title": "Jungle Labs y Rappi presentan nueva línea de suplementos nutricionales en Colombia",
-      "link": "https://www.larepublica.co/empresas/jungle-labs-y-rappi-presentan-nueva-linea-de-suplementos-nutricionales-en-colombia-4499544",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Jungle Labs presentó en Colombia una nueva línea de nutrición funcional diaria distribuida de forma exclusiva mediante Rappi Turbo",
-      "published": "2026-10-08T20:17:04+00:00"
-    },
-    {
-      "id": "6c9608bcf3cceea9",
-      "title": "Los ingresos de OpenAI alcanzarían US$50.000 millones, por debajo de lo previsto",
-      "link": "https://www.larepublica.co/globoeconomia/los-ingresos-de-openai-alcanzarian-us-50-000-millones-por-debajo-de-lo-previsto-4499540",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Algunos medios informaron el mes pasado que OpenAI ya iba camino a generar cerca de US$70.000 millones en ingresos anualizados",
-      "published": "2026-10-08T20:06:28+00:00"
-    },
-    {
-      "id": "4c6f8337fa266d96",
-      "title": "Coopidrogas movilizó $25.990 millones en mercancía tras el terremoto: así mantuvo el abastecimiento de droguerías tras el sismo",
-      "link": "https://www.eltiempo.com/economia/coopidrogas-movilizo-25-990-millones-en-mercancia-tras-el-terremoto-asi-mantuvo-el-abastecimiento-de-droguerias-tras-el-sismo-3592283",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Dos de sus seis sedes logísticas resultaron afectadas por el sismo del 10 de agosto. La cooperativa redirigió pedidos desde Bogotá, Cota y Medellín.",
-      "published": "2026-10-08T20:00:32+00:00"
-    },
-    {
-      "id": "e99aacd88b68a4b6",
-      "title": "Troncales del Magdalena se acercan al 50 % de ejecución tras dos años de obras",
-      "link": "https://www.valoraanalitik.com/troncales-del-magdalena-se-acercan-al-50-de-ejecucion-tras-dos-anos-de-obras/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Contempla la construcción de 9 variantes, que contribuirán a mejorar la movilidad, fortalecer la seguridad vial y facilitar la conexión entre los municipios.",
-      "published": "2026-10-08T20:00:00+00:00"
-    },
-    {
-      "id": "bd778f59f645cc42",
-      "title": "Fondos de pensiones: ¿invertir más en el exterior puede mejorar la rentabilidad de su ahorro?",
-      "link": "https://www.valoraanalitik.com/fondos-de-pensiones-invertir-mas-en-el-exterior-puede-mejorar-la-rentabilidad-de-su-ahorro/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Los fondos de pensiones tendrán mayor margen para diversificar sus inversiones; expertos explican qué puede cambiar para el ahorro de los afiliados.",
-      "published": "2026-10-08T19:40:00+00:00"
-    },
-    {
-      "id": "f9fe3744567db441",
-      "title": "Matrículas de vehículos eléctricos sumaron 39.784 unidades a septiembre de 2026",
-      "link": "https://www.larepublica.co/empresas/matriculas-de-vehiculos-electricos-sumaron-39-784-unidades-a-septiembre-de-2026-4499460",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Entre enero y septiembre de 2026 se registraron 39.784 vehículos eléctricos matriculados en el país, lo que representó un incremento de 221,7%",
-      "published": "2026-10-08T19:23:37+00:00"
-    },
-    {
-      "id": "3c215a7b2b2ff6c1",
-      "title": "Inflaciones básicas en Colombia se moderan en septiembre y dan un respiro al mercado",
-      "link": "https://www.valoraanalitik.com/inflaciones-basicas-en-colombia-se-moderan-en-septiembre-y-dan-un-respiro-al-mercado/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Las inflaciones básicas o subyacentes, que calcula el Banco de la República, registraron una moderación generalizada tras el alza observada en el mes anterior.",
-      "published": "2026-10-08T19:22:00+00:00"
-    },
-    {
-      "id": "dff97ca35cf49162",
-      "title": "Gobierno activa ruta para recuperar empresas, empleo y turismo en Risaralda",
-      "link": "https://www.eltiempo.com/economia/sectores/gobierno-activa-ruta-para-recuperar-empresas-empleo-y-turismo-en-risaralda-3592276",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Gobierno anuncia financiación, alivios, promoción turística y nuevas opciones de conectividad para Risaralda.",
-      "published": "2026-10-08T19:15:38+00:00"
-    },
-    {
-      "id": "133ba895fb8b8b95",
-      "title": "Delcy Rodríguez proyecta crecimiento de 6,5% en economía venezolana para restamte de 2026",
-      "link": "https://www.larepublica.co/globoeconomia/delcy-rodriguez-proyecta-crecimiento-de-6-5-en-economia-venezolana-para-restamte-de-2026-4499501",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Rodríguez agregó que estima que Venezuela recibirá financiamiento público y privado por US$12.000 millones en los próximos dos años",
-      "published": "2026-10-08T18:52:03+00:00"
-    },
-    {
-      "id": "17d50af1e45f7794",
-      "title": "Pietrán proyecta comercializar más de 13 millones de paquetes cárnicos y y diversifica pescados",
-      "link": "https://www.larepublica.co/empresas/pietran-proyecta-comercializar-mas-de-13-millones-de-paquetes-carnicos-y-y-diversifica-pescados-4499491",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Pietrán de Nutresa, presentó en Colombia una estrategia centrada en la distribución de proteínas cárnicas y pescados con menores cargas de sodio",
-      "published": "2026-10-08T18:45:08+00:00"
-    },
-    {
-      "id": "bcdcb042afb3991d",
-      "title": "Andi estima alza de $84.000 millones en costos por cobro en Buenaventura",
-      "link": "https://www.larepublica.co/economia/andi-estima-alza-de-84-000-millones-en-costos-por-cobro-en-buenaventura-4499474",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La preocupación del gremio radica en la importancia del puerto para el abastecimiento de alimentos y materia prima",
-      "published": "2026-10-08T18:41:44+00:00"
-    },
-    {
-      "id": "ad21d068874e1493",
-      "title": "Barranquilla tiene su primer centro de Advanced Stroke Center para la atención del ACV",
-      "link": "https://www.larepublica.co/salud-ejecutiva/barranquilla-tiene-su-primer-centro-de-advanced-stroke-center-para-la-atencion-del-acv-4499489",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Clínica Misericordia Internacional recibió el reconocimiento de la World Stroke Organization, WSO, como Advanced Stroke Center, convirtiéndose en el primer centro de Barranquilla en obtener esta distinción internacional",
-      "published": "2026-10-08T18:40:05+00:00"
-    },
-    {
-      "id": "252b2dfcc7354c71",
-      "title": "Dólar en Colombia retrocede y cierra en $3.217 en una jornada de bajo volumen",
-      "link": "https://www.valoraanalitik.com/dolar-en-colombia-retrocede-y-cierra-en-3-217-en-una-jornada-de-bajo-volumen/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "La divisa abrió en $3.241,50 y tocó de inmediato un techo de $3.248. Al mismo tiempo, la cotización hasta un mínimo intradiario de $3.208,50.",
-      "published": "2026-10-08T18:26:00+00:00"
-    },
-    {
-      "id": "f6670734d95c6037",
-      "title": "Edgard Nunes llega a la gerencia general del clúster ANCAC del Grupo Servier",
-      "link": "https://www.valoraanalitik.com/edgard-nunes-llega-a-la-gerencia-general-del-cluster-ancac/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El directivo adopta este nuevo rol tras su paso como director regional de operaciones de la línea de oncología para Latinoamérica.",
-      "published": "2026-10-08T18:20:00+00:00"
-    },
-    {
-      "id": "3a54ed2df403a845",
-      "title": "Marlen Quiñones, la FamiEmpresaria 2026 que creó empleo flexible para madres en Medellín con Maintegral",
-      "link": "https://www.valoraanalitik.com/marlen-quinones-la-famiempresaria-2026-que-creo-empleo-flexible-para-madres-en-medellin-con-maintegral/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Para Quiñones, el premio representa no solo un reconocimiento a su empresa, sino también a las mujeres que hacen parte de ella.",
-      "published": "2026-10-08T18:11:07+00:00"
-    },
-    {
-      "id": "a02f1f80f41ffeea",
-      "title": "MinAgricultura pide alivios de crédito a Asobancaria para arroceros de Casanare",
-      "link": "https://www.larepublica.co/economia/dangond-pide-alivios-de-credito-a-asobancaria-para-arroceros-de-casanare-4499330",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Finagro reportó que, con corte a agosto, el saldo de la cartera de arroceros de Casanare es de $538.510 millones",
-      "published": "2026-10-08T18:00:03+00:00"
-    },
-    {
-      "id": "7f732dcb547ca866",
-      "title": "DNP proyecta inversiones por cerca de $7 billones en Chocó en el próximo cuatrienio",
-      "link": "https://www.larepublica.co/economia/dnp-proyecta-inversiones-por-cerca-de-7-billones-en-choco-en-el-proximo-cuatrienio-4499428",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Entre los proyectos priorizados para el departamento están la construcción del Malecón de Quibdó y el fortalecimiento de la infraestructura vial y aeroportuaria",
-      "published": "2026-10-08T17:38:24+00:00"
-    },
-    {
-      "id": "c09cf33cab589227",
-      "title": "Egan Bernal habla sobre su futuro en el ciclismo y sobre lo que vendrá en los próximos años",
-      "link": "https://www.larepublica.co/ocio/egan-bernal-habla-sobre-su-futuro-en-el-ciclismo-y-deja-abierta-la-puerta-a-lo-que-vendra-en-los-proximos-anos-4499439",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El ciclista colombiano aseguró que, por ahora, mantiene su intención de comenzar la próxima temporada y continuará vinculado a su equipo hasta finales de 2029",
-      "published": "2026-10-08T17:36:40+00:00"
-    },
-    {
-      "id": "5c62e2f65c2eb56b",
-      "title": "Renta4: 8 acciones andinas para 2027, con Perú como favorito",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzVIYUIzS0lVU1hYc3l4YTRMZ1lSYzZxMVVKSmJpSGlEN09oNFRlRkduSFlncVFISWJMVTBXQW1aMjFZSGVhOFB4QTNBQ2RxQk1lVWcta3Rxb2VqSm9FOGhzd0l6cUVDcGd4VlpsMUlGSHltdzM2QlZMTjNRQVZUR0M3UDdheGszVWR2SW9MZUF6Wkk?oc=5",
-      "source": "El Ecosistema Startup",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "Renta4: 8 acciones andinas para 2027, con Perú como favorito &nbsp;&nbsp; El Ecosistema Startup",
-      "published": "2026-10-08T17:25:20+00:00"
-    },
-    {
-      "id": "130c25b0f4fbf9ab",
-      "title": "Día sin IVA o menos ICA: ¿qué medida le ayudaría más la economía y el comercio en Colombia?",
-      "link": "https://www.valoraanalitik.com/dia-sin-iva-o-menos-ica-que-medida-le-ayudaria-mas-la-economia-y-el-comercio-en-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Día sin IVA o menos ICA: las dos alternativas generarían efectos diferentes para consumidores y empresas en Colombia.",
-      "published": "2026-10-08T17:20:00+00:00"
-    },
-    {
-      "id": "f040f3833797fdf6",
-      "title": "Apple anuncia el lanzamiento de su línea de productos para el hogar inteligente",
-      "link": "https://www.larepublica.co/globoeconomia/apple-anuncia-el-lanzamiento-de-su-linea-de-productos-para-el-hogar-inteligente-4499420",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Según ha informado Bloomberg, Apple también se ha asociado con LG Electronics Inc. para una gama de accesorios del hogar",
-      "published": "2026-10-08T17:17:16+00:00"
-    },
-    {
-      "id": "dc586db858ba8457",
-      "title": "Troncal del Magdalena 2 alcanzó 45,31% de avance tras dos años de obras",
-      "link": "https://www.larepublica.co/economia/troncal-del-magdalena-2-alcanzo-45-31-de-avance-tras-dos-anos-de-obras-4499415",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En materia laboral, actualmente hay 3.061 trabajadores vinculados, de los cuales más de 50% corresponden a mano de obra local",
-      "published": "2026-10-08T17:12:22+00:00"
-    },
-    {
-      "id": "b45eb525d02444f0",
-      "title": "Altia Energy duplica su capacidad en Colombia tras adquirir cuatro hidroeléctricas y un parque solar de Isagén",
-      "link": "https://www.eltiempo.com/economia/empresas/altia-energy-duplica-su-capacidad-en-colombia-tras-adquirir-cuatro-hidroelectricas-y-un-parque-solar-de-isagen-3592241",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Esta operación forma parte de la apuesta de Altia Energy por invertir cerca de 1.000 millones de dólares en el país.",
-      "published": "2026-10-08T17:11:49+00:00"
-    },
-    {
-      "id": "cc87ce94b94be44e",
-      "title": "Aris Mining aumenta 16 % su producción de oro a septiembre y mantiene meta para 2026",
-      "link": "https://www.valoraanalitik.com/aris-mining-aumenta-16-su-produccion-de-oro-a-septiembre/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "La minera acumuló 217.300 onzas en los primeros nueve meses del año y espera cerrar 2026 con entre 300.000 y 350.000 onzas.",
-      "published": "2026-10-08T17:00:00+00:00"
-    },
-    {
-      "id": "2cf4c735cc64a4bf",
-      "title": "NTL Healthcare avanza en su expansión por Paraguay con su tecnología Cervicare",
-      "link": "https://www.larepublica.co/globoeconomia/ntl-healthcare-avanza-en-su-expansion-por-latinoamerica-con-su-tecnologia-cervicare-4499388",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El sistema analiza imágenes del cuello uterino mediante inteligencia artificial y entrega resultados en cinco segundos",
-      "published": "2026-10-08T16:58:30+00:00"
-    },
-    {
-      "id": "6e162df996a9112e",
-      "title": "Estos son los días que moverán las ventas en las tiendas de Colombia durante fin de año",
-      "link": "https://www.valoraanalitik.com/estos-son-los-dias-que-moveran-las-ventas-en-las-tiendas-de-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Sensormatic Solutions identifica las jornadas con mayor tráfico esperado y señala los aspectos que los comercios deberán reforzar.",
-      "published": "2026-10-08T16:50:01+00:00"
-    },
-    {
-      "id": "6188cca3e5aec1b6",
-      "title": "Las empresas en el centro financiero de Dubái crecen 30% en medio de la incertidumbre regional",
-      "link": "https://www.larepublica.co/globoeconomia/las-empresas-en-el-centro-financiero-de-dubai-crecen-30-en-medio-de-la-incertidumbre-regional-4499390",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El Centro Financiero Internacional de Dubái terminó el primer semestre con 10.018 compañías activas registradas, 30% más que un año antes",
-      "published": "2026-10-08T16:41:21+00:00"
-    },
-    {
-      "id": "60174c47dfee7ba0",
-      "title": "Donald Trump afirma que no atacará a Irán antes de las elecciones de noviembre",
-      "link": "https://www.larepublica.co/globoeconomia/trump-afirma-que-no-atacara-antes-de-las-elecciones-estadounidenses-de-noviembre-4499389",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "\"Estamos manteniendo conversaciones productivas con la República Islámica de Irán\", escribió Trump en una publicación en Truth Social",
-      "published": "2026-10-08T16:37:09+00:00"
-    },
-    {
-      "id": "3b5fab238df295b4",
-      "title": "Cada segundo se consumen cerca de 173 tazas de Sello Rojo en Colombia",
-      "link": "https://www.valoraanalitik.com/cada-segundo-se-consumen-cerca-de-173-tazas-de-sello-rojo-en-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Sello Rojo nació en Cali en 1931 y hoy es la marca #1 de café molido en Colombia.",
-      "published": "2026-10-08T16:35:00+00:00"
-    },
-    {
-      "id": "1620051704f2ee67",
-      "title": "Ministerio de Hacienda pedirá prestados hasta 497 millones de euros a un banco alemán con un interés 2 % más bajo",
-      "link": "https://www.eltiempo.com/economia/sector-financiero/ministerio-de-hacienda-pedira-prestados-hasta-497-millones-de-euros-a-un-banco-aleman-con-un-interes-2-mas-bajo-3592222",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Estos recursos se usarán para financiar el Presupuesto General de la Nación de 2026.",
-      "published": "2026-10-08T16:27:42+00:00"
-    },
-    {
-      "id": "e5a3849743441273",
-      "title": "Fenalco pidió anular el aumento del 23 % del salario mínimo en Colombia del 2026: ¿qué pasaría con los salarios ya pagados?",
-      "link": "https://www.valoraanalitik.com/anular-aumento-del-23-del-salario-minimo-en-colombia-del-2026-que-pasaria-con-salarios-ya-pagados/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El ajuste del salario mínimo, dicen empresarios, fue desproporcionado para este año.",
-      "published": "2026-10-08T16:15:00+00:00"
+      "summary": "Russell registró un tiempo de un minuto y 32,274 segundos en el polvoriento circuito urbano de Singapur, casi dos décimas de segundo más rápido que el Ferrari de Charles Leclerc",
+      "published": "2026-10-09T11:24:46+00:00"
     }
   ]
 }
