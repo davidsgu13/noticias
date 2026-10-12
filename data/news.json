@@ -1,15 +1,249 @@
 {
-  "last_updated_utc": "2026-10-11T23:28:34.158242+00:00",
+  "last_updated_utc": "2026-10-12T19:39:38.015975+00:00",
   "count": 60,
   "items": [
     {
-      "id": "1c4f2fb34ffddeb5",
-      "title": "ANT destina $3.468 millones a ocho iniciativas comunitarias en La Guajira",
-      "link": "https://www.eltiempo.com/economia/sectores/ant-destina-3-468-millones-a-ocho-iniciativas-comunitarias-en-la-guajira-3592934",
+      "id": "f255e22df368f2b1",
+      "title": "Alud en la mina El Teniente de Chile deja dos trabajadores muertos y abre investigación sobre el accidente",
+      "link": "https://www.larepublica.co/globoeconomia/alud-en-la-mina-el-teniente-de-chile-deja-dos-trabajadores-muertos-4501403",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La Brigada de Homicidios de la PDI ya se trasladó hasta el lugar para investigar el suceso. Este domingo, la empresa informó del trágico hallazgo",
+      "published": "2026-10-12T19:34:36+00:00"
+    },
+    {
+      "id": "b238a3c063a76ffc",
+      "title": "Marchas del 14 de octubre en Colombia: Lugar y hora en que se concentrarán los manifestantes",
+      "link": "https://www.valoraanalitik.com/marchas-del-14-de-octubre-en-colombia-lugar-y-hora-en-que-se-concentraran-los-manifestantes/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "A la jornada también se sumará el expresidente Gustavo Petro, quien ha anunciado su participación a través de varias publicaciones en sus redes sociales.",
+      "published": "2026-10-12T19:30:00+00:00"
+    },
+    {
+      "id": "5ab58ec53f196cca",
+      "title": "El huracán Simon provoca inundaciones a su paso en paralelo a costa pacífica de México",
+      "link": "https://www.larepublica.co/globoeconomia/simon-provoca-inundaciones-a-su-paso-en-paralelo-a-costa-pacifica-de-mexico-4501400",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Aunque no llegó a tocar tierra, Simon dejó el domingo fuertes lluvias en el mar frente a la ciudad portuaria Manzanillo, en Colima, lo que causó inundaciones en zonas próximas al mar",
+      "published": "2026-10-12T19:02:47+00:00"
+    },
+    {
+      "id": "3d25b17bbcd494ee",
+      "title": "“Colombia va a tener que seguir emitiendo bonos y gestionando créditos con banca multilateral”: Mauricio Cárdenas",
+      "link": "https://www.valoraanalitik.com/colombia-va-a-tener-que-seguir-emitiendo-bonos-y-gestionando-creditos-con-banca-multilateral-mauricio-cardenas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El exministro de Hacienda Mauricio Cárdenas analizó la determinación del Gobierno nacional de sentarse a negociar con el FMI.",
+      "published": "2026-10-12T19:00:00+00:00"
+    },
+    {
+      "id": "f73a109e8cb8cf4b",
+      "title": "Panamá sufre más de 200 réplicas tras el terremoto de magnitud 7.7 del viernes",
+      "link": "https://www.larepublica.co/globoeconomia/panama-sufre-mas-de-200-replicas-tras-el-terremoto-de-magnitud-7-7-del-viernes-4501395",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El presidente panameño, José Raúl Mulino, visitó las zonas afectadas para entregar ayuda y pidió que se repararan urgentemente las carreteras y los puentes para facilitar las labores de socorro",
+      "published": "2026-10-12T18:43:43+00:00"
+    },
+    {
+      "id": "2f01eba267506415",
+      "title": "China podría alcanzar un nuevo récord en la producción de carne de cerdo en este año",
+      "link": "https://www.larepublica.co/globoeconomia/china-podria-alcanzar-un-record-en-la-produccion-de-carne-de-cerdo-en-2026-4501393",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El aumento de la producción contrasta con el estancamiento del consumo y las fuertes pérdidas económicas que enfrenta el sector porcino, según un investigador estatal",
+      "published": "2026-10-12T18:37:22+00:00"
+    },
+    {
+      "id": "e166fdc80eab1b7d",
+      "title": "Entrevista | Royal Enfield Colombia apunta a vender 10.000 motos en 2027; esto dice su líder de mercadeo",
+      "link": "https://www.valoraanalitik.com/entrevista-royal-enfield-ventas-2027/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "A agosto, la marca vendió cerca de 4.800 motos y, con la caída del dólar, empezó a ensamblar en Colombia sus modelos de 650 cc a menor precio.",
+      "published": "2026-10-12T18:00:00+00:00"
+    },
+    {
+      "id": "6304938840315df5",
+      "title": "Quién es “Ferley Ríos”, presunto implicado en el atentado contra el peaje de El Bordo, en Cauca: ofrecen millonaria recompensa por su captura",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcWZLQ25ENmwzYWNUWml5SThWZmx0UnFxU2VVcDltZjhrNTcwMW5jSDg5bFpyM1A0Q1VVd3V2RUEzVWZoSEVFemt2QmhHRDh5ZU9LdEprV3gxU3FQU21EcmE4V0MxbmN3QldtdmJTUVl6M1FpUk84X0VyOHpyUzZHbjVLSExsSmF5V1BtR1RXbkFDSEVZdko0eUFzWjhoMTdBSXk1TlpDWXZyb3pRejV1S2dENldRNzRXWDg0Vy1oRS1XaS0tYjhRY0RRNFNRejFLak1PUk56YjRETXdVUGNkVDJzYUhZbDFGMTFXdTZhVmhnMHBiLVFoZTVuQW5UOVlYSzQyRUJ3SW9oSFBfX2fSAagCQVVfeXFMUE1TSnZ4eEJCV2phN2hxeEQwUG0yLUhON3NUd1FhcFJsbVd6TWR1OXhjRldPbENQVjlzNDhXRksydWhYMUdlTTMzcnA5S1dTU183bFRaTzQ3cjJUVDNVNldKNnVFY1VHbl9RZXFuczUzczNEZ1ExMmF2dFEtNVV4WVFrTFVFcDlWaEtCREFhX0tnei1FNmJpQ1NENzVQV1VLajlfMHNYVmhHTmNkWmFwYXlGSHZsRDZQbl8ybC1Cbi1HNDdSQTlicXlfZVhvcVFjc0dSRFQ4MFh2QWJrdktRTVFRcjdGS3ZZRHZwWE5GLW45NTd0MGxYZERtSkxkMV9LZmFkOVB0MG5qeHhya2ZOaFowM1d0aHNWRGJXR1JKWXlmSjBNdDN6cU4?oc=5",
+      "source": "Infobae",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "Quién es “Ferley Ríos”, presunto implicado en el atentado contra el peaje de El Bordo, en Cauca: ofrecen millonaria recompensa por su captura &nbsp;&nbsp; Infobae",
+      "published": "2026-10-12T17:56:35+00:00"
+    },
+    {
+      "id": "2d41d001d6f9986c",
+      "title": "Robert E. Hall y Michael Woodford reciben el Nobel de Economía por los fundamentos microeconómicos de la estabilización macroeconómica",
+      "link": "https://www.eltiempo.com/economia/robert-e-hall-y-michael-woodford-reciben-el-nobel-de-economia-por-los-fundamentos-micro-de-estabilizacion-macroecnomica-3592975",
       "source": "El Tiempo - Economía",
       "category": "fuente directa",
-      "summary": "Los proyectos beneficiarán a 599 familias indígenas y de comunidades negras con insumos agrícolas, herramientas, artesanías y obras.",
-      "published": "2026-10-11T22:43:25+00:00"
+      "summary": "Los dos hombres estadounidenses son los ganadores de la categoría en el año 2026.",
+      "published": "2026-10-12T17:50:00+00:00"
+    },
+    {
+      "id": "21bf3b9327e0f5db",
+      "title": "Decathlon acelera su expansión en Colombia: busca llegar a 35 tiendas y quedarse con el 10 % del mercado deportivo",
+      "link": "https://www.valoraanalitik.com/decathlon-acelera-su-expansion-en-colombia-busca-llegar-a-35-tiendas-y-quedarse-con-el-10-del-mercado-deportivo/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Decathlon prepara nuevas aperturas en Colombia tras superar los 100 millones de euros en ventas y apuesta por Bogotá para impulsar su crecimiento.",
+      "published": "2026-10-12T17:30:00+00:00"
+    },
+    {
+      "id": "385b1e693f096a0b",
+      "title": "Cámara baja de Filipinas aprueba proyecto de ley que restringe acceso de menores a redes sociales",
+      "link": "https://www.larepublica.co/globoeconomia/camara-baja-de-filipinas-aprueba-proyecto-de-ley-que-restringe-acceso-de-menores-a-redes-sociales-4501388",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Malasia comenzó en junio a prohibir a los menores de 16 años registrarse en plataformas de redes sociales, que están obligadas a verificar la edad cotejándola con los registros emitidos por el Gobierno",
+      "published": "2026-10-12T17:12:04+00:00"
+    },
+    {
+      "id": "2b23bd1d10a65026",
+      "title": "Gobierno De La Espriella eliminó medida de Petro que frenaba desarrollo urbano en estos municipios de Cundinamarca",
+      "link": "https://www.valoraanalitik.com/gobierno-de-la-espriella-elimino-medida-de-petro-que-frenaba-desarrollo-urbano-en-estos-municipios-de-cundinamarca/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La medida eliminada por el Gobierno De La Espriella tenía como objetivo proteger los suelos con aptitud agrícola frente a la expansión urbana.",
+      "published": "2026-10-12T17:00:00+00:00"
+    },
+    {
+      "id": "4c2a842d89624afa",
+      "title": "Microsoft prevé llevar a cabo despliegue a gran escala de propios chips IA para reducir costos",
+      "link": "https://www.larepublica.co/globoeconomia/microsoft-preve-llevar-a-cabo-despliegue-a-gran-escala-de-propios-chips-ia-para-reducir-costos-4501382",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Microsoft afirmó que los chips Maia 300 realizarán aproximadamente 40% más de computación útil por megavatio que los \"sistemas líderes basados en GPU\"",
+      "published": "2026-10-12T16:59:00+00:00"
+    },
+    {
+      "id": "56c080bab7bbae76",
+      "title": "Trump defiende acuerdo sobre diésel con Rusia pese a críticas de legisladores de ambos partidos",
+      "link": "https://www.larepublica.co/globoeconomia/trump-defiende-acuerdo-sobre-diesel-con-rusia-pese-a-criticas-de-legisladores-de-ambos-partidos-4501379",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Trump dijo el viernes que Rusia había acordado suministrar diésel a los mercados mundiales, y su Gobierno suspendió temporalmente las sanciones sobre el combustible ruso",
+      "published": "2026-10-12T16:44:53+00:00"
+    },
+    {
+      "id": "c2add63261ea6ddf",
+      "title": "Sánchez dice que buques de guerra marroquíes entraron en aguas españolas durante la crisis de Ceuta",
+      "link": "https://www.larepublica.co/globoeconomia/sanchez-dice-que-buques-de-guerra-marroquies-entraron-en-aguas-espanolas-durante-la-crisis-de-ceuta-4501375",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Tras la avalancha fronteriza, al menos una fragata y varias lanchas patrulleras de la Marina Real de Marruecos navegaron por aguas territoriales españolas",
+      "published": "2026-10-12T16:42:06+00:00"
+    },
+    {
+      "id": "be4dba75e0a71275",
+      "title": "Cerca de 500 notarías estarían en riesgo de cierre por falta de planeación presupuestal",
+      "link": "https://www.larepublica.co/economia/cerca-de-500-notarias-en-colombia-estarian-en-riesgo-de-cierre-4501370",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los Notarios Subsidiados advierten retrasos en los recursos para el funcionamiento de oficinas en municipios apartados y piden medidas urgentes al Gobierno",
+      "published": "2026-10-12T16:38:42+00:00"
+    },
+    {
+      "id": "f6f77738fe45e87c",
+      "title": "Robert E. Hall y Michael Woodford ganan Nobel de Economía con investigación de política monetaria y decisiones macroeconómicas",
+      "link": "https://www.valoraanalitik.com/robert-e-hall-y-michael-woodford-ganan-nobel-de-economia-con-investigacion-de-politica-monetaria-y-decisiones-macroeconomicas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Sus estudios contribuyeron al desarrollo de modelos económicos capaces de explicar cómo interactúan las distintas variables de una economía.",
+      "published": "2026-10-12T16:08:15+00:00"
+    },
+    {
+      "id": "ecba867baa84013b",
+      "title": "Presidente y ministros piden investigar a 'Matador' por ataques a primera dama",
+      "link": "https://www.larepublica.co/economia/gobierno-pide-a-la-fiscalia-investigar-comentarios-de-matador-contra-la-primera-dama-4501361",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El Gobierno Nacional emitió un comunicado, firmado por todos los ministros, para rechazar las declaraciones del caricaturista Julio César González contra Ana Lucía Pineda",
+      "published": "2026-10-12T15:50:36+00:00"
+    },
+    {
+      "id": "9ede398bfd67c6ad",
+      "title": "Investigaciones reconocidas con el premio en los últimos años",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/de-la-politica-monetaria-a-la-innovacion-las-investigaciones-premiadas-con-el-nobel-4501352",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Las investigaciones sobre política monetaria, crisis financieras, innovación y crecimiento económico han marcado la historia del Nobel de Economía, al aportar nuevas herramientas para comprender los mercados y los desafíos de las economías",
+      "published": "2026-10-12T15:32:08+00:00"
+    },
+    {
+      "id": "37ee2175520b6432",
+      "title": "Precio del Dólar en Colombia hoy lunes 12 de octubre 2026: TRM, tipo de cambio USD a COP, compra y venta",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR05ySkE0U0RxaXJVRTk2al9SR1BHYjExMVMteTl1Z29OM2dQN1EzNUtlRld5NjVNV1pFQ2VDX3E5clRMVEF0aXhrU3k5dkdQMXloYXBzd0lrR3JPemRDS2c1VFlBV3Ezb3NncVpGNkkzcXNNXzZla3l0b1Bvam1XZXRfQ1VkWkVnRTF5ay1pYlZWU2tlckhQajRsa2RQaVR6ZS1DZkE1X0t5Z0JXQS1BNFZTallzcGtmX1N0WXM1MVlhb3kyQUdONmtzX3NKbFZJeUVxUVZSSlJaeU5vN0E0ZU10bDN4UkN6OWNlel81UElkUdIBhgJBVV95cUxQMzJXcjdoVXE4cXFscURzWjhRVVBhX3plRFF6aXM3dzN2OHY5SWZwdE1KN3VWZUdFNl9pYW1Ca1dmQWo4eFRYYmREejVKcndnOEFKTWJWQXBuTGd1Wm9UT0lYbGNxdy1PdzdKUVdoSWl0UlVhdjdiTXM5LUVpVlo3ZzJ4X2NZNHNSblVodE1wTHNJa0p0RmZhSkhjNkt6WVhwMzdwbHhtTThiZFNMcTdZUWk3ZUM2ZXlYU0xCVnBsUEVSblJwemdIVExCSVVMbGdrSVJwbF93VHdXbGJjZHJOVDc5RkIzWkRUMkc3WnZyZVFjZDE5U25oVFpGRFZyaW5MaDFybFJB?oc=5",
+      "source": "El Comercio Perú",
+      "category": "Dólar y TRM",
+      "summary": "Precio del Dólar en Colombia hoy lunes 12 de octubre 2026: TRM, tipo de cambio USD a COP, compra y venta &nbsp;&nbsp; El Comercio Perú",
+      "published": "2026-10-12T15:30:00+00:00"
+    },
+    {
+      "id": "d7748b954568263d",
+      "title": "Viviendas en Colombia que se arriendan por ‘apps’ como Airbnb y Booking crecieron 50 % en dos años y medio",
+      "link": "https://www.valoraanalitik.com/viviendas-colombia-se-arriendan-airbnb-booking-duplicaron-dos-anos-medio/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Para el cierre de 2026, las proyecciones de Asohost señalan que el inventario colombiano se ubicará en un rango entre 142.000 y 145.000 anuncios activos.",
+      "published": "2026-10-12T15:00:00+00:00"
+    },
+    {
+      "id": "e3c35c67a7ddf105",
+      "title": "Atentado contra el peaje El Bordo, en Cauca, dejó cinco trabajadores heridos y daños en la infraestructura",
+      "link": "https://www.valoraanalitik.com/atentado-contra-el-peaje-el-bordo-en-cauca-dejo-cinco-trabajadores-heridos-y-danos-en-la-infraestructura/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La situación de seguridad también generó preocupación por la presencia de un elemento sospechoso sobre la carretera.",
+      "published": "2026-10-12T14:50:00+00:00"
+    },
+    {
+      "id": "93c8c575de42728d",
+      "title": "Atentado contra el peaje El Bordo, en el Cauca, dejó cinco trabajadores heridos",
+      "link": "https://www.eltiempo.com/economia/sectores/atentado-contra-el-peaje-el-bordo-en-el-cauca-dejo-cinco-trabajadores-heridos-3592995",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Hombres armados intimidaron al personal de seguridad y activaron un explosivo en la vía Panamericana, en el Cauca.",
+      "published": "2026-10-12T14:40:58+00:00"
+    },
+    {
+      "id": "1a27ef755d427e05",
+      "title": "Cuánto dinero reciben los ganadores y otros datos datos curiosos del Premio",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/cuanto-dinero-reciben-ganadores-y-cuales-son-los-datos-curiosos-del-nobel-de-economia-4501340",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Desde 1969, el Nobel de Economía ha reconocido a 101 laureados en 58 ediciones; el premio de 2026 asciende a US$1,2 millones, que se repartirán entre Robert E. Hall y Michael Woodford",
+      "published": "2026-10-12T14:27:29+00:00"
+    },
+    {
+      "id": "572033522ec0e617",
+      "title": "Papa León ingresará el martes al hospital antes de someterse a intervención quirúrgica",
+      "link": "https://www.larepublica.co/globoeconomia/papa-leon-ingresara-el-martes-al-hospital-antes-de-someterse-a-intervencion-quirurgica-4501342",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "León, de 71 años, declaró el domingo que el nódulo se había detectado en un chequeo reciente que estaba \"bien delimitado\" y que se había detectado a tiempo",
+      "published": "2026-10-12T14:19:52+00:00"
+    },
+    {
+      "id": "313608751f9ee203",
+      "title": "Así funciona la gigantesca planta de Scania en Brasil que produce un motor cada cinco horas",
+      "link": "https://www.valoraanalitik.com/la-gigantesca-planta-de-scania-en-brasil-produce-motor-cada-cinco-horas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La fábrica, inaugurada en 1962, tiene capacidad para producir 30.000 vehículos al año y emplea a unos 5.296 trabajadores.",
+      "published": "2026-10-12T14:00:00+00:00"
+    },
+    {
+      "id": "7b44d0ca9dfd9512",
+      "title": "MIT y Harvard, universidades con más economistas premiados",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/mit-y-harvard-lideran-el-ranking-de-universidades-con-mas-economistas-ganadores-4501329",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "MIT encabeza el ranking de universidades donde se doctoraron los Nobel de Economía, con 14 laureados, seguido de Harvard, con 11, y Princeton, con cinco, según el sondeo de LR actualizado con los ganadores de 2026",
+      "published": "2026-10-12T13:38:19+00:00"
     },
     {
       "id": "4ebb057fcfaffdab",
@@ -18,7 +252,115 @@
       "source": "El Tiempo - Economía",
       "category": "fuente directa",
       "summary": "Dos noticias contradictorias de la semana: la crisis de los arroceros y la inflación que no para de subir.",
-      "published": "2026-10-11T22:30:21+00:00"
+      "published": "2026-10-12T13:19:13+00:00"
+    },
+    {
+      "id": "730ff4ce1b133953",
+      "title": "EE.UU. lidera el ranking de los ganadores con 45 laureados",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/ee-uu-lidera-el-ranking-historico-de-ganadores-del-nobel-de-economia-con-45-laureados-4501325",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Estados Unidos encabeza el ranking histórico de países con más ganadores del Nobel de Economía, seguido por Reino Unido y Francia, en una lista que refleja la influencia de las principales potencias académicas en el desarrollo del pensam...",
+      "published": "2026-10-12T13:18:37+00:00"
+    },
+    {
+      "id": "64efe93c5d687846",
+      "title": "IVA, subsidios, 4x1000 y gasto público: todo lo que debería incluir la Ley de Rescate del gobierno De La Espriella",
+      "link": "https://www.eltiempo.com/economia/sectores/iva-subsidios-4x1000-y-gasto-publico-todo-lo-que-deberia-incluir-la-ley-de-rescate-del-gobierno-de-la-espriella-3592375",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El ministro de Hacienda, Miguel Gómez, aseguró que la iniciativa se radicará ante el Congreso de la República en estos días.",
+      "published": "2026-10-12T13:08:14+00:00"
+    },
+    {
+      "id": "aa0e3980592ee3b6",
+      "title": "Tras dos meses del terremoto, cuáles son los alivios tributarios y medidas para empresas, empleo y copropiedades a los que se puede acceder",
+      "link": "https://www.eltiempo.com/economia/sectores/tras-dos-meses-del-terremoto-cuales-son-los-alivios-tributarios-y-medidas-para-empresas-empleo-y-copropiedades-a-los-que-se-puede-acceder-3592515",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El paquete de decretos reúne alivios tributarios, incentivos a la inversión y medidas para la recuperación y reparación de inmuebles y copropiedades.",
+      "published": "2026-10-12T13:01:39+00:00"
+    },
+    {
+      "id": "874871fe40dd650c",
+      "title": "Primicia | El nuevo proyecto de Salitre Mágico en el Cici Aquapark abriría sus puertas en mayo de 2027; así prepara el parque su expansión",
+      "link": "https://www.valoraanalitik.com/salitre-magico-abrira-nueva-unidad-en-mayo-de-2027-y-amplia-su-oferta/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Con inversiones superiores a US$30 millones para renovar y expandir el parque, Salitre Mágico espera recibir 120.000 visitantes en el Festival del Terror.",
+      "published": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "id": "93805a4926063c0a",
+      "title": "En estas fechas Colpensiones pagará las últimas mesadas de fin de año, incluida la prima de Navidad",
+      "link": "https://www.valoraanalitik.com/en-estas-fechas-colpensiones-pagara-las-ultimas-mesadas-de-fin-de-ano-incluida-la-prima-de-navidad/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El Gobierno confirmó que tiene los recursos para el pago de las mesadas de Colpensiones de cierre de este año.",
+      "published": "2026-10-12T12:00:00+00:00"
+    },
+    {
+      "id": "c08a04940c560d16",
+      "title": "Galardonados, los economistas que reformularon las ideas de Keynes",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-hall-y-michael-woodford-los-economistas-que-reformularon-las-ideas-de-keynes-4501309",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Hall y Woodford reformularon el pensamiento keynesiano con modelos que hoy orientan las decisiones de los bancos centrales frente a las crisis económicas y los cambios en el consumo",
+      "published": "2026-10-12T10:45:27+00:00"
+    },
+    {
+      "id": "f7be0e407d5776cb",
+      "title": "Robert E. Hall y Michael Woodford fueron los ganadores del Premio Nobel de Economía",
+      "link": "https://www.larepublica.co/especiales/el-pulso-de-los-nobel/robert-e-hall-y-michael-woodford-los-ganadores-del-premio-nobel-de-economia-4501301",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El reconocimiento del la academia sueca destaca sus investigaciones sobre la política monetaria y el papel de las expectativas en las decisiones económicas",
+      "published": "2026-10-12T10:15:14+00:00"
+    },
+    {
+      "id": "9e6946276127ee7f",
+      "title": "Celulares en Colombia: subida de costos globales por IA frena las ventas y extiende la vida útil de los equipos",
+      "link": "https://www.eltiempo.com/economia/sectores/celulares-en-colombia-subida-de-costos-globales-por-ia-frena-las-ventas-y-extiende-la-vida-util-de-los-equipos-3584934",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Caída del 11,8 % en importaciones locales y menor oferta de modelos económicos transforman la compra de teléfonos.",
+      "published": "2026-10-12T03:30:00+00:00"
+    },
+    {
+      "id": "11e9f220ee353ab1",
+      "title": "Estas son las claves que debería tener una contrarreforma pensional antes de que opere el nuevo sistema",
+      "link": "https://www.eltiempo.com/economia/sectores/estas-son-las-claves-que-deberia-tener-una-contrarreforma-pensional-antes-de-que-opere-el-nuevo-sistema-3583733",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Expertos y congresistas plantean cambios al umbral, ahorro, subsidios, edad, semanas y sostenibilidad fiscal del nuevo régimen.",
+      "published": "2026-10-12T03:25:00+00:00"
+    },
+    {
+      "id": "d730bba5593f35cb",
+      "title": "Fintech colombiana abre oportunidad de inversión en acciones desde $5 millones",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUxtVVc0YnZWazd3OE1pVFpsRnRVelJINlBJZ1djUDRfWkVWX3I3WmVrSzM5MlZ3Wm4yRk1oc04zcWNuTE1SZTlKTHZOcmFVRnVXRTNYZHBrWFRKMldwV2F6cUhKNWpDNjBRcHhNczE5Wml3aTdQV0JfdENZVmRIRzZNSXZuM0N4QXF5OVRjQ3lOY1QxWDF2cENDaE9zbFJMaUk4My1NaXNWUnZ5b0xiaXoyeVAtQ0V2Y0xqQkxmSdIBvwFBVV95cUxPMVVQbUIyQXlYV3hYbk9ZU1U1ajRLTUtmOThQZWZjTVgxNUY2VW0yY21CWS1VaS03bk0xaGpQcnNjcm9WcVpOLTZZZ1hRTzRYZFcwUkl3Q2ZZZDFCYXpENXhXY1RqZkUybzI4UU1FSElPaXZHMkJHZVpObUFKRDFkemdySS1LamF5V1NZLTlYU0FFRkd0MlBLb0VZQlFsOEwwaTlpSWN2Ty1UYVU3bmhpdy15YkI1cVJYaHMtM2JFOA?oc=5",
+      "source": "Noticias RCN",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "Fintech colombiana abre oportunidad de inversión en acciones desde $5 millones &nbsp;&nbsp; Noticias RCN",
+      "published": "2026-10-12T02:11:54+00:00"
+    },
+    {
+      "id": "524fab6be8e79922",
+      "title": "Gigantes tecnológicos prevén emitir más de US$1 billón en deuda para financiar la IA",
+      "link": "https://www.larepublica.co/globoeconomia/gigantes-tecnologicos-preven-emitir-mas-de-us-1-billon-en-deuda-para-financiar-la-ia-4501294",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Han irrumpido en el mercado de deuda con emisiones milmillonarias para financiar su carrera por la IA; los emisores mundiales sufren la sacudida del mercado, donde la financiación se encarece",
+      "published": "2026-10-11T23:34:52+00:00"
+    },
+    {
+      "id": "1c4f2fb34ffddeb5",
+      "title": "ANT destina $3.468 millones a ocho iniciativas comunitarias en La Guajira",
+      "link": "https://www.eltiempo.com/economia/sectores/ant-destina-3-468-millones-a-ocho-iniciativas-comunitarias-en-la-guajira-3592934",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Los proyectos beneficiarán a 599 familias indígenas y de comunidades negras con insumos agrícolas, herramientas, artesanías y obras.",
+      "published": "2026-10-11T22:43:25+00:00"
     },
     {
       "id": "5938e31ba25204bb",
@@ -46,15 +388,6 @@
       "category": "fuente directa",
       "summary": "El nombramiento se produce en un contexto de expansión de la infraestructura digital en América Latina.",
       "published": "2026-10-11T22:00:00+00:00"
-    },
-    {
-      "id": "853533f93ec5b4e6",
-      "title": "Del 7 al 12 % del mercado, el salto que busca Central Cervecera en 5 años, pese a obstáculos para la competencia: entrevista al gerente Felipe Mejía",
-      "link": "https://www.eltiempo.com/economia/empresas/pensamos-que-el-mercado-iba-a-ser-mas-accesible-felipe-mejia-gerente-general-de-central-cervecera-3592051",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El ejecutivo, que quiere pasar de 7,2 % a cerca de 12 % del mercado en cinco años, habla de las barreras de acceso al mercado de cerveza en Colombia.",
-      "published": "2026-10-11T21:44:08+00:00"
     },
     {
       "id": "197324e5d12f08c0",
@@ -208,339 +541,6 @@
       "category": "fuente directa",
       "summary": "El comportamiento de los arrendamientos varió entre las principales ciudades del país.",
       "published": "2026-10-11T19:00:00+00:00"
-    },
-    {
-      "id": "3573f9eef590d51e",
-      "title": "Gobierno propone abordar la minería criminal como actividad de financiación ilegal",
-      "link": "https://www.larepublica.co/economia/gobierno-propone-abordar-la-mineria-criminal-como-actividad-de-financiacion-de-grupos-armados-4501208",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Este anuncio se dio luego de un sobrevuelo por zonas de explotación minería ilegal en el departamento del Chocó",
-      "published": "2026-10-11T18:49:41+00:00"
-    },
-    {
-      "id": "bc2fe5832054d404",
-      "title": "El resurgimiento del carbón está creando divisiones en el corazón energético de Canadá",
-      "link": "https://www.larepublica.co/globoeconomia/el-resurgimiento-del-carbon-esta-creando-divisiones-en-el-corazon-energetico-de-canada-4501204",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La empresa, filial de Hancock Prospecting, ha invertido más de US$105 millones en el proyecto, que produciría 2,5 millones de toneladas anuales de carbón metalúrgico y generaría 400 empleos, pero enfrenta oposición por sus posibles impac...",
-      "published": "2026-10-11T18:33:39+00:00"
-    },
-    {
-      "id": "45aa17522894c374",
-      "title": "Sheinbaum pide a poblaciones costeras de México refugiarse ante la cercanía del huracán",
-      "link": "https://www.larepublica.co/globoeconomia/sheinbaum-pide-a-poblaciones-costeras-de-mexico-refugiarse-ante-la-cercania-del-huracan-4501200",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El huracán Simón, de categoría 4 y con vientos de hasta 230 km/h, amenaza la costa del Pacífico mexicano; Claudia Sheinbaum pidió evacuar zonas de riesgo",
-      "published": "2026-10-11T18:03:10+00:00"
-    },
-    {
-      "id": "6793488dad864091",
-      "title": "Metro de Medellín anuncia operación especial durante el EDC y Festival Altavoz: así será la extensión de horario",
-      "link": "https://www.valoraanalitik.com/metro-de-medellin-anuncia-operacion-especial-durante-el-edc-y-festival-altavoz-asi-sera-la-extension-de-horario/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El Metro de Medellín implementará una operación especial los días domingo 11 y lunes 12 de octubre.",
-      "published": "2026-10-11T18:00:00+00:00"
-    },
-    {
-      "id": "5f7cb5382a5b8db4",
-      "title": "Avanza montaje de la primera planta solar flotante en embalse de Itaipú en Paraguay",
-      "link": "https://www.larepublica.co/globoeconomia/avanza-montaje-de-la-primera-planta-solar-flotante-en-embalse-de-itaipu-en-paraguay-4501194",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Aunque la escala de esta fase inicial es modesta en comparación con la capacidad hidroeléctrica de la represa, especialistas remarcan su valor como laboratorio de innovación y como plataforma para futuros desarrollos de mayor envergadura",
-      "published": "2026-10-11T17:59:53+00:00"
-    },
-    {
-      "id": "8d86491a653bae98",
-      "title": "Aeronáutica Civil normaliza vuelos entre Barranquilla y Panamá tras terremoto",
-      "link": "https://www.larepublica.co/economia/aeronautica-civil-normaliza-vuelos-entre-barranquilla-y-panama-tras-terremoto-4501195",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La entidad dio por terminado el plan de contingencia activado tras el terremoto en Panamá; en Barranquilla, los 17 vuelos desviados despegaron con éxito hacia su destino",
-      "published": "2026-10-11T17:52:24+00:00"
-    },
-    {
-      "id": "a363a61267484d9a",
-      "title": "Ministro de Economía de Chile proyecta crecimiento para 2027 y fija meta de crear 100.000 empleos",
-      "link": "https://www.larepublica.co/globoeconomia/ministro-de-economia-de-chile-proyecta-crecimiento-para-2027-y-fija-meta-de-crear-100-000-empleos-4501191",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El titular de las carteras de Economía y Minería defendió las medidas impulsadas por el gobierno para reactivar la inversión y ordenar las cuentas fiscales",
-      "published": "2026-10-11T17:37:35+00:00"
-    },
-    {
-      "id": "1ad718e36d57b3b6",
-      "title": "China propone prohibir manijas ocultas y exigir controles físicos de seguridad en los automóviles",
-      "link": "https://www.larepublica.co/globoeconomia/china-propone-prohibir-las-manijas-ocultas-en-los-automoviles-4501188",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los vehículos equipados con controles virtuales para funciones críticas de seguridad, como luces, limpiaparabrisas y sistemas antivaho, deberán conservar los controles físicos",
-      "published": "2026-10-11T17:01:36+00:00"
-    },
-    {
-      "id": "fe2d6873d8148aa5",
-      "title": "¿Dólar en Colombia llegaría a $4.000 a finales de 2026? Proyecciones se mueven entre el alivio de la apreciación y la sombra fiscal",
-      "link": "https://www.valoraanalitik.com/dolar-en-colombia-llegaria-a-4-000-a-finales-de-2026-proyecciones-se-mueven-entre-el-alivio-de-la-apreciacion-y-la-sombra-fiscal/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Los principales bancos de inversión y encuestas del mercado ajustaron sus proyecciones para la tasa de cambio en Colombia al cierre de 2026.",
-      "published": "2026-10-11T17:00:00+00:00"
-    },
-    {
-      "id": "4cf2455168b75918",
-      "title": "La UE limitará las importaciones de coches híbridos chinos a 350.000 unidades al año",
-      "link": "https://www.larepublica.co/globoeconomia/la-ue-limitara-las-importaciones-de-coches-hibridos-chinos-a-350-000-unidades-al-ano-4501185",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La Unión Europea limitará a 350.000 unidades anuales la importación de vehículos híbridos, en una medida que entrará en vigor el 1 de diciembre y busca proteger a la industria local",
-      "published": "2026-10-11T16:52:54+00:00"
-    },
-    {
-      "id": "3e17356062fcc893",
-      "title": "Panamá activa plan de recuperación tras terremoto que dejó más de 2.000 afectados",
-      "link": "https://www.larepublica.co/globoeconomia/panama-activa-plan-de-recuperacion-tras-terremoto-que-dejo-mas-de-2-000-afectados-4501182",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El país contará con financiamiento del BID y la CAF, además de asistencia de Estados Unidos, para atender a las familias damnificadas y reparar infraestructuras",
-      "published": "2026-10-11T16:43:43+00:00"
-    },
-    {
-      "id": "85a8d287a95ac1a9",
-      "title": "¿Se acerca el fin de la guerra? Trump anuncia un posible acuerdo entre Rusia y Ucrania en sector clave",
-      "link": "https://www.valoraanalitik.com/se-acerca-el-fin-de-la-guerra-trump-anuncia-un-posible-acuerdo-entre-rusia-y-ucrania-en-sector-clave/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El mandatario aseguró que ambos países alcanzaron un entendimiento para suspender las hostilidades en esta área.",
-      "published": "2026-10-11T16:20:00+00:00"
-    },
-    {
-      "id": "267303adeccbda08",
-      "title": "Entrevista | Gestión y planificación patrimonial deben comenzar con la vida profesional: BBVA Global Wealth Colombia",
-      "link": "https://www.valoraanalitik.com/gestion-patrimonial-bbva-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "BBVA Colombia ve mayor interés entre sus clientes premium por diversificar inversiones entre países, monedas y activos.",
-      "published": "2026-10-11T16:00:00+00:00"
-    },
-    {
-      "id": "c22e84978777c20e",
-      "title": "Vehículos eléctricos crecen 221,7% y expanden la cadena de negocios en Colombia",
-      "link": "https://www.larepublica.co/empresas/vehiculos-electricos-crecen-221-7-y-expanden-la-cadena-de-negocios-en-colombia-4501175",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Entre enero y septiembre de 2026 se matricularon 39.784 vehículos 100% eléctricos en el país; el crecimiento impulsa oportunidades en infraestructura de carga, energía, tecnología y servicios especializados",
-      "published": "2026-10-11T15:41:19+00:00"
-    },
-    {
-      "id": "5e788cd4847d30e0",
-      "title": "Presidente Donald Trump anuncia un cese al fuego energético entre Rusia y Ucrania",
-      "link": "https://www.larepublica.co/globoeconomia/rusia-y-ucrania-acuerdan-detener-ataques-a-sus-instalaciones-energeticas-afirma-trump-4501165",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El presidente de Estados Unidos, Donald Trump, anunció que ambos países pactaron una tregua para suspender los ataques contra sus infraestructuras energéticas, aunque no precisó la duración ni los mecanismos para garantizar su cumplimiento",
-      "published": "2026-10-11T15:09:18+00:00"
-    },
-    {
-      "id": "7feb150d47d2956d",
-      "title": "Se dispara la venta de carros eléctricos e híbridos en Colombia: Tesla y Toyota lideran estos mercados",
-      "link": "https://www.valoraanalitik.com/se-dispara-la-venta-de-carros-electricos-e-hibridos-en-colombia-tesla-y-toyota-lideran-estos-mercados/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Septiembre de este 2026 registró el máximo histórico en ventas de carros eléctricos e híbridos con un margen diferencial bastante amplio.",
-      "published": "2026-10-11T15:00:00+00:00"
-    },
-    {
-      "id": "81855d39e322f2e9",
-      "title": "Auge de mercados de predicción de NFL pone a prueba reglas de apuestas deportivas",
-      "link": "https://www.larepublica.co/ocio/auge-de-mercados-de-prediccion-de-nfl-pone-a-prueba-reglas-de-apuestas-deportivas-4501162",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El fútbol americano impulsó a Kalshi y Polymarket a registrar un volumen semanal récord de US$22.200 millones; su expansión intensifica el choque con las casas de apuestas tradicionales y los reguladores estatales, mientras una posible i...",
-      "published": "2026-10-11T14:34:15+00:00"
-    },
-    {
-      "id": "6086cf5bd909ab44",
-      "title": "Control Alt Delete",
-      "link": "https://www.larepublica.co/analisis/ramiro-santa-513971/control-alt-delete-4501159",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "",
-      "published": "2026-10-11T14:07:58+00:00"
-    },
-    {
-      "id": "da33bc5ace7e3c1d",
-      "title": "Las grúas más grandes de Colombia están en Buenaventura: así se prepara Puerto Aguadulce para los megabuques",
-      "link": "https://www.valoraanalitik.com/puerto-agua-dulce-buenaventura-2026/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Su gerente, Álvaro Otero, dice que Buenaventura necesita dragar el canal de acceso y mejorar las vías. La terminal prevé invertir US$250 millones más.",
-      "published": "2026-10-11T14:00:00+00:00"
-    },
-    {
-      "id": "e96eb4522daf6ce0",
-      "title": "Gobierno pide acelerar obras del Metro ante retrasos en estaciones y espacio público",
-      "link": "https://www.larepublica.co/economia/gobierno-pide-acelerar-obras-del-metro-ante-retrasos-en-estaciones-y-espacio-publico-4501156",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La Línea 1 registró un avance general de 83,73% al cierre de septiembre, frente a las metas previstas en el cronograma; la Nación y el Distrito solicitaron al concesionario aumentar el personal en los frentes con mayores demoras",
-      "published": "2026-10-11T13:48:08+00:00"
-    },
-    {
-      "id": "d3559fdcad7cc211",
-      "title": "Papá León XIV se someterá a una cirugía para extirpar un nódulo en el pulmón",
-      "link": "https://www.larepublica.co/ocio/papa-leon-xiv-se-sometera-a-una-cirugia-para-extirpar-un-pequeno-nodulo-en-el-pulmon-4501152",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El pontífice, de 71 años, será sometido a una cirugía en los próximos días para extirpar la lesión, detectada en una etapa temprana; el Vaticano estima que su recuperación tardará aproximadamente una semana",
-      "published": "2026-10-11T13:19:11+00:00"
-    },
-    {
-      "id": "52a046b04028b4f0",
-      "title": "Estos son los 10 proyectos de energía solar más grandes de Colombia; Enel e Isagen lideran el listado",
-      "link": "https://www.valoraanalitik.com/estos-son-los-10-proyectos-de-energia-solar-mas-grandes-de-colombia-enel-e-isagen-lideran-el-listado/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Las zonas en las que se concentran las grandes iniciativas son Atlántico, Cundinamarca, Tolima, Cesar, Magdalena, Córdoba y Caldas.",
-      "published": "2026-10-11T13:00:00+00:00"
-    },
-    {
-      "id": "58586d3bc7b7d066",
-      "title": "Ministerio del Interior publica borrador de decreto para que licencias ambientales y consultas previas se tramiten al tiempo",
-      "link": "https://www.eltiempo.com/economia/sectores/ministerio-del-interior-publica-borrador-de-decreto-para-que-licencias-ambientales-y-consultas-previas-se-tramiten-al-tiempo-3592742",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Con esta medida se busca destrabar proyectos de infraestructura, minería, hidrocarburos y energía eléctrica en Colombia",
-      "published": "2026-10-11T12:13:50+00:00"
-    },
-    {
-      "id": "1df3059496847c66",
-      "title": "¿Mazda volverá a Colombia? Gobierno abre conversaciones para instalar una planta de ensamblaje de vehículos",
-      "link": "https://www.eltiempo.com/economia/empresas/mazda-volvera-a-colombia-gobierno-abre-conversaciones-para-instalar-una-planta-de-ensamblaje-de-vehiculos-3592628",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El Ministerio de Comercio se reunió con la marca japonesa para explorar inversiones, proveedores locales y una planta de producción.",
-      "published": "2026-10-11T12:11:50+00:00"
-    },
-    {
-      "id": "ed5cf152c6be0b16",
-      "title": "Pensión por invalidez mantendrá estos importantes requisitos a pesar de nueva ley",
-      "link": "https://www.valoraanalitik.com/pension-por-invalidez-mantendra-estos-importantes-requisitos-pese-nueva-ley/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "En el marco de la reforma pensional, la pensión por invalidez se mantiene pero cambia en aspectos fundamentales.",
-      "published": "2026-10-11T12:00:00+00:00"
-    },
-    {
-      "id": "b3cc59b48352f329",
-      "title": "Los infaltables que debe incluir la Ley de Rescate del gobierno De La Espriella para ajustar las finanzas públicas",
-      "link": "https://www.eltiempo.com/economia/sectores/los-infaltables-que-debe-incluir-la-ley-de-rescate-del-gobierno-de-la-espriella-para-ajustar-las-finanzas-publicas-3592375",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El ministro de Hacienda, Miguel Gómez, aseguró que la iniciativa se radicará ante el Congreso de la República en estos días.",
-      "published": "2026-10-11T11:15:00+00:00"
-    },
-    {
-      "id": "d48f17442894a5c7",
-      "title": "Herramientas de inteligencia artificial para aprender a programar en línea",
-      "link": "https://www.larepublica.co/internet-economy/las-5-mejores-herramientas-de-inteligencia-artificial-para-aprender-a-programar-en-linea-4501096",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Desde asistentes que explican errores de código hasta plataformas que enseñan mediante ejercicios interactivos, estas cinco herramientas de IA ofrecen distintas alternativas para aprender programación",
-      "published": "2026-10-11T05:01:41+00:00"
-    },
-    {
-      "id": "cbc60ad2524cfe0d",
-      "title": "Campeón de Champions podría recibir más de US$123 millones en premios",
-      "link": "https://www.larepublica.co/ocio/campeon-de-la-champions-league-podria-recibir-mas-de-us-123-millones-en-premios-4501110",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Cada uno de los 36 clubes que participan en la fase de liga tiene garantizada una asignación inicial de US$20,8 millones; la Uefa aumentó los premios",
-      "published": "2026-10-11T05:01:40+00:00"
-    },
-    {
-      "id": "64017f70fd7f6eb8",
-      "title": "LaCardio y Fundación Valle del Lili, con una mejor reputación investigativa",
-      "link": "https://www.larepublica.co/economia/lacardio-y-fundacion-valle-del-lili-entre-los-hospitales-con-mejor-reputacion-investigativa-4501103",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El primer lugar del ranking fue para el hospital alemán Charité; seguido por The University of Tokyo Hospital; y Groote Schuur Hospital",
-      "published": "2026-10-11T05:01:40+00:00"
-    },
-    {
-      "id": "c425d54d252c6a07",
-      "title": "Episodios más intensos del Niño y las temperaturas extremas que dejaron",
-      "link": "https://www.larepublica.co/economia/los-episodios-mas-intensos-del-fenomeno-de-el-nino-y-las-temperaturas-extremas-que-dejaron-4501109",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El fenómeno climático podría alcanzar una intensidad sin precedentes en los registros modernos, con una anomalía oceánica prevista de hasta 3,7 °C",
-      "published": "2026-10-11T05:01:34+00:00"
-    },
-    {
-      "id": "d26ba19074ce1764",
-      "title": "Espera para cita de visa gringa en Bogotá llega a siete meses, ranking de los países con más demoras",
-      "link": "https://www.larepublica.co/globoeconomia/la-espera-para-una-cita-de-visa-estadounidense-en-bogota-llega-a-siete-meses-4501097",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "A escala internacional, Sídney, Australia, encabeza la clasificación de los lugares más demorados para tener una entrevista para la visa, con una espera de 21 meses",
-      "published": "2026-10-11T05:01:28+00:00"
-    },
-    {
-      "id": "14ddfc207241567f",
-      "title": "Este es el carro eléctrico saudí de 1.111 CV que entra para desafiar a Tesla",
-      "link": "https://www.larepublica.co/ocio/este-es-el-carro-electrico-saudi-de-1-111-cv-que-entra-a-desafiar-a-tesla-4501062",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La marca saudí Ceer presentó sus nuevos modelos eléctricos Exobot, una berlina y un SUV que alcanzan hasta 1.111 caballos de potencia y aceleran de 0 a 100 km/h en 2,1 segundos; la compañía prevé lanzar siete modelos electrificados para...",
-      "published": "2026-10-11T05:01:15+00:00"
-    },
-    {
-      "id": "8783c67770b3c5b6",
-      "title": "Las mejores aplicaciones con IA para aprender idiomas lo antes posible",
-      "link": "https://www.larepublica.co/ocio/las-mejores-aplicaciones-con-ia-para-aprender-idiomas-antes-de-que-se-acabe-el-ano-4501102",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La inteligencia artificial está cambiando la forma de aprender idiomas con aplicaciones que permiten practicar conversaciones, mejorar la pronunciación y estudiar a ritmo propio",
-      "published": "2026-10-11T05:01:03+00:00"
-    },
-    {
-      "id": "07e40ef841177556",
-      "title": "Lotería de Boyacá y del Cauca: conozca los números ganadores del sábado 10 de octubre de 2026",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-boyaca-y-del-cauca-conozca-los-numeros-ganadores-del-sabado-10-de-octubre-de-3592828",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Esta noche se conocieron los resultados de las loterías más destacadas del país. Consulte aquí si fue uno de los afortunados del fin de semana.",
-      "published": "2026-10-11T04:13:40+00:00"
-    },
-    {
-      "id": "3abcb2c4291db050",
-      "title": "El error de bajar la guardia frente al super-Niño / Análisis de Ricardo Ávila",
-      "link": "https://www.eltiempo.com/economia/sectores/el-error-de-bajar-la-guardia-frente-al-super-nino-3592744",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Los datos más recientes confirman que el fenómeno climático ya supera los registros precedentes, lo cual obliga al país a actuar en múltiples frentes.",
-      "published": "2026-10-11T03:30:00+00:00"
-    },
-    {
-      "id": "09a1b52b1e3c49b7",
-      "title": "Los retos para el crecimiento del país de cara al 2050",
-      "link": "https://www.eltiempo.com/economia/sectores/los-retos-para-el-crecimiento-del-pais-de-cara-al-3592388",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Transición demográfica, cambio climático y una economía de bajo crecimiento son algunos de los desafíos de aquí a mitad del siglo, detallan expertos.",
-      "published": "2026-10-11T03:01:00+00:00"
-    },
-    {
-      "id": "762df91936168e63",
-      "title": "Baloto y Baloto Revancha: conozca aquí los resultados del último sorteo del sábado 10 de octubre de 2026",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/baloto-y-baloto-revancha-conozca-aqui-los-resultados-del-ultimo-sorteo-del-sabado-10-de-octubre-de-3592832",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Usted podría ser uno de los felices ganadores de la noche. Consulte abajo los números premiados.",
-      "published": "2026-10-11T02:21:56+00:00"
     }
   ]
 }
