@@ -1,7 +1,259 @@
 {
-  "last_updated_utc": "2026-10-31T15:37:48.606019+00:00",
+  "last_updated_utc": "2026-10-31T23:08:13.095567+00:00",
   "count": 60,
   "items": [
+    {
+      "id": "829b37ab26260c20",
+      "title": "Avianca anuncia nuevo requisito obligatorio para viajar a Estados Unidos desde noviembre",
+      "link": "https://www.valoraanalitik.com/avianca-anuncia-nuevo-requisito-obligatorio-para-viajar-a-estados-unidos-desde-noviembre/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Avianca advirtió que el nuevo requisito para viajar a Estados Unidos será obligatorio desde el 3 de noviembre y deberá presentarse antes del embarque.",
+      "published": "2026-10-31T22:30:00+00:00"
+    },
+    {
+      "id": "a54cec1a8b5ac802",
+      "title": "Banco paraguayo Ueno busca reforzar capital ante caída de sus bonos",
+      "link": "https://www.larepublica.co/globoeconomia/banco-paraguayo-ueno-busca-reforzar-capital-ante-caida-de-sus-bonos-4515873",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Ueno Bank se ha enfrentado a un creciente escrutinio en las últimas semanas después de que documentos filtrados, presuntamente provenientes del Banco Central",
+      "published": "2026-10-31T21:21:30+00:00"
+    },
+    {
+      "id": "eb89d6fafc87e405",
+      "title": "Cochilco recorta pronóstico de producción chilena de cobre pese a panorama de precios",
+      "link": "https://www.larepublica.co/globoeconomia/cochilco-recorta-pronostico-de-produccion-chilena-de-cobre-pese-a-panorama-de-precios-4515870",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Para 2026, la agencia dependiente del Ministerio de Minería espera que la producción caiga un 8,4%, a 4,94 millones de toneladas",
+      "published": "2026-10-31T21:16:34+00:00"
+    },
+    {
+      "id": "f10c7b20434c09ea",
+      "title": "Sobrevivientes de abusos exigirán responsabilidad a la Iglesia en viaje del Papa León a Sudamérica",
+      "link": "https://www.larepublica.co/globoeconomia/sobrevivientes-de-abusos-exigiran-responsabilidad-a-la-iglesia-en-viaje-del-papa-leon-a-sudamerica-4515867",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El primer papa nacido en Estados Unidos visitará Uruguay, Argentina y Perú del 6 al 17 de noviembre. Los últimos seis días estará en el país andino",
+      "published": "2026-10-31T21:07:30+00:00"
+    },
+    {
+      "id": "25910af408284cd8",
+      "title": "Secretaría de Salud declaró alerta amarilla hospitalaria por Halloween hasta el lunes",
+      "link": "https://www.larepublica.co/economia/secretaria-de-salud-declaro-alerta-amarilla-hospitalaria-por-halloween-hasta-el-lunes-4515857",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Con esta declaratoria, las Instituciones Prestadoras de Servicios de Salud, IPS, tanto públicas como privadas, deberán activar sus planes de gestión del riesgo",
+      "published": "2026-10-31T20:45:19+00:00"
+    },
+    {
+      "id": "39ce09a53479c925",
+      "title": "Primicia | Andrés Puyo Mesa será el nuevo presidente del Banco Agrario de Colombia",
+      "link": "https://www.valoraanalitik.com/primicia-andres-puyo-mesa-sera-el-nuevo-presidente-del-banco-agrario-de-colombia/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Andrés Puyo Mesa, nuevo presidente del Banco Agrario, cuenta con cerca de tres décadas de experiencia en el sector financiero.",
+      "published": "2026-10-31T20:33:00+00:00"
+    },
+    {
+      "id": "f7e753149040b977",
+      "title": "Rubio y ministro de Asuntos Exteriores de Brasil se reunirán tras tensiones electorales",
+      "link": "https://www.larepublica.co/globoeconomia/rubio-y-ministro-de-asuntos-exteriores-de-brasil-se-reuniran-tras-tensiones-electorales-4515847",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Un funcionario brasileño restó importancia a las tensiones derivadas de que Brasil no haya aprobado al candidato de Trump para el cargo de embajador",
+      "published": "2026-10-31T20:00:50+00:00"
+    },
+    {
+      "id": "92dcefb1ad37e18f",
+      "title": "La ciberseguridad es un factor clave para el crecimiento digital de las pymes en Colombia: Mastercard",
+      "link": "https://www.valoraanalitik.com/la-ciberseguridad-es-un-factor-clave-para-el-crecimiento-digital-de-las-pymes-en-colombia-mastercard/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Así lo señala el Mastercard 2026 SME Cybersecurity Outlook, el nuevo estudio regional de Mastercard sobre ciberseguridad en las pymes.",
+      "published": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "id": "5e6fa0ffcc705ece",
+      "title": "Binance repone 90% de los activos sustraídos en un incidente de seguridad",
+      "link": "https://www.larepublica.co/globoeconomia/binance-repone-90-de-los-activos-sustraidos-en-un-incidente-de-seguridad-4515845",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La plataforma ha dicho que ha reservado internamente unos US$6.340 millones de los fondos de la empresa para cubrir las pérdidas.",
+      "published": "2026-10-31T19:52:36+00:00"
+    },
+    {
+      "id": "1bc542671b23363a",
+      "title": "CUT convocó a paro nacional el 19 de noviembre en rechazo a la Ley de Rescate",
+      "link": "https://www.larepublica.co/economia/cut-convoco-a-paro-nacional-el-19-de-noviembre-en-rechazo-a-la-ley-de-rescate-4515825",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Entre las medidas rechazadas por la CUT está el aumento del IVA de 5% a 19% para determinados productos y la posibilidad de gravar bienes de la canasta familiar",
+      "published": "2026-10-31T19:07:29+00:00"
+    },
+    {
+      "id": "086dcb61881b23db",
+      "title": "Elecciones intermedias en EE. UU.: estos son los estados que elegirán gobernador y sus candidatos",
+      "link": "https://www.valoraanalitik.com/elecciones-intermedias-en-ee-uu-estos-son-los-estados-que-elegiran-gobernador-y-sus-candidatos/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Las elecciones intermedias del 3 de noviembre definirán las gobernaciones de 36 estados y tres territorios de EE. UU. en medio de la disputa entre partidos.",
+      "published": "2026-10-31T19:00:00+00:00"
+    },
+    {
+      "id": "a00e75c46b2dcc98",
+      "title": "Protestas de Generación Z llegan a Alemania, miles de personas se suman a manifestaciones",
+      "link": "https://www.larepublica.co/globoeconomia/protestas-de-generacion-z-llegan-a-alemania-miles-de-personas-se-suman-a-manifestaciones-4515827",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La organización nacional que agrupa a los estudiantes de secundaria de Alemania, la BSK, se ha distanciado de la iniciativa y tiene previsto celebrar una jornada de protesta independiente el 20 de noviembre",
+      "published": "2026-10-31T18:46:16+00:00"
+    },
+    {
+      "id": "ac455810c0765b7b",
+      "title": "Dian y Minhacienda alistan cambios normativos para combatir la evasión y el contrabando",
+      "link": "https://www.larepublica.co/economia/dian-y-minhacienda-alistan-cambios-normativos-para-combatir-la-evasion-y-el-contrabando-4515816",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El funcionario explicó que los cambios buscan responder a nuevas modalidades de delitos transnacionales, cibercriminalidad y estructuras delictivas",
+      "published": "2026-10-31T18:27:31+00:00"
+    },
+    {
+      "id": "03b3dfec2cc90f1d",
+      "title": "Avianca anunció nuevo requisito para pasajeros que viajen a EE.UU. desde noviembre",
+      "link": "https://www.larepublica.co/empresas/avianca-anuncio-nuevo-requisito-para-pasajeros-que-viajen-a-estados-unidos-desde-noviembre-4515811",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La declaración deberá diligenciarse antes del embarque y será individual para cada pasajero. La medida responde a los protocolos sanitarios adoptados por Estados Unidos ante el brote de ébola en África central",
+      "published": "2026-10-31T18:21:54+00:00"
+    },
+    {
+      "id": "ffd33373998cb4cc",
+      "title": "Halloween: ocho recomendaciones del Ministerio TIC para proteger a los niños de los riesgos en internet y cuidarse de las estafas",
+      "link": "https://www.eltiempo.com/economia/finanzas-personales/halloween-ocho-recomendaciones-del-ministerio-tic-para-proteger-a-los-ninos-de-los-riesgos-en-internet-y-cuidarse-de-las-estafas-3597721",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "La entidad advierte sobre phishing, enlaces falsos y suplantación de identidad, y entrega consejos para prevenir riesgos digitales.",
+      "published": "2026-10-31T18:05:08+00:00"
+    },
+    {
+      "id": "16acf2b815e21fa6",
+      "title": "El PSG sorprende con una alianza inédita que llevará la ciencia y el cuidado personal al fútbol",
+      "link": "https://www.valoraanalitik.com/el-psg-sorprende-con-una-alianza-inedita-que-llevara-la-ciencia-y-el-cuidado-personal-al-futbol/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "El PSG firmó una alianza con L’Oréal hasta 2028 para incorporar investigación científica y cuidado personal al rendimiento de sus futbolistas.",
+      "published": "2026-10-31T18:00:00+00:00"
+    },
+    {
+      "id": "f20964c0bf10ba6a",
+      "title": "Estas son las siete preguntas clave de la Oferta Pública Inicial más grande de la historia",
+      "link": "https://www.larepublica.co/globoeconomia/estas-son-las-siete-preguntas-clave-de-la-oferta-publica-inicial-mas-grande-de-la-historia-4515812",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El prospecto de 335 páginas que la creadora de Claude registró ante la SEC el 26 de octubre abre por primera vez sus números al mercado",
+      "published": "2026-10-31T17:52:58+00:00"
+    },
+    {
+      "id": "e26c28166c966320",
+      "title": "Rusia extiende la prohibición de las exportaciones de diésel hasta enero de 2027",
+      "link": "https://www.larepublica.co/globoeconomia/rusia-extiende-la-prohibicion-de-la-mayoria-de-las-exportaciones-de-diesel-hasta-enero-4515804",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "En noviembre, Rusia planea exportar alrededor de 2,15 millones de toneladas de diésel, tras haber exportado aproximadamente 510.000 toneladas este mes",
+      "published": "2026-10-31T17:26:02+00:00"
+    },
+    {
+      "id": "155fd86b85325050",
+      "title": "Empresas tendrían rebaja de renta en Colombia: así quedaría el impuesto con la Ley de Rescate",
+      "link": "https://www.valoraanalitik.com/empresas-tendrian-rebaja-de-renta-en-colombia-asi-quedaria-el-impuesto-con-la-ley-de-rescate/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La Ley de Rescate propone bajar el impuesto de renta empresarial, con nuevos incentivos a la inversión y cambios en las cargas tributarias. Este es el panorama.",
+      "published": "2026-10-31T17:00:00+00:00"
+    },
+    {
+      "id": "625dd3b813839fb5",
+      "title": "La Ley de Rescate busca ahorrar $8,6 billones y reducir 105 entidades",
+      "link": "https://www.larepublica.co/especiales/la-ley-de-rescate/la-ley-de-rescate-busca-ahorrar-cerca-de-8-6-billones-y-reducir-105-entidades-4515793",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La propuesta busca pasar de 209 a 104 entidades, el plan contempla fusionar cuatro ministerios en dos, crear nuevas carteras y reorganizar superintendencias",
+      "published": "2026-10-31T16:56:13+00:00"
+    },
+    {
+      "id": "0a30595c65997387",
+      "title": "Thomas Greg & Sons regresó al negocio de los pasaportes en Colombia: así se negoció el contrato mientras Portugal toma acciones",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYmRwYlNiTUVyMjlRV0h3NWJTY0tQMlZhNHIyenIzWDZfU1ktWU16TGxicEs2MTlkV3BHMG9abkJEak9tVkNLTG1aX29tM2c4Y0tRaW90SGlSTE1jZHE5XzFmTlI5NG84ellGTUIwOGR6dVhoSjVyZHRBWm5qNWpQMDhIM19feFp1N2dTY09ld19uWXc1My1UdWlvdThHblRoX3Q3cWhuU0UtYlQ5eHN3NmZlZHZuU3FDNlVNeURYbjdaNlJQeTA1TFRiSWRBbFJXWDJqUkxENC0zMGViNU1vRzZsTmc0VmxHMEdJcWd4b1l3VG9ORG1MdlNyRTlMQdIBgwJBVV95cUxNbG9GS3huNm9yVjBCd0xZS3ZtWTR0dVI1X3JyWFVlcEF5c0NRU0pNdnFlRHo5MVN4Yl8zLWxvNXdPOHRraXhzY2lvZnBIejc3MUtiaFNSTk85NG5OcWIxbkxWejZBY0UtZHJPaHZHTF82X1RLVldJM01GdGZiYVp5bWU2VUdYVlQ3VnlZakVZY2hyX3BsNnI4RTJsUnJ2MDFacm5zSTdLRHJMNDBXNnhoV1FiWkM0NEwxaDdGV3VrWDYydlVFS1M5bl9OUlVxS09FVUtfaTlmUU8yNU5XQUNVc2I5UjExNE05ZE1XMkpnVkZobUtUVVlpZmRQWjlxV3hlbkl3?oc=5",
+      "source": "El País",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "Thomas Greg & Sons regresó al negocio de los pasaportes en Colombia: así se negoció el contrato mientras Portugal toma acciones &nbsp;&nbsp; El País",
+      "published": "2026-10-31T16:53:55+00:00"
+    },
+    {
+      "id": "f3b68ff461b5b052",
+      "title": "Así se moverá el tráfico en centros comerciales de Viva, PEI y Parque Arauco por Halloween",
+      "link": "https://www.larepublica.co/empresas/asi-se-movera-el-trafico-por-halloween-en-los-mall-de-viva-pei-y-parque-arauco-4515338",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "aglomeran una oferta de 34 centros comerciales y tienen cerca de 20% de los 6,7 millones de metros cuadrados arrendables en el país",
+      "published": "2026-10-31T16:47:17+00:00"
+    },
+    {
+      "id": "5c1bf2fa561f696c",
+      "title": "World Vision fortalece sus acciones de salud mental en seis departamentos de Colombia",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMURIV0NudXJNeUY0aXRLdV8yWGVBQ0VUZXFMN1A1VWtzaHB2YzJRcEJQaDRZX2JKM0Y3eGIzVVplM0JQSVJVTzQ1dUNxNDNsZHRyeFdEYmg4eUVfa2NSem1LWUhwcGN4YndCWC15TFUtdlhaYnUxdzFrcGhlTkpKRlpIYVE0WHl1TjN2RDhURTNuVlVkbzV6UTdGTnFXUEh2bWctVndRc1BQZEVXaVdwMkF5TzlVdlRDV1I3V1pLYVgtaHJMa1FEak5ic21iRnJQMjd4NkpaVS1wUmPSAeABQVVfeXFMT3FqOFVxeTloakNSa2txeGNaeVdSNkFydVdubnU5MFBIWnNHU0ZhVDRIMlVyZzY3aGZKVGZnNDdpcGFtdWFkSWh1MEdzT3c5czk2OHl6MlM3T1FBUVV1dXFBZzNiRkNXQnVnb1VvbmpoSkRqTVVrTUVOdVg4Q3Itbmo2eHVCX0dUVFQ2dUI0VDhzT01wdng2bEVvMEtDd0wtMXJCZTNEMDR2LVVkRklnRGJ1ZzFKMllPVWdNZUpJTnhhUTl3THpqVHc2REFFVDhueWpZUkxJUDBtekdvYXBHYzQ?oc=5",
+      "source": "Revista Semana",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "World Vision fortalece sus acciones de salud mental en seis departamentos de Colombia &nbsp;&nbsp; Revista Semana",
+      "published": "2026-10-31T16:40:40+00:00"
+    },
+    {
+      "id": "9f9120bf03f3b97e",
+      "title": "Precio del dólar hoy en Colombia: TRM oficial y valor en casas de cambio",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1NWM1BYY3FEb3FMN294TTRkRVhyb1IzMG4wMVlEMHNfRFFuM19CeURwbGJyelNVZDJKNGRSY3YtZmtwdzNBN1FseWxBd0NsdjliR2pTRTdyZ092X2MwTFY2Yms3WkJzZ0g5UVRFWXB0ZzE0VmNNd2RseHRSZHl6QUlFdlI1OTI0ZmhOdmRNNEhMSnlxazRz?oc=5",
+      "source": "RTVC Noticias",
+      "category": "Dólar y TRM",
+      "summary": "Precio del dólar hoy en Colombia: TRM oficial y valor en casas de cambio &nbsp;&nbsp; RTVC Noticias",
+      "published": "2026-10-31T16:14:18+00:00"
+    },
+    {
+      "id": "6ba56b1770808b69",
+      "title": "Entrevista | Así logró La Fragata consolidarse como uno de los restaurantes más famosos de Colombia; revela plan a 2030",
+      "link": "https://www.valoraanalitik.com/la-fragata-restaurante-revela-plan-a-2030/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La tercera generación de la familia que llevó el pescado fresco a Bogotá en 1964 está hoy en manos de María Teresa Calderón y su madre. Valora Analitik conversó con la CEO sobre el relevo, la historia familiar y el rumbo del grupo hacia...",
+      "published": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "id": "23abe251c636ef60",
+      "title": "Banco de la República mantiene la tasa de interés en 12,25 %",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWVFOHRLLWNWbE83MTFibWF1ODJlSk9QYUttZHpHZWtPVC0wVjdwcUNkV0NTdml6aFhsRm1VVXY3cXNBQXoyX1VoOW9vUE1RNXRMRHNZZGdhcGR5Zmg4U0tDelFPN3BOeS1NRC1Zd0M0VDNUV29RNWxIMGh2RENscC1fWWZLMmpsV3pqN1k2X3VKVy1GVFNQdzhEMDg?oc=5",
+      "source": "Diario del Cauca",
+      "category": "Banco de la República",
+      "summary": "Banco de la República mantiene la tasa de interés en 12,25 % &nbsp;&nbsp; Diario del Cauca",
+      "published": "2026-10-31T15:52:53+00:00"
+    },
+    {
+      "id": "57d83f641b3e7649",
+      "title": "Luis Fernando Gómez será el nuevo presidente encargado del Banco Popular",
+      "link": "https://www.larepublica.co/finanzas/luis-fernando-gomez-sera-el-nuevo-presidente-encargado-del-banco-popular-4515782",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La Junta Directiva de Banco Popular aceptó la renuncia de María Fernanda Suárez Londoño, quien estará a cargo del Banco de Bogotá",
+      "published": "2026-10-31T15:52:13+00:00"
+    },
+    {
+      "id": "a0e5f70113581891",
+      "title": "Segundo atentado contra el peaje El Bordo en octubre: Gobierno anuncia medidas de seguridad",
+      "link": "https://www.valoraanalitik.com/segundo-atentado-contra-el-peaje-el-bordo-en-octubre-gobierno-anuncia-medidas-de-seguridad/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Un nuevo ataque con explosivos contra el peaje El Bordo, en Cauca, obligó a evacuar a los trabajadores. Es el segundo atentado en menos de un mes.",
+      "published": "2026-10-31T15:42:39+00:00"
+    },
     {
       "id": "79a728134feb4966",
       "title": "Campaña electoral por el control del Congreso de EE.UU. entra en su último fin de semana",
@@ -28,6 +280,15 @@
       "category": "fuente directa",
       "summary": "ALTA ya trabaja con el gobierno de Abelardo de la Espriella para aplicar las mejoras que El Dorado tiene pendientes desde 2023.",
       "published": "2026-10-31T15:00:00+00:00"
+    },
+    {
+      "id": "9e42066bd4eb2874",
+      "title": "El dólar en Colombia subió casi $25 en una semana marcada por las movidas del Banco de la República y la FED",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZGUxV05BU3pWYUlCMVQtd1RCMGprbTNkZnNGZUR1a3pEd1ZTcVpvTE1yOUlDZ2wxeTljTEpPUm9FOFc0X0RqRVQtNkhFbXBXQlpkeW1YVFBRejdmLXA1RnZDSGZfVUxDVS11YmhZTlJfcU5Eb01MME14bWtIYzVKMFhHakpneW8tbFZzMjl4ajI0SXhfMUVzd3hZejEtMTljZnVqbGZDWk5hYUw5MlpHWXAzN19hOWJER19jWUdwb0JZVmMybmZnUXM0Ymx6UmNJSV9ZTGtNbzZlX3dpUGVWMDl2SXFqYVQtdFlOVEE4Y9IB9AFBVV95cUxQWEdjcUNpRjVfTHZoM3cyLWhkQ1pCWkNWZGJkdzJSbzhCX2JMT1hvOHZmN0VKSG95YnhpSUdISURDb2hUcGpTTkEyLUthTTBIOFYyaEsxTDBtX0V3dk9tN3JNTUdMdUYzQ3FqeUx4amc2V1lEQUp5SWxteGhuWWowQmZqMGhMM28zbjg0enlXX1ZOZXFNM0N4bng1eWEtM1FKaTJ6c1BGcHdMVkpyaWVKNlY0a3NSUVBjR3JmMVJmaUJJNTk5X21XTi1hZm1qVjdrbnVfSHpEOVRSaC0xUDMwU3FReFE1Vzg3Y0dlT3NkWWxDeFFL?oc=5",
+      "source": "Portafolio.co",
+      "category": "Banco de la República",
+      "summary": "El dólar en Colombia subió casi $25 en una semana marcada por las movidas del Banco de la República y la FED &nbsp;&nbsp; Portafolio.co",
+      "published": "2026-10-31T14:56:30+00:00"
     },
     {
       "id": "9f795db848ce66e7",
@@ -93,24 +354,6 @@
       "published": "2026-10-31T12:59:00+00:00"
     },
     {
-      "id": "461215d32f4c91c0",
-      "title": "María Fernanda Suárez, nueva presidente del Banco de Bogotá: es la primera mujer en ocupar ese cargo en la entidad financiera",
-      "link": "https://www.eltiempo.com/economia/sector-financiero/maria-fernanda-suarez-nueva-presidente-del-banco-de-bogota-es-la-primera-mujer-en-ocupar-ese-cargo-en-la-entidad-financiera-3597605",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La ejecutiva cuenta con más de 30 años de experiencia en importantes posiciones del sector público y privado.",
-      "published": "2026-10-31T12:28:57+00:00"
-    },
-    {
-      "id": "1c165064d157a729",
-      "title": "Banco de la República mantiene las tasas de interés en 12,25 %: decisión dividió a su Junta Directiva",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVjJEdURuLVpJeVNNNE5mMXhubWYyX3ZielY1Q05EaWJ5Nno1dlpKVU4zZUlpZ2QwMnJFUFl4czVlb3hqVmtyYkVSRVZjdnBQUkdIX0FNUnVtOURQWkZBYkFBM2FuU19MNjh0NU1EVm1ESTU1dkp2dXZOM2tHR0lKMHJ6emMxcVpBUlpmbEctNVp0OHlhc3p6Y0tTLWtxTXBaNEZ5ZWZIRDhjTnE1bU5NbzhyZDBneTZHZ1hIRlhOZlU?oc=5",
-      "source": "Tolima Online",
-      "category": "Banco de la República",
-      "summary": "Banco de la República mantiene las tasas de interés en 12,25 %: decisión dividió a su Junta Directiva &nbsp;&nbsp; Tolima Online",
-      "published": "2026-10-31T12:03:20+00:00"
-    },
-    {
       "id": "cf33955262f6449b",
       "title": "Norma impone que a estos pensionados en Colombia no se les pague la prima de Navidad",
       "link": "https://www.valoraanalitik.com/norma-impone-que-a-estos-pensionados-en-colombia-no-se-les-pague-la-prima-de-navidad/",
@@ -127,6 +370,15 @@
       "category": "fuente directa",
       "summary": "Los chocolates y dulces lideran la lista de artículos más hurtados, según un estudio de Fenalco que analizó las pérdidas comerciales de 2025.",
       "published": "2026-10-31T11:30:46+00:00"
+    },
+    {
+      "id": "b90659335ae61315",
+      "title": "Grupo UMA proyecta cerrar 2026 con más de 230.000 motos vendidas en el país: 'Colombia manda la parada en la región'",
+      "link": "https://www.eltiempo.com/economia/empresas/grupo-uma-proyecta-cerrar-2026-con-mas-de-230-000-motos-vendidas-en-el-pais-colombia-manda-la-parada-en-la-region-3597717",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Habla Alejandro Londoño, vocero de la marca, una de las más importantes en venta de estos vehículos en el país.",
+      "published": "2026-10-31T10:50:00+00:00"
     },
     {
       "id": "823a30d3f730ede4",
@@ -165,9 +417,9 @@
       "published": "2026-10-31T05:07:49+00:00"
     },
     {
-      "id": "88f158afc826482f",
+      "id": "bd1f35f2c3a19e01",
       "title": "Para entrar al Ruge, empresas deben garantizar inversiones desde $135.125 millones",
-      "link": "https://www.larepublica.co/empresas/para-entrar-al-ruge-empresas-deben-garantizar-inversiones-desde-135-125-millones-4515776",
+      "link": "https://www.larepublica.co/especiales/la-ley-de-rescate/para-entrar-al-ruge-empresas-deben-garantizar-inversiones-desde-135-125-millones-4515776",
       "source": "La República",
       "category": "fuente directa",
       "summary": "El nuevo régimen propuesto por el gobierno nacional plantea umbrales diferenciados en los montos que cada sector debería invertir",
@@ -289,258 +541,6 @@
       "category": "fuente directa",
       "summary": "",
       "published": "2026-10-31T05:01:40+00:00"
-    },
-    {
-      "id": "0d3c5ee9577818e0",
-      "title": "El problema no es solo el “gota a gota”",
-      "link": "https://www.larepublica.co/analisis/silverio-gomez-carmona-534581/el-problema-no-es-solo-el-gota-a-gota-4515549",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En nuestro país ha sido virtualmente inexistente un programa serio de desarrollo y fomento para las micro y pequeñas empresas",
-      "published": "2026-10-31T05:01:38+00:00"
-    },
-    {
-      "id": "b16c908d9e14b594",
-      "title": "¿Es hora de cambiar al CEO?",
-      "link": "https://www.larepublica.co/analisis/ricardo-mejia-cano-3318666/es-hora-de-cambiar-al-ceo-4515443",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Entre las empresas cuya caída previa a la transición del CEO estuvo entre 0% y 20%, aproximadamente 40% logró posteriormente una recuperación positiva",
-      "published": "2026-10-31T05:01:37+00:00"
-    },
-    {
-      "id": "331c0cf36767921a",
-      "title": "Microsoft y la crónica de una salida anunciada",
-      "link": "https://www.larepublica.co/analisis/camilo-salah-2939294/microsoft-y-la-cronica-de-una-salida-anunciada-4515395",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Microsoft anunció un programa de salida voluntaria dirigido a cerca de 60.000 trabajadores, equivalentes a 27% de su plantilla global",
-      "published": "2026-10-31T05:01:36+00:00"
-    },
-    {
-      "id": "935475342017638a",
-      "title": "“Ya registramos 15% de las solicitudes para las tarjetas de crédito a través de WhatsApp”",
-      "link": "https://www.larepublica.co/finanzas/entrevista-con-gian-piero-celia-presidente-de-banco-serfinanza-4514949",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Gian Piero Celia, presidente de Banco Serfinanza, anunció que WhatsApp será una sucursal virtual y lanzarán una superapp este año",
-      "published": "2026-10-31T05:01:34+00:00"
-    },
-    {
-      "id": "9566def3181dd5db",
-      "title": "Digger",
-      "link": "https://www.larepublica.co/analisis/brigitte-baptiste-506149/digger-4515483",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los humanos usamos la ficción como el principal mecanismo para afrontar la incertidumbre",
-      "published": "2026-10-31T05:01:27+00:00"
-    },
-    {
-      "id": "98fce970ddbf8c7b",
-      "title": "El amorío perfecto: Tecnología y pornografía",
-      "link": "https://www.larepublica.co/analisis/dora-glottman-4515406/el-amorio-perfecto-tecnologia-y-pornografia-4515414",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Así las cosas, ¿qué esperar de esta industria en la era de la IA? De acuerdo con Global Commerce Media, la pornografía con IA crece 27% anual y está en auge gracias al contenido personalizado",
-      "published": "2026-10-31T05:01:20+00:00"
-    },
-    {
-      "id": "a8fe72ab8c6708ea",
-      "title": "Salario mínimo 2027 y dilemas en la economía",
-      "link": "https://www.larepublica.co/analisis/juan-pablo-herrera-saavedra-401993/salario-minimo-2027-y-dilemas-en-la-economia-4515275",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los escalones generados con este método pueden ir desde municipios especiales, y de primera a cuarta categoría",
-      "published": "2026-10-31T05:01:19+00:00"
-    },
-    {
-      "id": "39a5c7e7d0222028",
-      "title": "Lecciones no aprendidas",
-      "link": "https://www.larepublica.co/analisis/santiago-angel-rodriguez-3548824/lecciones-no-aprendidas-4515490",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Dar la pelea de la batalla cultural con la decisión de las obras en el Museo Nacional, la de la JEP, y la fiscal y tributaria al mismo tiempo es arriesgado para el ajedrez del pode",
-      "published": "2026-10-31T05:01:17+00:00"
-    },
-    {
-      "id": "af90aebfad068d54",
-      "title": "El 70-30 que debe funcionarle al Gobierno",
-      "link": "https://www.larepublica.co/opinion/editorial/el-70-30-que-debe-funcionarle-al-gobierno-4514956",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Colombia necesita un ajuste profundo de sus finanzas estatales, pues no puede gastar más de lo que le ingresa y debe reducir el gasto público y arañar algo de nuevos impuestos",
-      "published": "2026-10-31T05:01:15+00:00"
-    },
-    {
-      "id": "86423258a4c010b2",
-      "title": "Recortar sin asfixiar",
-      "link": "https://www.larepublica.co/analisis/francisco-barbosa-3943941/recortar-sin-asfixiar-4515435",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Según lo anunciado, de las 209 entidades existentes se eliminarían, suprimirían o fusionarían 105, para dejar 104",
-      "published": "2026-10-31T05:01:15+00:00"
-    },
-    {
-      "id": "b9bc18b3911d69fb",
-      "title": "“Las ventas se han afectado en cerca de 50% a causa las plataformas extranjeras”",
-      "link": "https://www.larepublica.co/empresas/las-ventas-se-han-afectado-en-50-por-la-competencia-extranjera-dijo-daniel-toledo-gerente-de-fantastic-night-4515362",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Daniel Toledo, gerente de Fantastic Night, dijo que Para esta temporada, esperan comercializar entre 130.000 y 140.000 prendas, sin crecimiento frente al año pasado",
-      "published": "2026-10-31T05:01:13+00:00"
-    },
-    {
-      "id": "b4d4684cc9be6278",
-      "title": "El comercio con Canadá ha crecido 156% en 15 años del Tratado de Libre Comercio",
-      "link": "https://www.larepublica.co/globoeconomia/comercio-con-canada-crecio-156-en-15-anos-del-tratado-de-libre-comercio-4515397",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Intercambio comercial entre Colombia y el país norteamericano ha visto un incremento superior a US$1.700 millones",
-      "published": "2026-10-31T05:01:12+00:00"
-    },
-    {
-      "id": "dda9d8df4ef2aef4",
-      "title": "Que se ajusten el cinturón",
-      "link": "https://www.larepublica.co/analisis/jerome-sanabria-3850986/que-se-ajusten-el-cinturon-4515570",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Pero antes de criticar al Gobierno De la Espriella, hay que ser claros: el Gobierno Petro dejó las finanzas públicas en cuidados intensivos",
-      "published": "2026-10-31T05:01:11+00:00"
-    },
-    {
-      "id": "78ddef3b7c9325c2",
-      "title": "Los jugadores de los valores más altos de la historia del futbol moderno todavía no ganan el Balón de Oro",
-      "link": "https://www.larepublica.co/ocio/los-jugadores-de-los-valores-mas-altos-de-la-historia-del-futbol-moderno-todavia-no-ganan-el-balon-de-oro-4515739",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El ganador de un Balón de oro con el valor más alto de toda la historia es Lionel Messi de 2017 que estaba en ese momento con un valor de US$198 millones",
-      "published": "2026-10-31T05:01:11+00:00"
-    },
-    {
-      "id": "fe43c58fb43ff5f9",
-      "title": "Tasa de desempleo en septiembre bajó a 8%, con cerca de 2,11 millones de desocupados",
-      "link": "https://www.larepublica.co/economia/tasa-de-desempleo-en-septiembre-bajo-a-8-con-cerca-de-2-11-millones-de-desocupados-4515442",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El Dane reportó que el empleo estuvo jalonado por el comercio, la industria y el transporte, que adicionaron 364.000 empleos; en contraste, el agro perdió 184.000",
-      "published": "2026-10-31T05:01:10+00:00"
-    },
-    {
-      "id": "b39cdae320d0693b",
-      "title": "Despegar va a financiar las operaciones de hoteles con los anticipos para reservas",
-      "link": "https://www.larepublica.co/empresas/despegar-financiara-operaciones-de-hoteles-con-anticipos-para-sus-reservas-4514954",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Renan Pinto, CFO de Despegar, señaló que la meta es alcanzar entre US$30 millones y US$50 millones en desembolsos en la región a marzo del próximo año",
-      "published": "2026-10-31T05:01:08+00:00"
-    },
-    {
-      "id": "1ac20b122fa002bf",
-      "title": "“Tres ganadoras de los Premios Óscar lucieron mis diseños de una misma colección de moda”",
-      "link": "https://www.larepublica.co/ocio/silvia-tcherassi-recibio-en-madrid-el-premio-influencia-hispana-de-moda-por-su-trayectoria-internacional-4515396",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Silvia Tcherassi recibió en Madrid el premio Influencia Hispana de Moda por su trayectoria internacional",
-      "published": "2026-10-31T05:01:04+00:00"
-    },
-    {
-      "id": "cb36d6a962c1b37f",
-      "title": "La renta para empresas bajaría hasta 31% desde 2028 con la Ley de Rescate",
-      "link": "https://www.larepublica.co/especiales/la-ley-de-rescate/la-renta-para-empresas-bajaria-hasta-31-desde-2028-con-la-ley-de-rescate-4515711",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La reducción empezaría en el año gravable 2027, con una tarifa de 33%",
-      "published": "2026-10-31T05:01:01+00:00"
-    },
-    {
-      "id": "c230d3957e68e133",
-      "title": "Expo2Ruedas 2026: más impulso para las motos",
-      "link": "https://www.eltiempo.com/economia/sectores/expo2ruedas-2026-mas-impulso-para-las-motos-3597645",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "En esta feria que se realiza en Corferias se estrenan tanto nuevos modelos como nuevas marcas para seguir ampliando este mercado en el país.",
-      "published": "2026-10-31T05:01:00+00:00"
-    },
-    {
-      "id": "215483909c7602fe",
-      "title": "Personas con sueldo a partir de $3,1 millones empezarían a declarar renta",
-      "link": "https://www.larepublica.co/especiales/la-ley-de-rescate/personas-naturales-con-salarios-a-partir-de-3-1-millones-empezarian-a-declarar-renta-4515453",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La propuesta del Gobierno bajaría el nivel de ingresos a partir del cual se empieza a pagar el impuesto y reduciría los beneficios a contribuyentes",
-      "published": "2026-10-31T05:01:00+00:00"
-    },
-    {
-      "id": "cb336010d9397576",
-      "title": "Repasando los pecados del marketing",
-      "link": "https://www.larepublica.co/analisis/carlos-fernando-villa-gomez-400403/repasando-los-pecados-del-marketing-4515280",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La tergiversación en algunos casos y los enfoques reduccionistas en otros, han facilitado que ello ocurra, como ha sucedido con el vocablo cliente cuya etimología se refiere a “dependiente”",
-      "published": "2026-10-31T05:00:01+00:00"
-    },
-    {
-      "id": "a4db61f81ff07a31",
-      "title": "Lotería de Santander del viernes 30 de octubre de 2026: resultado, número ganador y premios del sorteo",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-santander-del-viernes-30-de-octubre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-3597646",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-10-31T04:43:46+00:00"
-    },
-    {
-      "id": "5150b3370925ad50",
-      "title": "Lotería de Risaralda del viernes 30 de octubre de 2026: resultado, número ganador y premios del sorteo",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-risaralda-del-viernes-30-de-octubre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-3597642",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Esta noche se conocieron los resultados de las loterías más destacadas del país. Consulte aquí si fue uno de los afortunados del viernes.",
-      "published": "2026-10-31T04:42:22+00:00"
-    },
-    {
-      "id": "68b0ab990706651b",
-      "title": "Lotería de Medellín del viernes 30 de octubre de 2026: resultado, número ganador y premios del sorteo",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-medellin-del-viernes-30-de-octubre-de-2026-resultado-numero-ganador-y-premios-del-sorteo-3597648",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-10-31T04:05:01+00:00"
-    },
-    {
-      "id": "aa4a250ada992969",
-      "title": "Las bolsas de valores de Colombia cerraron con subidas; el COLCAP ganó un 0.04%",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSlVvdkhqak13VFhLOWlEWjdvQ1p4bkpHUHR0ZVJCSWZIOWc2TGltdlZ5Z2Fyd2p2MTdsbW9Zbk1ZNjZ2QXJMbTJvVmhUZy1YbHZpdURyUmIyQ3oyMm5xeDNQa2FiZWtwN1B5Ym95bDg0U21uQ0RwbEpya3V6SXV0OXNSQTI3LWRIUUlfVTE3ZlktX2JnV2kyUkRVT25nNDI5UW10WWxnS2g5bzFNVTRqaUhkTGxuOVA4Y05ZWE1neG4zLTZNajQtcjl4cWI?oc=5",
-      "source": "Investing.com México - Finanzas, Bolsa y Forex",
-      "category": "Mercado y bolsa (BVC)",
-      "summary": "Las bolsas de valores de Colombia cerraron con subidas; el COLCAP ganó un 0.04% &nbsp;&nbsp; Investing.com México - Finanzas, Bolsa y Forex",
-      "published": "2026-10-31T03:26:43+00:00"
-    },
-    {
-      "id": "862ef700da3ab599",
-      "title": "Un niño también puede cambiar el mundo: José Adolfo Quisocala, el peruano que convirtió el reciclaje en oportunidades",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/un-nino-tambien-puede-cambiar-el-mundo-jose-adolfo-quisocala-el-peruano-que-convirtio-el-reciclaje-en-oportunidades-3597552",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "A los 7 años rompió la alcancía para repartir entre los pobres; hoy, a los 21, es la cabeza del Banco del Estudiante.",
-      "published": "2026-10-31T02:42:55+00:00"
-    },
-    {
-      "id": "30a60fc4a915ab4a",
-      "title": "El Gobierno Nacional anunció que mantiene estables los precios de la gasolina y Acpm",
-      "link": "https://www.larepublica.co/economia/el-gobierno-nacional-anuncio-que-mantiene-estables-los-precios-de-la-gasolina-y-acpm-4515626",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El precio promedio de la gasolina y del diésel para noviembre quedó en $15.886 y $11.320, respectivamente",
-      "published": "2026-10-31T02:21:06+00:00"
-    },
-    {
-      "id": "ad84cb8869243f43",
-      "title": "Tasa de Interés se mantiene en 12,25%: Banco de la República",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOTJDSl85R2lSOUM5dTlDdnExbFZvLUhoTzNFQlVIZVZEVndRZFl4b0lzQ2NNS0xva1p0cW56Wkd6NFRCcDJoTDBjcDdpNTJLVUZZdGF1V2dBeE5KQ0NsX0p5eTZ2dEI4OTNUc2lQLXkzU2dkNzdpYUlqRlBFZzNEX2tQZV9VV3dUdVFITURQMG5veHc?oc=5",
-      "source": "360 Radio",
-      "category": "Banco de la República",
-      "summary": "Tasa de Interés se mantiene en 12,25%: Banco de la República &nbsp;&nbsp; 360 Radio",
-      "published": "2026-10-31T01:59:00+00:00"
     }
   ]
 }
