@@ -1,10 +1,388 @@
 {
-  "last_updated_utc": "2026-11-14T16:24:28.182049+00:00",
+  "last_updated_utc": "2026-11-14T23:41:39.415887+00:00",
   "count": 60,
   "items": [
     {
-      "id": "c10646127f519576",
-      "title": "Uribe y Restrepo se reúnen en Antioquia en medio del debate por la reforma tributaria",
+      "id": "efc97845c4f8dd09",
+      "title": "Incendian vivienda de periodista que investiga caso de corrupción en Panamá",
+      "link": "https://www.larepublica.co/globoeconomia/incendian-vivienda-de-periodista-que-investiga-corrupcion-en-panama-4525421",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El presidente de Panamá, José Raúl Mulino, rechazó el ataque e informó que la Policía Nacional y la Fiscalía adelantan las pesquisas",
+      "published": "2026-11-14T23:20:52+00:00"
+    },
+    {
+      "id": "637ecfaf78082286",
+      "title": "La calidad del agua en las playas de Montevideo podrá ser consultada a partir del verano",
+      "link": "https://www.larepublica.co/globoeconomia/la-calidad-del-agua-en-las-playas-de-montevideo-podra-ser-consultada-a-partir-del-verano-4525414",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El director de Desarrollo Ambiental de la comuna capitalina informó que a fin de mes se presentará el sistema mediante el cual los montevideanos podrán informarse sobre el estado sanitario de las aguas",
+      "published": "2026-11-14T23:11:56+00:00"
+    },
+    {
+      "id": "e9d36fdd2ede3db1",
+      "title": "Imagen de Milei se deteriora entre los argentinos mientras el empleo se convierte en preocupación",
+      "link": "https://www.larepublica.co/globoeconomia/la-imagen-de-milei-se-deteriora-entre-los-argentinos-a-medida-que-el-empleo-se-convierte-en-la-principal-preocupacion-4525407",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Según LatAm Pulse, una encuesta realizada por AtlasIntel para Bloomberg News y publicada el viernes, 62% de los argentinos tiene una imagen negativa de Milei",
+      "published": "2026-11-14T23:05:16+00:00"
+    },
+    {
+      "id": "4060cf40371d24ed",
+      "title": "Procafecol reportó ganancias por $6.023 millones e ingresos crecieron 13% a septiembre",
+      "link": "https://www.larepublica.co/empresas/procafecol-reporto-ganancias-por-6-023-millones-e-ingresos-crecieron-13-a-septiembre-4525406",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Uno de los motores del crecimiento fue el negocio internacional, cuyas ventas consolidadas alcanzaron US$40,5 millones, con un incremento de 29% en dólares",
+      "published": "2026-11-14T23:00:49+00:00"
+    },
+    {
+      "id": "27217975a70493bc",
+      "title": "Partidas clave y controles a fondos públicos que quedaron fuera del Presupuesto de 2027",
+      "link": "https://www.valoraanalitik.com/partidas-clave-y-controles-a-fondos-publicos-que-quedaron-fuera-del-presupuesto-de-2027/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Según el Observatorio Fiscal de la Javeriana, al expedir por decreto el Presupuesto se sacrificaron las adiciones para salud, pensiones y educación.",
+      "published": "2026-11-14T23:00:00+00:00"
+    },
+    {
+      "id": "997bd19064f9ab23",
+      "title": "Juan Valdez superó los $722.000 millones en ingresos: Crecimiento fue del 13 % y se viene apertura de tiendas",
+      "link": "https://www.valoraanalitik.com/juan-valdez-supero-los-722-000-millones-en-ingresos-crecimiento-fue-del-13-y-se-viene-apertura-de-tiendas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Uno de los principales resultados del periodo se registró en el negocio internacional.",
+      "published": "2026-11-14T22:37:53+00:00"
+    },
+    {
+      "id": "f5153c8443fc75f9",
+      "title": "Colapso del sector de la aviación estadounidense se achaca a un router instalado por L3 Harris",
+      "link": "https://www.larepublica.co/globoeconomia/colapso-del-sector-de-la-aviacion-estadounidense-se-achaca-a-un-router-instalado-por-l3-harris-4525396",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "L3 señaló que ha completado más de 70% de la conversión prevista de las comunicaciones del espacio aéreo, pasando de los antiguos cables de cobre a un sistema de fibra óptica",
+      "published": "2026-11-14T22:02:19+00:00"
+    },
+    {
+      "id": "e1e105df26e11bbd",
+      "title": "Scania inauguró centro que monitoreará más de 3.300 buses y camiones en Colombia",
+      "link": "https://www.valoraanalitik.com/scania-inauguro-centro-que-monitoreara-mas-de-3-300-buses-y-camiones-en-colombia/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La compañía también proyecta incrementar hasta en 50 % la vida útil de algunos componentes de desgaste.",
+      "published": "2026-11-14T22:00:00+00:00"
+    },
+    {
+      "id": "406d0165c223af87",
+      "title": "Fallas en plataformas de la Dian frenan despachos y elevan costos del comercio",
+      "link": "https://www.larepublica.co/economia/fallas-en-plataformas-de-la-dian-frenan-despachos-y-elevan-costos-del-comercio-exterior-4525392",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El gremio solicitó un encuentro con las áreas responsables de la operación aduanera y tecnológica de la entidad para identificar el origen de las fallas",
+      "published": "2026-11-14T21:54:21+00:00"
+    },
+    {
+      "id": "28e3097657d14ca8",
+      "title": "Acuerdo destraba obras pendientes de la vía Bogotá-Girardot ¿Qué cambiará para los viajeros?",
+      "link": "https://www.valoraanalitik.com/acuerdo-destraba-obras-pendientes-de-la-via-bogota-girardot-que-cambiara-para-los-viajeros/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La ANI llegó a un acuerdo con la concesión Vía Sumapaz que tendrá un beneficio grande en la vía Bogotá - Girardot que recientemente amplió sus carriles.",
+      "published": "2026-11-14T21:40:00+00:00"
+    },
+    {
+      "id": "014654baa8f544cd",
+      "title": "Vivienda sin cuota inicial: la fórmula que piden constructoras y bancos para que las familias no se cuelguen en las cuotas",
+      "link": "https://www.eltiempo.com/economia/sectores/vivienda-sin-cuota-inicial-la-formula-que-piden-constructoras-y-bancos-para-que-las-familias-no-se-cuelguen-en-las-cuotas-3600959",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Una iniciativa en el Congreso de la República propone que los colombianos puedan comprar vivienda sin cuota inicial.",
+      "published": "2026-11-14T21:36:54+00:00"
+    },
+    {
+      "id": "a8f8ae08a7cadcc7",
+      "title": "Starship de SpaceX supera con éxito su primer regreso a la tierra en instalaciones de Texas",
+      "link": "https://www.larepublica.co/globoeconomia/starship-de-spacex-se-acerca-al-final-de-su-decimoquinto-vuelo-de-prueba-e-intento-de-aterrizaje-de-regreso-4525386",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El regreso exitoso de la etapa superior del Starship tras orbitar la Tierra 14 veces durante más de 22 horas supuso un hito clave de ingeniería en el vertiginoso desarrollo",
+      "published": "2026-11-14T21:35:09+00:00"
+    },
+    {
+      "id": "b0d02b6d9f56dd8c",
+      "title": "Black Friday 2026: ¿cómo se hace una devolución de una compra en internet desde Colombia?",
+      "link": "https://www.eltiempo.com/economia/finanzas-personales/black-friday-2026-como-se-hace-una-devolucion-de-una-compra-en-internet-desde-colombia-3601151",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "La Ley contempla el derecho al retracto y a las devoluciones por compras digitales, con plazos y requisitos establecidos.",
+      "published": "2026-11-14T21:01:31+00:00"
+    },
+    {
+      "id": "2c2f3f1540703157",
+      "title": "Lay’s llega a la Copa Libertadores con un patrocinio hasta 2030 y amplía su negocio en el fútbol",
+      "link": "https://www.valoraanalitik.com/lays-llega-a-la-copa-libertadores-con-un-patrocinio-hasta-2030-y-amplia-su-negocio-en-el-futbol/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La marca de PepsiCo será patrocinadora de la Copa Libertadores desde 2027 y amplía su presencia en el fútbol tras sus acuerdos con FIFA y UEFA.",
+      "published": "2026-11-14T21:00:00+00:00"
+    },
+    {
+      "id": "f57d348ee8bf89ea",
+      "title": "Gobierno garantiza continuidad de los fondos cafeteros con nuevos contratos hasta esta fecha",
+      "link": "https://www.valoraanalitik.com/gobierno-garantiza-continuidad-de-los-fondos-cafeteros-con-nuevos-contratos-hasta-esta-fecha/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La renovación contractual permitirá evitar interrupciones en la gestión de estos recursos.",
+      "published": "2026-11-14T20:49:20+00:00"
+    },
+    {
+      "id": "1503ee1bde23d078",
+      "title": "BID aprueba US$450 millones para impulsar reformas e inversiones en el sector eléctrico",
+      "link": "https://www.larepublica.co/economia/bid-aprueba-us-450-millones-para-impulsar-reformas-e-inversiones-en-el-sector-electrico-4525375",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La operación hace parte de un paquete anunciado por US$842 millones y respaldará medidas para ampliar la oferta de energía, facilitar conexiones y fortalecer la cobertura rural",
+      "published": "2026-11-14T20:43:06+00:00"
+    },
+    {
+      "id": "a7f98b567239de9b",
+      "title": "Madrid y Barcelona mantienen al alza los precios de vivienda en sus áreas metropolitanas",
+      "link": "https://www.larepublica.co/globoeconomia/madrid-y-barcelona-mantienen-al-alza-los-precios-de-vivienda-en-sus-areas-metropolitanas-4525364",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "En Madrid, Torrejón de Ardoz reportó el mayor incremento, mientras que en Barcelona se destacó Viladecans, con una subida anual de 24,8%",
+      "published": "2026-11-14T20:28:09+00:00"
+    },
+    {
+      "id": "bb965eca23615fde",
+      "title": "Comisión de Regulación de Agua Potable y Saneamiento Básico expuso marco tarifario de aseo",
+      "link": "https://www.larepublica.co/economia/nuevo-marco-tarifario-de-aseo-4525362",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La CRA le presentó a la Corte Constitucional esta medida que tiene como propósito proteger los derechos de los recicladores de oficio",
+      "published": "2026-11-14T20:22:25+00:00"
+    },
+    {
+      "id": "0175c0a5093f16b8",
+      "title": "Puerto Valparaíso y TPS despejan el camino para el fin de la concesión del Terminal 1 en 2029",
+      "link": "https://www.larepublica.co/globoeconomia/puerto-valparaiso-y-tps-despejan-el-camino-para-el-fin-de-la-concesion-del-terminal-1-en-2029-4525338",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El entendimiento entre la estatal y la concesionaria define el valor residual de las inversiones del Nuevo Proyecto Opcional",
+      "published": "2026-11-14T20:13:49+00:00"
+    },
+    {
+      "id": "d419acf6efd14f69",
+      "title": "Empresas en Colombia alistan cambios en los beneficios para los trabajadores en 2027",
+      "link": "https://www.valoraanalitik.com/empresas-en-colombia-alistan-cambios-en-los-beneficios-para-los-trabajadores-en-2027/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Las empresas en Colombia revisan nuevas fórmulas para mejorar los ingresos de sus empleados y aliviar gastos cotidianos sin elevar sus costos laborales.",
+      "published": "2026-11-14T20:00:00+00:00"
+    },
+    {
+      "id": "c88deca982e43bc3",
+      "title": "Las acciones del Banco do Brasil se desploman a medida que empeoran las perspectivas",
+      "link": "https://www.larepublica.co/globoeconomia/las-acciones-del-banco-do-brasil-se-desploman-a-medida-que-empeoran-las-perspectivas-de-ganancias-y-el-credito-4525339",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Banco do Brasil SA recortó sus previsiones de beneficios y afirmó que las condiciones crediticias habían empeorado en su amplia cartera de préstamos a empresas agrícolas",
+      "published": "2026-11-14T19:55:28+00:00"
+    },
+    {
+      "id": "d7bce95c3f9a356e",
+      "title": "Entrega de medicamentos de Sanitas tardaría hasta dos semanas más en normalizarse",
+      "link": "https://www.larepublica.co/empresas/entrega-de-medicamentos-de-sanitas-tardaria-hasta-dos-semanas-mas-en-normalizarse-4525307",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El cambio de operador farmacéutico de Cruz Verde a Colsubsidio dejó medicamentos pendientes y generó largas filas en los dispensarios",
+      "published": "2026-11-14T19:25:32+00:00"
+    },
+    {
+      "id": "32415882cf695e9c",
+      "title": "El ascenso de Miller a la Casa Blanca inquieta a los negociadores comerciales con México",
+      "link": "https://www.larepublica.co/globoeconomia/el-ascenso-de-miller-a-la-casa-blanca-inquieta-a-los-negociadores-comerciales-con-mexico-4525303",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Como jefe de gabinete de Donald Trump, recientemente ascendido, Stephen Miller goza de una mayor cercanía con el presidente",
+      "published": "2026-11-14T19:06:55+00:00"
+    },
+    {
+      "id": "a053ec8a1db7c11e",
+      "title": "Gremio del plástico destaca que reencauche puede reducir el costo por kilometro frente a llantas importadas de «baja calidad»",
+      "link": "https://www.valoraanalitik.com/gremio-del-plastico-destaca-que-reencauche-puede-reducir-el-costo-por-kilometro-frente-a-llantas-importadas-de-baja-calidad/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Señala la importancia de concentrar el análisis en la existencia de dumping y la imposibilidad de competir en condiciones desiguales de mercado.",
+      "published": "2026-11-14T19:00:00+00:00"
+    },
+    {
+      "id": "cafb85a02631eaf7",
+      "title": "Ed Westwick, de Gossip Girl, llegó a Colombia con ‘Afnan’ y destacó su gusto por el café",
+      "link": "https://www.larepublica.co/ocio/ed-westwick-de-gossip-girl-llego-a-colombia-con-afnan-y-destaco-su-gusto-por-el-cafe-4525292",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Uno de los momentos más curiosos de la entrevista llegó cuando se le preguntó qué era lo que más le gustaba de Colombia y en qué sector invertiría si tuviera la oportunidad de hacerlo en el país",
+      "published": "2026-11-14T18:51:30+00:00"
+    },
+    {
+      "id": "0f4e8a7d8241aa8f",
+      "title": "Industria textil pide extender decreto para mantener arancel de 0% a los hilados",
+      "link": "https://www.larepublica.co/economia/extension-del-decreto-para-mantener-arancel-de-0-a-los-hilados-4525287",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La Cámara Colombiana de la Confección y Afines le hizo esta solicitud al Gobierno, al Ministerio de Comercio, Industria y Turismo y al Comité de Asuntos Aduaneros, Arancelarios y de Comercio Exterior",
+      "published": "2026-11-14T18:48:20+00:00"
+    },
+    {
+      "id": "0359db3056df0205",
+      "title": "Grupo Sura ganó en nueve meses lo que esperaba para todo 2026 y elevó sus metas para el cierre del año",
+      "link": "https://www.eltiempo.com/economia/sector-financiero/grupo-sura-gano-en-nueve-meses-lo-que-esperaba-para-todo-2026-y-elevo-sus-metas-para-el-cierre-del-ano-3601125",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "La utilidad neta controladora llegó a $ 2,3 billones a septiembre, mientras la organización redujo su deuda neta en $ 1 billón en el tercer trimestre.",
+      "published": "2026-11-14T18:45:53+00:00"
+    },
+    {
+      "id": "78786adcb150352c",
+      "title": "Nubank podrá ejercer como banco en Brasil tras recibir aval para comprar el Porto Real",
+      "link": "https://www.larepublica.co/globoeconomia/nubank-podra-ejercer-como-banco-en-brasil-tras-recibir-aval-para-comprar-el-porto-real-4525263",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La operación se cerrará en los próximos días y no le implicará a la compañía exigencias adicionales de capital ni de liquidez",
+      "published": "2026-11-14T18:29:14+00:00"
+    },
+    {
+      "id": "d3399df5ec883fd9",
+      "title": "Megaproyectos de US$6.299 millones en Antioquia que buscan financiación en Milagro Week",
+      "link": "https://www.valoraanalitik.com/megaproyectos-de-us6-299-millones-en-antioquia-que-buscan-financiacion-en-milagro-week/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Las propuestas están distribuidas en cinco sectores: infraestructura, energía, hotelería, agroindustria y tecnología.",
+      "published": "2026-11-14T18:25:10+00:00"
+    },
+    {
+      "id": "4aa2614b42b82c50",
+      "title": "Obras en estación 16 y renovación de redes afectan el cronograma del Metro",
+      "link": "https://www.larepublica.co/economia/obras-en-estacion-16-y-renovacion-de-redes-afectan-el-cronograma-del-metro-de-bogota-4525273",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Uno de los mayores cambios frente a la planeación inicial está bajo tierra. La intervención de redes pasó de una estimación de 130 kilómetros a una necesidad de 320 kilómetros",
+      "published": "2026-11-14T18:17:10+00:00"
+    },
+    {
+      "id": "fbccded0dd35c8fa",
+      "title": "Elon Musk afirma que Nvidia perderá acuerdos \"críticos\" sin Jensen Huang",
+      "link": "https://www.larepublica.co/globoeconomia/elon-musk-afirma-que-nvidia-perdera-acuerdos-criticos-sin-jensen-huang-4525250",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El empresario considera que la compañía podría perder acuerdos estratégicos con proveedores debido a que varias negociaciones dependían de la confianza",
+      "published": "2026-11-14T17:54:50+00:00"
+    },
+    {
+      "id": "fe29956a0b896222",
+      "title": "Negocios turísticos podrán financiar reparaciones, equipos y deudas con nueva línea de Bancóldex y Fontur",
+      "link": "https://www.eltiempo.com/economia/sectores/negocios-turisticos-podran-financiar-reparaciones-equipos-y-deudas-con-nueva-linea-de-bancoldex-y-fontur-3601107",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Tener el Registro Nacional de Turismo activo, uno de los requisitos para aplicar a los recursos, que se tramitan con los intermediarios financieros.",
+      "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "id": "dd1bae469f7cb5ac",
+      "title": "XM advierte que quedan 16 días para llenar los embalses antes del verano con El Niño",
+      "link": "https://www.larepublica.co/economia/xm-advierte-que-quedan-16-dias-para-llenar-los-embalses-antes-del-verano-con-el-nino-4525204",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los aportes de agua marcan mínimos históricos y la generación térmica solo ha cumplido la meta en una fracción de los días desde que se activó la medida de la Creg",
+      "published": "2026-11-14T17:41:55+00:00"
+    },
+    {
+      "id": "5134daa8d7f1fcf7",
+      "title": "La Administración Federal de Aviación de EE.UU. prevé cancelación de 5.000 vuelos",
+      "link": "https://www.larepublica.co/globoeconomia/la-administracion-federal-de-aviacion-de-ee-uu-preve-cancelacion-de-hasta-5-000-vuelos-4525247",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Las aerolíneas se apresuran a restablecer sus horarios habituales, lo que ha provocado la cancelación de unos 3.500 vuelos con origen, destino o dentro de Estados Unidos",
+      "published": "2026-11-14T17:27:15+00:00"
+    },
+    {
+      "id": "e99b23421abefc57",
+      "title": "Venezuela prometió completar las reparaciones del oleoducto en Colombia para marzo",
+      "link": "https://www.larepublica.co/globoeconomia/venezuela-prometio-completar-las-reparaciones-del-oleoducto-en-colombia-para-marzo-4525245",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Cuando concluyan las reparaciones de un tramo de cinco kilómetros del gasoducto transfronterizo, el suministro de gas provendrá del proyecto Cardón IV",
+      "published": "2026-11-14T17:18:44+00:00"
+    },
+    {
+      "id": "8174e4726941590b",
+      "title": "Presidente de la Reserva Federal defendió las alzas graduales de los tipos de interés",
+      "link": "https://www.larepublica.co/globoeconomia/presidente-de-la-reserva-federal-defendio-las-alzas-graduales-de-los-tipos-de-interes-4525241",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Collins reiteró que la dirección de la política monetaria es clara, pero evitó precisar con qué rapidez o en qué medida el banco central tendrá que subir las tasas",
+      "published": "2026-11-14T17:08:36+00:00"
+    },
+    {
+      "id": "184748ae8949ab93",
+      "title": "Las franquicias del cine llegan a los celulares con ediciones especiales para coleccionistas",
+      "link": "https://www.larepublica.co/internet-economy/las-franquicias-del-cine-se-meten-en-los-celulares-4525228",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Se trata de una pieza de colección entre Harry Potter y Realme",
+      "published": "2026-11-14T17:02:03+00:00"
+    },
+    {
+      "id": "a6554c332f19107e",
+      "title": "Metro de Bogotá tiene lío grande que retrasaría su funcionamiento: Galán explicó las razones",
+      "link": "https://www.valoraanalitik.com/metro-de-bogota-tiene-lio-grande-que-retrasaria-su-funcionamiento-galan-explico-las-razones/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Galán identificó dos situaciones que han representado dificultades para el desarrollo de la obra en la primera línea del Metro.",
+      "published": "2026-11-14T17:00:00+00:00"
+    },
+    {
+      "id": "601edeb440d1f477",
+      "title": "Fondes formaliza $34.000 millones para la prefactibilidad de la Línea 4 del Metro",
+      "link": "https://www.larepublica.co/economia/fondes-formaliza-34-000-millones-para-la-prefactibilidad-de-la-linea-4-del-metro-4525218",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La formalización de $34.000 millones a través del Fondo de Desarrollo Nacional permitirá avanzar en la cofinanciación del proyecto",
+      "published": "2026-11-14T16:40:53+00:00"
+    },
+    {
+      "id": "b85b752b59a40e55",
+      "title": "León XIV coronó a la Virgen Inmaculada de Chiclayo y envió un mensaje frente a la violencia",
+      "link": "https://www.larepublica.co/globoeconomia/leon-xiv-corono-a-la-virgen-inmaculada-de-chiclayo-y-envio-un-mensaje-frente-a-la-violencia-4525215",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Durante su homilía, el pontífice explicó que la coronación representa un homenaje de gratitud y amor a la Virgen María",
+      "published": "2026-11-14T16:34:32+00:00"
+    },
+    {
+      "id": "526a2351b4116286",
+      "title": "La SIC archivó caso contra Ecopetrol que exponía al grupo a multa de $525.271 millones",
+      "link": "https://www.larepublica.co/economia/la-sic-archivo-caso-contra-ecopetrol-que-exponia-al-grupo-a-multa-de-525-271-millones-4525210",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La decisión cobija a Cenit, Ocensa y cinco personas vinculadas a la primera filial. La autoridad no encontró acreditado un direccionamiento en las contrataciones de helicópteros analizadas",
+      "published": "2026-11-14T16:29:13+00:00"
+    },
+    {
+      "id": "fdc7269a20be354c",
+      "title": "Italia multó con US$887 millones a Meta por acceso a datos de usuarios de Android",
+      "link": "https://www.larepublica.co/globoeconomia/italia-multo-con-us-887-millones-a-meta-por-acceso-a-datos-de-usuarios-de-android-4525212",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "La autoridad italiana dio 60 días a la compañía para introducir una solicitud de consentimiento y detalló que la sanción equivale a 0,47% de los ingresos del grupo",
+      "published": "2026-11-14T16:28:19+00:00"
+    },
+    {
+      "id": "56d6f2471dfe047d",
+      "title": "Uribe salió con “ilusión” de alivios tras reunión con el Gobierno sobre tributaria",
       "link": "https://www.larepublica.co/economia/uribe-y-congresistas-del-centro-democratico-se-reunen-con-restrepo-para-estudiar-la-tributaria-4525205",
       "source": "La República",
       "category": "fuente directa",
@@ -66,21 +444,12 @@
       "published": "2026-11-14T15:00:00+00:00"
     },
     {
-      "id": "90bfb666023cae24",
-      "title": "Así se convertirán en obras los recursos donados por la Fundación Sarmiento Angulo para reconstruir Valle, Risaralda y Chocó tras el terremoto",
-      "link": "https://www.eltiempo.com/economia/sectores/asi-se-convertiran-en-obras-los-recursos-donados-por-la-fundacion-sarmiento-angulo-para-reconstruir-valle-risaralda-y-choco-3600972",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Los mandatarios de Valle del Cauca, Risaralda y Chocó presentaron los proyectos que recibirán apoyo de la donación de $200.000 millones de la entidad.",
-      "published": "2026-11-14T14:05:49+00:00"
-    },
-    {
       "id": "1e44000398651b09",
       "title": "Sector bananero se mueve en Colombia: Tres de las empresas más importantes en Urabá protagonizan gigante operación",
       "link": "https://www.valoraanalitik.com/sector-bananero-se-mueve-en-colombia-2026/",
       "source": "Valora Analitik",
       "category": "fuente directa",
-      "summary": "C.I. Tropical, la tercera exportadora de banano de Urabá sede su operación a dos actores clave de esta industria.",
+      "summary": "C.I. Tropical, la tercera exportadora de banano de Urabá cede su operación a dos actores clave de esta industria.",
       "published": "2026-11-14T14:00:00+00:00"
     },
     {
@@ -129,15 +498,6 @@
       "published": "2026-11-14T12:36:49+00:00"
     },
     {
-      "id": "014654baa8f544cd",
-      "title": "Vivienda sin cuota inicial: la fórmula que piden constructoras y bancos para que las familias no se cuelguen en las cuotas",
-      "link": "https://www.eltiempo.com/economia/sectores/vivienda-sin-cuota-inicial-la-formula-que-piden-constructoras-y-bancos-para-que-las-familias-no-se-cuelguen-en-las-cuotas-3600959",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Una iniciativa en el Congreso de la República propone que los colombianos puedan comprar vivienda sin cuota inicial.",
-      "published": "2026-11-14T12:30:00+00:00"
-    },
-    {
       "id": "4643297dc726da76",
       "title": "Estos pensionados en Colombia se pierden del pago de la prima de Navidad",
       "link": "https://www.valoraanalitik.com/estos-pensionados-en-colombia-se-pierden-del-pago-de-la-prima-de-navidad/",
@@ -181,366 +541,6 @@
       "category": "fuente directa",
       "summary": "Los líos se dieron por una actualización en la capacidad de red, que ha afectado a más de tres millones de empresas",
       "published": "2026-11-14T05:04:55+00:00"
-    },
-    {
-      "id": "6059ec611960a0f4",
-      "title": "Cómputo a crédito",
-      "link": "https://www.larepublica.co/analisis/javier-villamizar-500031/computo-a-credito-4524879",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Quien tenga balance y contratos firmados seguirá construyendo; quien dependa de emitir deuda cara se quedará a mitad de camino",
-      "published": "2026-11-14T05:03:59+00:00"
-    },
-    {
-      "id": "837553962cbc59c4",
-      "title": "Masacre de Nova en Israel",
-      "link": "https://www.larepublica.co/analisis/francisco-barbosa-3943941/masacre-de-nova-en-israel-4524823",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": ". El día en que quienes vuelvan a Nova puedan caminar por ese lugar sin tener que preguntar dónde refugiarse, la paz habrá empezado a cambiar su vida cotidiana",
-      "published": "2026-11-14T05:03:56+00:00"
-    },
-    {
-      "id": "80f6c17d4d29365d",
-      "title": "Bogotá, Medellín y Bucaramanga, ciudades que lideran en competitividad",
-      "link": "https://www.larepublica.co/economia/bogota-medellin-y-bucaramanga-lideran-en-competitividad-4524917",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La capital encabeza el índice de competitividad de ciudades de este año, de la Universidad del Rosario y Colombia Compite, con un puntaje de 7,15 sobre 10",
-      "published": "2026-11-14T05:02:55+00:00"
-    },
-    {
-      "id": "b0034e29d4c3b010",
-      "title": "Elecciones de medio término en Estados Unidos: después del tsunami azul, toca gobernar",
-      "link": "https://www.larepublica.co/analisis/jose-aristimuno-4320800/elecciones-de-medio-termino-en-estados-unidos-despues-del-tsunami-azul-toca-gobernar-4524839",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El tsunami azul abrió una puerta. Los demócratas tenemos la obligación de cruzarla con humildad y demostrar que merecemos la confianza recibida",
-      "published": "2026-11-14T05:02:41+00:00"
-    },
-    {
-      "id": "8b700e0c252f1b8c",
-      "title": "Deuda para dummies",
-      "link": "https://www.larepublica.co/analisis/jerome-sanabria-3850986/deuda-para-dummies-4524856",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Más de 90% de los recursos del presupuesto ya tiene una destinación definida por ley",
-      "published": "2026-11-14T05:02:41+00:00"
-    },
-    {
-      "id": "cd0880c81cd11ba3",
-      "title": "¿Una nueva era nuclear? Qué oportunidades se abren para Colombia",
-      "link": "https://www.larepublica.co/analisis/park-sun-tae-3699318/una-nueva-era-nuclear-que-oportunidades-se-abren-para-colombia-4524835",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Colombia haría bien en mirar más allá del debate sobre si construir o no una central nuclear y prestar atención a las oportunidades que ofrece la ciencia y la tecnología nucleares",
-      "published": "2026-11-14T05:02:36+00:00"
-    },
-    {
-      "id": "64287dccb7d1576b",
-      "title": "Cinco de los 135 proyectos de la ‘Milagro Week’ buscan traer 50% del monto esperado",
-      "link": "https://www.larepublica.co/economia/cinco-proyectos-de-la-milagro-week-traerian-50-del-monto-total-4524904",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La rueda de negocios en Nueva York tendrá un portafolio de 135 proyectos listos para recibir capital. El Gobierno informó que 43 inversionistas están solicitando citas",
-      "published": "2026-11-14T05:02:29+00:00"
-    },
-    {
-      "id": "e712cdbbba422d56",
-      "title": "“La reconstrucción de Pereira puede llegar a costar alrededor de $13 billones, según cálculos”",
-      "link": "https://www.larepublica.co/economia/entrevista-con-mauricio-salazar-alcalde-de-pereira-sobre-el-fondo-milagro-y-los-fondos-para-la-reconstruccion-4524911",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Mauricio salazar, alcalde de la capital de Risaralda, afirmó que, tres meses después del terremoto, el Fondo Milagro no ha transferido recursos para la reconstrucción",
-      "published": "2026-11-14T05:02:21+00:00"
-    },
-    {
-      "id": "a441d8f72a1cdf8f",
-      "title": "Así es como Ecopetrol planea la reactivación de sus proyectos de fracking en Colombia",
-      "link": "https://www.larepublica.co/economia/ecopetrol-anuncia-que-reactivara-proyectos-de-fracking-en-colombia-4524897",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Directivos de la petrolera afirmaron que yacimientos en el Valle Medio del Magdalena tienen un potencial geológico “similar” al de Vaca Muerta, ubicado en Argentina",
-      "published": "2026-11-14T05:02:21+00:00"
-    },
-    {
-      "id": "cb772f3326fd0edd",
-      "title": "¿Qué pasa con la reconstrucción en Pereira?",
-      "link": "https://www.larepublica.co/analisis/santiago-angel-rodriguez-3548824/que-pasa-con-la-reconstruccion-en-pereira-4524830",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El Gobierno ha dado buenos golpes en seguridad. Pero la gestión del terremoto no se ha notado. Era la prioridad, las víctimas lo siguen necesitando con urgencia",
-      "published": "2026-11-14T05:02:08+00:00"
-    },
-    {
-      "id": "dd058fea9dc188b8",
-      "title": "Hacer las reglas",
-      "link": "https://www.larepublica.co/analisis/gustavo-moreno-montalvo-2565659/hacer-las-reglas-4524885",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Hay que tener en cuenta que Las decisiones públicas requieren rigor, análisis y evaluación",
-      "published": "2026-11-14T05:02:06+00:00"
-    },
-    {
-      "id": "4a2be998126fb5d6",
-      "title": "Mercadeo y Navidad",
-      "link": "https://www.larepublica.co/analisis/carlos-fernando-villa-gomez-400403/mercadeo-y-navidad-4524891",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Ya se siente y respira un aire distinto, de patria milagro y una nueva Navidad.",
-      "published": "2026-11-14T05:02:05+00:00"
-    },
-    {
-      "id": "98a59cceaca95899",
-      "title": "¿Qué son los kidfluencers? Los pequeños que se toman la web y las redes sociales",
-      "link": "https://www.larepublica.co/internet-economy/que-son-los-kidfluencers-los-pequenos-que-se-toman-la-web-y-las-redes-sociales-4525052",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "En 2026, los mayores pueden tener 16 años y los más pequeños, entre uno y dos años y su público objetivo suele estar compuesto por niños",
-      "published": "2026-11-14T05:01:57+00:00"
-    },
-    {
-      "id": "fb49088f70ffe1cf",
-      "title": "Analistas prevén que el precio del dólar llegue a un rango de $3.200 al cierre del año",
-      "link": "https://www.larepublica.co/finanzas/analistas-preven-que-el-precio-del-dolar-llegue-a-un-rango-de-3-200-al-cierre-del-ano-4524748",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La divisa estadounidense cerró la semana en $3.316,7, subió $78,87 frente al lunes; superó la barrera de $3.300 y tocó un máximo no visto desde hace seis semanas",
-      "published": "2026-11-14T05:01:55+00:00"
-    },
-    {
-      "id": "d1687d66362e1405",
-      "title": "“En Proyecto Kinder hemos vendido cerca de $20.000 millones en nuestro primer año”",
-      "link": "https://www.larepublica.co/ocio/felipe-rodriguez-fundador-del-establecimiento-hablo-sobre-la-transformacion-del-negocio-las-ventas-cercanas-a-20-000-millones-durante-su-primer-ano-4523560",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Felipe Rodríguez, fundador de Kinder, aseguró que el impacto de la ley seca puede representar pérdidas de hasta $150 millones por una noche de sábado",
-      "published": "2026-11-14T05:01:50+00:00"
-    },
-    {
-      "id": "a674c1a7176c4c46",
-      "title": "La universidad que piden los estudiantes: antes de decidir, escuchar",
-      "link": "https://www.larepublica.co/analisis/p-harold-castilla-devoz-2912463/la-universidad-que-piden-los-estudiantes-antes-de-decidir-escuchar-4524876",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "A quienes anuncian el ocaso de la educación superior, los estudiantes les responden con una paradoja: nunca habían necesitado tanto de la universidad, y nunca habían tolerado tan poco que se pareciera a la de antes",
-      "published": "2026-11-14T05:01:49+00:00"
-    },
-    {
-      "id": "80fc01fac1f7b59f",
-      "title": "Las garantías que tiene un usuario para protegerse en caso de ser una víctima de espionaje",
-      "link": "https://www.larepublica.co/internet-economy/garantias-que-tiene-un-usuario-para-protegerse-en-caso-de-ser-una-victima-de-espionaje-4524857",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Esta acción incurre una posible vulneración de derechos fundamentales, particularmente de la intimidad, la privacidad y los datos personales",
-      "published": "2026-11-14T05:01:48+00:00"
-    },
-    {
-      "id": "0d9e43da6d2e2747",
-      "title": "Las cámaras que utilizan grandes influencers alcanzan precios de más de $1,5 millones",
-      "link": "https://www.larepublica.co/internet-economy/las-camaras-usadas-por-grandes-influencers-tienen-precios-desde-1-5-millones-4524764",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El mercado ofrece equipos sencillos y muy sofisticados. Una lista de creadores con comunidades gigantes han revelado los suyos y arrojan precios de hasta $29,5 millones",
-      "published": "2026-11-14T05:01:48+00:00"
-    },
-    {
-      "id": "39fe9121bcf57add",
-      "title": "Muse AI, la nueva inteligencia artificial de Meta Platforms que llegó a Latinoamérica",
-      "link": "https://www.larepublica.co/internet-economy/muse-ai-la-inteligencia-artificial-de-meta-platforms-que-llego-a-latinoamerica-4524678",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Este nuevo agente de inteligencia artificial se enfoca en organizar planes de acción y ejecutarlos directamente, incluso si el usuario cierra la aplicación",
-      "published": "2026-11-14T05:01:46+00:00"
-    },
-    {
-      "id": "e6bfdf9977b78f6a",
-      "title": "Gorillaz regresa a Bogotá con un concierto el 17 de noviembre en el Coliseo MedPlus",
-      "link": "https://www.larepublica.co/ocio/gorillaz-llega-a-bogota-el-17-de-noviembre-4525006",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La banda británica se presentará el 17 de noviembre en el Coliseo MedPlus. Las entradas están disponibles en Ticketmaster",
-      "published": "2026-11-14T05:01:45+00:00"
-    },
-    {
-      "id": "b483d4574852c3bb",
-      "title": "Grupo Sura elevó la proyección de su utilidad hasta $2,9 billones para el cierre de 2026",
-      "link": "https://www.larepublica.co/finanzas/el-grupo-sura-elevo-su-proyeccion-de-utilidad-para-el-cierre-de-2026-4524935",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La expectativa de ganancias para cierre de año pasó de $2,3 billones a $2,9 billones; si se cumple se completaría 62% del crecimiento necesario llegar a $3,3 billones en 2028",
-      "published": "2026-11-14T05:01:43+00:00"
-    },
-    {
-      "id": "b98d45a2ae20444a",
-      "title": "El mundo corporativo bajo acecho digital",
-      "link": "https://www.larepublica.co/opinion/editorial/el-mundo-corporativo-bajo-acecho-digital-4524220",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "No está claro qué sucedió con los productos y servicios que le presta Microsoft a las empresas en todo el mundo, pero el suceso es una muestra de la vulnerabilidad digital",
-      "published": "2026-11-14T05:01:40+00:00"
-    },
-    {
-      "id": "416d1ad0078d4268",
-      "title": "“Temu y Shein son una forma maquillada de contrabando mediante pedidos pequeños”",
-      "link": "https://www.larepublica.co/empresas/elizabeth-acuna-directora-ejecutiva-de-acovedi-habla-sobre-el-tope-a-envios-internacionales-4523165",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Elizabeth Acuña, directora ejecutiva de Acovedi, pide bajar de US$200 a US50 tope de envíos internacionales sin impuestos, por ser competencia desleal",
-      "published": "2026-11-14T05:01:28+00:00"
-    },
-    {
-      "id": "037c299e6b8874de",
-      "title": "El IVA y los envíos de bajo valor",
-      "link": "https://www.larepublica.co/analisis/santiago-pardo-salguero-3595338/el-iva-y-los-envios-de-bajo-valor-4524873",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El control también debe llegar a las redes que organizan el ingreso y la distribución de mercancías de contrabando",
-      "published": "2026-11-14T05:01:26+00:00"
-    },
-    {
-      "id": "f85cd2272b66016c",
-      "title": "Antes de la intensidad, conciencia",
-      "link": "https://www.larepublica.co/analisis/tatiana-arango-m-401859/antes-de-la-intensidad-conciencia-4524859",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Ahora el cuerpo está listo para comenzar a moverse con mayor intensidad. Pero hay una diferencia importante: ya no buscamos movernos por movernos. Queremos hacerlo con intención",
-      "published": "2026-11-14T05:01:20+00:00"
-    },
-    {
-      "id": "9e0ef27a395642d7",
-      "title": "“En Civitatis ofrecemos experiencias de viaje en más de 4.300 destinos de 160 países”",
-      "link": "https://www.larepublica.co/ocio/nicolas-posse-responsable-regional-de-sudamerica-de-civitatis-hablo-sobre-las-preferencias-de-los-viajeros-colombianos-4524785",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Nicolás Posse, responsable regional de Sudamérica de Civitatis, habló sobre las preferencias de los viajeros colombianos y el crecimiento de una plataforma",
-      "published": "2026-11-14T05:01:19+00:00"
-    },
-    {
-      "id": "4b71f875e2d20883",
-      "title": "Los colombianos quieren aportar, pero están mamados",
-      "link": "https://www.larepublica.co/analisis/silverio-gomez-carmona-534581/los-colombianos-quieren-aportar-pero-estan-mamados-4524843",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "De un presupuesto de $635 billones en 2027, hay $391 billones para gastos burocráticos y solo bastaría con bajarlo 10% para recuperar 40 billones, 2% del PIB.",
-      "published": "2026-11-14T05:01:18+00:00"
-    },
-    {
-      "id": "b60dd242f21100eb",
-      "title": "“La demanda puede ascender hasta 2.500 buses eléctricos en Bogotá para 2027 y 2028”",
-      "link": "https://www.larepublica.co/empresas/felipe-negret-gerente-general-de-farizon-en-grupo-vardi-hablo-del-crecimiento-de-los-buses-electricos-4524222",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Felipe Negret, gerente general de Farizon en Grupo Vardí, señaló que esperan cerrar 2026 con cerca de 100 unidades matriculadas y duplicar el volumen en 2027",
-      "published": "2026-11-14T05:01:16+00:00"
-    },
-    {
-      "id": "e7dd10393c81f9f3",
-      "title": "“Palacio”, la miniserie que revive la toma del Palacio de Justicia 41 años después de la tragedia",
-      "link": "https://www.larepublica.co/ocio/palacio-la-miniserie-que-revive-la-toma-del-palacio-de-justicia-41-anos-despues-de-la-tragedia-4524854",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La producción de ocho episodios revive los hechos del 6 y 7 de noviembre de 1985, con un elenco encabezado por Natalia Reyes, Robinson Díaz y Santiago Alarcón",
-      "published": "2026-11-14T05:01:13+00:00"
-    },
-    {
-      "id": "6de6c6cae2e24780",
-      "title": "El actor Ed Westwick presentó en Bogotá la nueva fragancia 9PM Night Out de Afnan",
-      "link": "https://www.larepublica.co/ocio/ed-westwick-presento-en-bogota-la-nueva-fragancia-9pm-night-out-de-afnan-4525040",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El encuentro se realizó anoche en una emblemática locación de Bogotá, con un entorno natural y vistas a los cerros orientales, como parte del Afnan Tour por Latinoamérica",
-      "published": "2026-11-14T05:01:05+00:00"
-    },
-    {
-      "id": "dceb0e159a95640e",
-      "title": "El Deportivo Independiente Medellín se alista para dejar las manos de Raúl Giraldo",
-      "link": "https://www.larepublica.co/empresas/el-deportivo-independiente-medellin-se-alista-para-dejar-las-manos-de-raul-giraldo-4524978",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El presidente de ‘El Poderoso’, Daniel Ossa, señaló que el club está abierto a hacer negociaciones y reveló que en estos momentos hay dos inversionistas interesados en comprar",
-      "published": "2026-11-14T05:01:04+00:00"
-    },
-    {
-      "id": "c470b416f903f671",
-      "title": "El Salón del Automóvil de Bogotá arrancó volando",
-      "link": "https://www.eltiempo.com/economia/sectores/el-salon-arranco-volando-3601018",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La cantidad de asistentes y la profusión de modelos, marcas y promociones superan los registros del año pasado.",
-      "published": "2026-11-14T04:20:33+00:00"
-    },
-    {
-      "id": "5eb0a6a0995e4381",
-      "title": "Lotería de Risaralda: conozca los números ganadores del viernes 13 de noviembre de 2026",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/loteria-de-risaralda-conozca-los-numeros-ganadores-del-viernes-13-de-noviembre-de-3601031",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Esta noche se conocieron los resultados de las loterías más destacadas del país. Consulte aquí si fue uno de los afortunados del viernes.",
-      "published": "2026-11-14T04:15:12+00:00"
-    },
-    {
-      "id": "e8a433f56084fdac",
-      "title": "Conozca acá los resultados del último sorteo de la Lotería de Medellín del viernes 13 de noviembre de 2026",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/conozca-aca-los-resultados-del-ultimo-sorteo-de-la-loteria-de-medellin-del-viernes-13-de-noviembre-de-3601026",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-11-14T04:04:46+00:00"
-    },
-    {
-      "id": "6181f69f0b5c64a5",
-      "title": "Conozca los resultados del último sorteo de la Lotería de Santander del viernes 13 de noviembre de 2026",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/conozca-los-resultados-del-ultimo-sorteo-de-la-loteria-de-santander-del-viernes-13-de-noviembre-de-3601028",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Consulte si fue el afortunado en ganar uno de los millonarios premios que se sortean esta noche.",
-      "published": "2026-11-14T04:04:39+00:00"
-    },
-    {
-      "id": "07d3f4e0a53d7a94",
-      "title": "Por primera vez, más de 18 diseñadores y marcas colombianas abrirán el New York Fashion Week 2027",
-      "link": "https://www.valoraanalitik.com/por-primera-vez-mas-de-18-disenadores-y-marcas-colombianas-abriran-el-new-york-fashion-week-2027/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El evento, producido por la plataforma neoyorquina Runway 7, se desarrollará en Sony Hall de Manhattan.",
-      "published": "2026-11-14T02:30:00+00:00"
-    },
-    {
-      "id": "3f76bca13c692865",
-      "title": "El papa León XIV llegó a Chiclayo, la ciudad que fue su casa durante más de ocho años",
-      "link": "https://www.larepublica.co/globoeconomia/el-papa-leon-xiv-llego-a-chiclayo-la-ciudad-que-fue-su-casa-durante-mas-de-ocho-anos-4524967",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El papa León XIV retornó este viernes a Chiclayo, donde fue obispo durante más de ocho años. Conoce las actividades que cumple en el norte del país.",
-      "published": "2026-11-14T02:18:25+00:00"
-    },
-    {
-      "id": "8f3068a53de92af9",
-      "title": "Gobierno abre mesas de diálogo para discutir Ley de Rescate con gremios y congresistas",
-      "link": "https://www.larepublica.co/economia/gobierno-abre-mesas-de-dialogo-con-gremios-y-congresistas-para-discutir-la-ley-de-rescate-4524961",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Esta semana el ministro de Hacienda, Miguel Gómez Martínez, lideró encuentros con la bancada de Gobierno, el Consejo Gremial Nacional y representantes del sector gastronómico",
-      "published": "2026-11-14T02:11:33+00:00"
-    },
-    {
-      "id": "388f32c3aba6bd15",
-      "title": "Agencia de Desarrollo Rural y Socodevi estructuran un convenio para impulsar el cacao del Cesar con respaldo de Canadá",
-      "link": "https://www.eltiempo.com/economia/agencia-de-desarrollo-rural-y-socodevi-estructuran-un-convenio-para-impulsar-el-cacao-del-cesar-con-respaldo-de-canada-3601017",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La cooperación en construcción apunta a la adaptación climática y a la exportación en la Serranía del Perijá y la Sierra Nevada de Santa Marta.",
-      "published": "2026-11-14T02:09:34+00:00"
-    },
-    {
-      "id": "9baffa1441ceb95b",
-      "title": "Con el Fondes, el Gobierno cofinanciará 50% de los estudios del Metro de Bogotá",
-      "link": "https://www.larepublica.co/economia/estudios-de-la-linea-4-del-metro-de-bogota-4524952",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El aporte estimado es de $34.000 millones El convenio ya se encuentra en proceso de formalización para agilizar la contratación",
-      "published": "2026-11-14T02:01:32+00:00"
     }
   ]
 }
