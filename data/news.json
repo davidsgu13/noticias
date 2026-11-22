@@ -1,7 +1,313 @@
 {
-  "last_updated_utc": "2026-11-22T00:07:56.394326+00:00",
+  "last_updated_utc": "2026-11-22T17:38:45.139846+00:00",
   "count": 60,
   "items": [
+    {
+      "id": "ae3c3c0cfaf0f438",
+      "title": "Presidente de Ecopetrol insiste en que hueco fiscal del Fepc se mantiene por precio del diésel",
+      "link": "https://www.valoraanalitik.com/presidente-de-ecopetrol-insiste-en-que-hueco-fiscal-del-fepc-se-mantiene-por-precio-del-diesel/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Durante el tercer trimestre de 2026, el diésel registró una diferencia de $7.545 por galón por debajo de su precio de reconocimiento.",
+      "published": "2026-11-22T17:20:00+00:00"
+    },
+    {
+      "id": "945c93cc54d1192c",
+      "title": "Crecimiento económico de Asia en 2027: estas son las proyecciones",
+      "link": "https://www.valoraanalitik.com/crecimiento-economico-asia-2027-proyecciones/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Oxford Economics prevé un crecimiento desigual en Asia para 2027, con Vietnam e India entre las economías más dinámicas y una desaceleración en China.",
+      "published": "2026-11-22T17:00:00+00:00"
+    },
+    {
+      "id": "65bac5bd544ca3ca",
+      "title": "Colombia necesita recuperar su soberanía energética: las seis medidas que propone BCG",
+      "link": "https://www.valoraanalitik.com/colombia-necesita-recuperar-su-soberania-energetica-las-seis-medidas-que-propone-bcg/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La discusión energética ya no puede concentrarse exclusivamente en la transición hacia fuentes más limpias, sino que debe incorporar otros dos factores.",
+      "published": "2026-11-22T16:40:00+00:00"
+    },
+    {
+      "id": "dcfdc8d3f62f4b87",
+      "title": "Gobierno revisa ocho decretos laborales y esto es lo que podría cambiar para las empresas",
+      "link": "https://www.valoraanalitik.com/gobierno-revisa-ocho-decretos-laborales-y-esto-es-lo-que-podria-cambiar-para-las-empresas/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La revisión busca ajustar la reglamentación, sin eliminar los derechos reconocidos en la Constitución, el Código Sustantivo del Trabajo o la reforma laboral.",
+      "published": "2026-11-22T16:20:00+00:00"
+    },
+    {
+      "id": "2a2394f2d0b74267",
+      "title": "Nike le gana terreno a Adidas: los millonarios contratos que le arrebató en el deporte mundial",
+      "link": "https://www.valoraanalitik.com/nike-le-gana-terreno-a-adidas-los-millonarios-contratos-que-le-arrebato-en-el-deporte-mundial/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La Champions League y la selección de Alemania son los golpes más recientes de Nike en una disputa comercial que se extiende en el deporte.",
+      "published": "2026-11-22T16:00:00+00:00"
+    },
+    {
+      "id": "3cbaf0d2a9623433",
+      "title": "Entrevista al presidente de Ecopetrol: habla de ISA, fracking, Venezuela y su estrategia para recuperar el rumbo de la petrolera",
+      "link": "https://www.eltiempo.com/economia/sectores/entrevista-al-presidente-de-ecopetrol-habla-de-isa-fracking-venezuela-y-su-estrategia-para-recuperar-el-rumbo-de-la-petrolera-3602889",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Joaquín Gutiérrez también detalló el impacto para la compañía de mantener congelado el precio de la gasolina.",
+      "published": "2026-11-22T15:27:03+00:00"
+    },
+    {
+      "id": "37591bba4b972931",
+      "title": "Firmar un acuerdo nacional y hacer ajuste fiscal gradual: Entre las acciones estratégicas para corregir el rumbo de Colombia",
+      "link": "https://www.valoraanalitik.com/firmar-un-acuerdo-nacional-y-hacer-ajuste-fiscal-gradual-entre-las-acciones-estrategicas-para-corregir-el-rumbo-de-colombia/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Las principales autoridades económicas coincidieron en revisar las reformas estructurales del gasto e implementar un paquete fiscal gradual y creíble.",
+      "published": "2026-11-22T15:20:00+00:00"
+    },
+    {
+      "id": "8cdfa6473224c220",
+      "title": "Ecopetrol confirma importante inversión en Estados Unidos: Perforará 7 nuevos pozos",
+      "link": "https://www.valoraanalitik.com/ecopetrol-confirma-importante-inversion-en-estados-unidos-perforara-7-nuevos-pozos/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "La iniciativa busca compensar el impacto del recorte de taladros aplicado en 2025, cuando Ecopetrol pasó de operar con cuatro equipos a dos.",
+      "published": "2026-11-22T15:00:00+00:00"
+    },
+    {
+      "id": "26da61653437c8e0",
+      "title": "Ocde plantea subir la edad de pensión, ampliar el IVA y eliminar subsidios por estratos",
+      "link": "https://www.larepublica.co/economia/ocde-plantea-subir-la-edad-de-pension-ampliar-el-iva-y-eliminar-subsidios-por-estratos-4530260",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El estudio traza una hoja de ruta de reformas clave para estabilizar la deuda pública y enfrentar el rápido envejecimiento del país",
+      "published": "2026-11-22T14:44:14+00:00"
+    },
+    {
+      "id": "4ade1fa80f46fb21",
+      "title": "Detención de migrantes por el ICE en aeropuerto de Seattle desata indignación",
+      "link": "https://www.larepublica.co/globoeconomia/detencion-de-migrantes-por-el-ice-en-aeropuerto-de-seattle-desata-indignacion-4530256",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Agentes federales detuvieron a dos pasajeros durante un operativo migratorio en un vuelo de Alaska Airlines, lo que provocó críticas de autoridades y políticos",
+      "published": "2026-11-22T14:00:52+00:00"
+    },
+    {
+      "id": "3920d974ea62ef1f",
+      "title": "Entrevista | Tasas de CDT superiores al 13 %: esto dice gerente de MejorCDT sobre el momento para invertir",
+      "link": "https://www.valoraanalitik.com/entrevista-tasas-de-cdt-superiores-al-13-esto-dice-gerente-de-mejorcdt-sobre-el-momento-para-invertir/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "En dialogo con Valora Analitik, Omar Casas, gerente de MejorCDT, explica por qué es un buen momento para invertir en CDT y qué oportunidades hay.",
+      "published": "2026-11-22T14:00:00+00:00"
+    },
+    {
+      "id": "dc0a82a90aa52a7a",
+      "title": "Rusia atacó infraestructura energética y portuaria de Ucrania con drones",
+      "link": "https://www.larepublica.co/globoeconomia/rusia-ataco-infraestructura-energetica-y-portuaria-de-ucrania-con-drones-4530250",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Los ataques rusos afectaron instalaciones eléctricas y portuarias, mientras que Ucrania reportó el lanzamiento de 186 drones y graves daños en Odesa",
+      "published": "2026-11-22T13:22:21+00:00"
+    },
+    {
+      "id": "42e26f3b692559eb",
+      "title": "De la Espriella exige informes mensuales a sus delegados ante las Cámaras de Comercio",
+      "link": "https://www.larepublica.co/economia/de-la-espriella-exige-informes-mensuales-a-sus-delegados-ante-las-camaras-de-comercio-4530242",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El mandatario ordenó a sus representantes reportar posibles irregularidades y ejercer sus funciones con transparencia y estricto cumplimiento de la ley",
+      "published": "2026-11-22T13:07:02+00:00"
+    },
+    {
+      "id": "f25198a1a215bbd7",
+      "title": "KMA Construcciones cumple 25 años y se consolida como la empresa de ingeniería civil más grande de Colombia: esta es su historia",
+      "link": "https://www.valoraanalitik.com/kma-construcciones-cumple-25-anos-es-la-empresa-ingenieria-civil-mas-grande-colombia/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Menzel Amín, presidente de la compañía, revela detalles de su trayectoria al frente de la firma y traza la ruta para las próximas décadas.",
+      "published": "2026-11-22T13:00:00+00:00"
+    },
+    {
+      "id": "3dcd34b735bbb017",
+      "title": "Después de podar el árbol",
+      "link": "https://www.larepublica.co/analisis/ramiro-santa-513971/despues-de-podar-el-arbol-4530231",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El país que queremos no aparecerá por generación espontánea; dependerá de cuántos ciudadanos decentes estén dispuestos a arremangarse y entrar a la cancha",
+      "published": "2026-11-22T12:35:07+00:00"
+    },
+    {
+      "id": "75c3f030e0445e8b",
+      "title": "Solamente estos pensionados en Colombia reciben el pago por auxilio de transporte",
+      "link": "https://www.valoraanalitik.com/solamente-estos-pensionados-en-colombia-reciben-el-pago-por-auxilio-de-transporte/",
+      "source": "Valora Analitik",
+      "category": "fuente directa",
+      "summary": "Los pensionados en Colombia reciben pagos extra solamente en algunos casos puntuales",
+      "published": "2026-11-22T12:30:00+00:00"
+    },
+    {
+      "id": "2c1710873763fb1c",
+      "title": "Nubes de tormenta / Análisis de Ricardo Ávila",
+      "link": "https://www.eltiempo.com/economia/sectores/nubes-de-tormenta-analisis-de-ricardo-avila-3602894",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Las perspectivas de la economía colombiana se han oscurecido y el primer semestre del año que viene apunta a ser muy desafiante.",
+      "published": "2026-11-22T12:17:17+00:00"
+    },
+    {
+      "id": "f2fe1a48487bc85b",
+      "title": "‘Gravar el consumo es gravar a las clases menos favorecidas’: Jaime Alberto Cabal, presidente de Fenalco",
+      "link": "https://www.eltiempo.com/economia/sectores/gravar-el-consumo-es-gravar-a-las-clases-menos-favorecidas-jaime-alberto-cabal-presidente-de-fenalco-3602929",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El dirigente gremial propone aplazar la rebaja de renta empresarial, plantea recortes de gasto en otras ramas del Estado y advierte por el empleo.",
+      "published": "2026-11-22T12:04:03+00:00"
+    },
+    {
+      "id": "7da360bf33688ca2",
+      "title": "OCDE prende cuatro alertas sobre economía colombiana, ¿qué necesita el país para volver a crecer con fuerza?",
+      "link": "https://www.eltiempo.com/economia/ocde-prende-cuatro-alertas-sobre-economia-colombiana-que-necesita-el-pais-para-volver-a-crecer-con-fuerza-3602710",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Entre las peticiones está sostener tasas altas, reducir la informalidad, atraer capital privado y acelerar la adopción digital en las pymes.",
+      "published": "2026-11-22T12:00:12+00:00"
+    },
+    {
+      "id": "dcfb8538a109bf6d",
+      "title": "Trabajo temporal de fin de año: ¿cuáles son los sectores donde está la contratación?",
+      "link": "https://www.eltiempo.com/economia/trabajo-temporal-de-fin-de-ano-cuales-son-los-sectores-donde-esta-la-contratacion-3602462",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Datos exponen que cerca del 30 por ciento de los pedidos de personal de refuerzo por parte de las empresas llegan entre noviembre y enero.",
+      "published": "2026-11-22T11:57:02+00:00"
+    },
+    {
+      "id": "cdb9315b567d79a4",
+      "title": "Ocde sugiere a Colombia subir gradualmente la edad de pensión e igualarla entre hombres y mujeres",
+      "link": "https://www.eltiempo.com/economia/sectores/ocde-sugiere-a-colombia-subir-gradualmente-la-edad-de-pension-e-igualarla-entre-hombres-y-mujeres-3602839",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El organismo también pidió al Gobierno Nacional \"ser aún más ambicioso\" con la reforma tributaria.",
+      "published": "2026-11-22T11:53:45+00:00"
+    },
+    {
+      "id": "e073a6ca287e51e4",
+      "title": "Así es el apoyo del Banco Mundial a proyectos anunciados en la Milagro Week: entrevista al representante en Colombia",
+      "link": "https://www.eltiempo.com/economia/sectores/asi-es-el-apoyo-del-banco-mundial-a-proyectos-anunciados-en-la-milagro-week-entrevista-al-representante-en-colombia-3602466",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "Juan Martínez explica de cuánto es el respaldo de la institución y cómo serán usados los recursos.",
+      "published": "2026-11-22T11:51:51+00:00"
+    },
+    {
+      "id": "5fa86d85b144b791",
+      "title": "Cuentas Claras / Gobierno aún es clave para crecer",
+      "link": "https://www.eltiempo.com/economia/cuentas-claras-gobierno-aun-es-clave-para-crecer-3603014",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "A pesar del corto crecimiento económico, del 0,5 % de avance del PIB, el 44 % fue aportado por el sector público.",
+      "published": "2026-11-22T10:01:00+00:00"
+    },
+    {
+      "id": "8dc6ffc2b64e103f",
+      "title": "Licencias que tardan años y permisos repetidos: la tramitomanía que asfixia la inversión en Colombia",
+      "link": "https://www.eltiempo.com/economia/licencias-que-tardan-anos-y-permisos-repetidos-la-tramitomania-que-asfixia-la-inversion-en-colombia-3602840",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El Consejo Privado de Competitividad reporta cuellos de botella en minería, agro, obras, comercio y pymes. Gremios explican el peso de ellos.",
+      "published": "2026-11-22T10:01:00+00:00"
+    },
+    {
+      "id": "07d8bcfdee9102f1",
+      "title": "‘Si no ampliamos el IVA, hay que empezar a discutir el precio de los combustibles’: César Pabón, de Corficolombiana / Entrevista Reina",
+      "link": "https://www.eltiempo.com/economia/sectores/si-no-ampliamos-el-iva-hay-que-empezar-a-discutir-el-precio-de-los-combustibles-cesar-pabon-de-corficolombiana-entrevista-reina-3603024",
+      "source": "El Tiempo - Economía",
+      "category": "fuente directa",
+      "summary": "El experto explica causas de la desaceleración económica y advierte lo que puede pasar si las discusiones fiscales en el Congreso siguen como van.",
+      "published": "2026-11-22T05:28:00+00:00"
+    },
+    {
+      "id": "c1a445f76231bd2e",
+      "title": "Colombia está en el top 15 de países que más usa IA para trabajar",
+      "link": "https://www.larepublica.co/globoeconomia/colombia-esta-en-el-top-15-de-paises-que-mas-usa-ia-para-trabajar-4530037",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "India, China y Nigeria se ubican en los primeros puestos del escalafón, con índices de adopción de IA entre sus trabajadores de 91%, 88% y 85%, respectivamente",
+      "published": "2026-11-22T05:02:53+00:00"
+    },
+    {
+      "id": "8f92150805cff872",
+      "title": "Colombia, penúltima en competitividad tributaria de la Ocde",
+      "link": "https://www.larepublica.co/economia/colombia-es-el-segundo-pais-menos-competitivo-y-neutral-en-materia-tributaria-de-la-ocde-4529870",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Francia, el último en la clasificación del índice, registra el tipo impositivo máximo más alto, ascendiendo a una carga tributaria de 36,1%",
+      "published": "2026-11-22T05:02:52+00:00"
+    },
+    {
+      "id": "a34ac3042d6d1557",
+      "title": "Los mejores smartwatches que marcan tendencia durante este año",
+      "link": "https://www.larepublica.co/internet-economy/los-mejores-smartwatches-que-marcan-tendencia-durante-este-ano-4530185",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El mercado de los relojes inteligentes ha sumado nuevos modelos durante este año, con fabricantes que buscan ampliar las funciones de sus dispositivos",
+      "published": "2026-11-22T05:02:34+00:00"
+    },
+    {
+      "id": "6aab177207d33b42",
+      "title": "GTA VI y The Legend of Zelda son los videojuegos mejor valorados",
+      "link": "https://www.larepublica.co/ocio/gta-vi-y-the-legend-of-zelda-son-los-videojuegos-mejor-valorados-en-la-historia-4530065",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El último juego de Rockstar no es único que ha logrado situarse en el top histórico de la plataforma, pues GTA IV, publicado en 2008, ostenta un puntaje de 98/100",
+      "published": "2026-11-22T05:01:50+00:00"
+    },
+    {
+      "id": "4b9a09a17d181015",
+      "title": "Las películas que llegaron a las plataformas de streaming",
+      "link": "https://www.larepublica.co/ocio/las-peliculas-que-llegaron-a-las-plataformas-de-streaming-en-noviembre-4530180",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Aunque varios de estos estrenos ya llegaron a las plataformas durante los primeros días del mes, todavía hay producciones programadas para las últimas semanas de noviembre",
+      "published": "2026-11-22T05:01:38+00:00"
+    },
+    {
+      "id": "e56b9dcf059bb29f",
+      "title": "Las capitales españolas donde menos hay arriendos por debajo de US$1.000",
+      "link": "https://www.larepublica.co/globoeconomia/las-capitales-espanolas-donde-menos-hay-arriendos-por-debajo-de-us-1-000-4530157",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Tarragona, Palma de Mallorca, Barcelona, Madrid, Valencia, Bilbao, Málaga y Alicante, entre otras, se quedan sin vivienda en alquiler por debajo de US$1.097 (1.000 euros) al mes",
+      "published": "2026-11-22T05:01:18+00:00"
+    },
+    {
+      "id": "39401e24dbf29145",
+      "title": "Vivienda en Medellín exige 8,5 años más de salario que en Nueva York",
+      "link": "https://www.larepublica.co/globoeconomia/un-apartamento-en-medellin-cuesta-8-5-anos-mas-de-salario-que-uno-en-nueva-york-4530147",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Medellín, ocupa el segundo lugar del listado, con un equivalente de 19,4 años de sueldo para comprar un apartamento, mientras que Nueva York, 10,9 años",
+      "published": "2026-11-22T05:01:18+00:00"
+    },
+    {
+      "id": "17f4b5979655caf7",
+      "title": "Black Friday y Cyberlunes prevén US$2,46 billones en ventas online",
+      "link": "https://www.larepublica.co/empresas/black-friday-y-cyberlunes-apuntan-a-recaudar-us-2-46-billones-en-compras-online-4530109",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "Según datos de la Cámara Colombiana de Comercio Electrónico, Ccce, se espera que ambas fechas logren 12,8 millones de ventas en comercios electrónicos",
+      "published": "2026-11-22T05:01:14+00:00"
+    },
+    {
+      "id": "4f3426cbac405866",
+      "title": "Boca Juniors alcanza su tercera Copa Sudamericana y un premio de US$10 millones",
+      "link": "https://www.larepublica.co/ocio/boca-jrs-alcanza-su-tercera-copa-sudamericana-y-un-premio-de-us-10-millones-4530191",
+      "source": "La República",
+      "category": "fuente directa",
+      "summary": "El cuadro xeneize derrotó 2-0 a Atlético Mineiro, y se lleva una recompensa que equivale a aproximadamente 20 veces el reconocimiento económico que otorga la Conmebol al ganador de la Liga BetPlay",
+      "published": "2026-11-22T00:32:01+00:00"
+    },
     {
       "id": "37f20ce985078f92",
       "title": "Caída de la inversión y desaceleración del gasto: Radiografía del PIB de Colombia",
@@ -21,17 +327,17 @@
       "published": "2026-11-21T22:43:30+00:00"
     },
     {
-      "id": "1bbe8a1c317ab269",
-      "title": "Colombia empezaría a perder fuerza de trabajo: el costo del edadismo en las empresas para la economía del país",
-      "link": "https://www.eltiempo.com/economia/colombia-empezaria-a-perder-fuerza-de-trabajo-el-costo-del-edadismo-en-las-empresas-para-la-economia-del-pais-3603072",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Los ocupados de 55 años o más suben a 4,6 millones, pero tres de cada cinco son independientes y casi la mitad de ellos no consigue empleo formal.",
-      "published": "2026-11-21T22:42:50+00:00"
+      "id": "f772ee0acf0b2f1c",
+      "title": "¿Quién es el presunto agresor con frases racistas contra la policía Tatiana Carabalí?: así van acciones judiciales en su contra y su empleo",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSW1iT3ZWcmp5SDZ3emRrUnktZnZlMEYyNmdoNXVna0RTV3lRNjB3amhhaE1aODlQZ2FRVWZ0TXNqV2tKMzk5bjlZVGQzRFA1UDc0VzM4c3JhR3FCX2xCQVhtenpTVU5FazlhdklPVG1hdnZNZ3I4UWNiZWdBdlJwTWtab1lmUkRyWGlXWWRsYkQtWlhfTUxQd2VOUUhRaVpyUEJpQ0JUb2FrVDZrVFR2UEpUaTVaRjNVVW9fcE4zTFAxMC0yRndUajFMRjNfTk0wd01TMFhwQmhqcUd4V0VfeUJQTW1DbTVJQkk2VmJYRm1UUmVpcHVFSks2dXJaNm9ublVLSDhwV0pES2U1RUZVbThEeGtiLWowUlltUC1n0gGjAkFVX3lxTE1SdmxST2ZELXZnNDFIMURfSXBUcGx1NEp4aF9MLWVBOGRSQzRocjI2MWppMVFCWV80R0QtaldmN1h0RndLWkhmRnlXeDBrTEMya3BXV1N5UVRHVFNqV1VXS016b0JVTjRmS05Ya3g1M1gzSEEzZjQ2U1NpMVZqaWhfd1dlRWxfU25ZSjJVeDVLOVRsbzFqOFoyamFPempBRWZ5VktoUnhBRVRPTF80RFo2VnJKVFRudDVRUWU2Q3JxakprVkRBemdLZEQxdW9kNmJzSG1ibEV6M0VNV1NGcERXSEQ2MHNUYUlLQnhLUGh5QjVUdEpaN0gtbnFodzV3YUVrQ0pvMXFONm93U3FtaW1lT3dvRW1McEl5WUExbXlfUTZOUQ?oc=5",
+      "source": "El Tiempo",
+      "category": "Mercado y bolsa (BVC)",
+      "summary": "¿Quién es el presunto agresor con frases racistas contra la policía Tatiana Carabalí?: así van acciones judiciales en su contra y su empleo &nbsp;&nbsp; El Tiempo",
+      "published": "2026-11-21T22:11:13+00:00"
     },
     {
-      "id": "37865c4fb68c737e",
-      "title": "Agencia Nacional de Infraestructura puso en funcionamiento 106 kilómetros de vía",
+      "id": "58afdb69ac91acb0",
+      "title": "Agencia Nacional de Infraestructura habilitó 106 kilómetros de vía en Huila",
       "link": "https://www.larepublica.co/economia/agencia-naiconal-de-infraestructua-entrego-106-kilometros-de-via-en-huila-4530153",
       "source": "La República",
       "category": "fuente directa",
@@ -46,15 +352,6 @@
       "category": "fuente directa",
       "summary": "¿Le llegó más caro el recibo del impuesto predial? En Colombia, las alcaldías tienen herramientas para moderar el cobro y facilitar el pago a los propietarios.",
       "published": "2026-11-21T22:00:00+00:00"
-    },
-    {
-      "id": "725eb8de96807b1e",
-      "title": "¿Comprar en Black Friday sin tarjeta de crédito? Comercio colombiano llega a la fecha con la mira en el financiamiento de las compras",
-      "link": "https://www.eltiempo.com/economia/comprar-en-black-friday-sin-tarjeta-de-credito-comercio-colombiano-llega-a-la-fecha-con-la-mira-en-el-financiamiento-de-las-compras-3603062",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La semana de descuentos del 2025 movió 176 millones de facturas por $72,8 billones, y solo uno de cada cuatro adultos tenía el plástico.",
-      "published": "2026-11-21T21:59:43+00:00"
     },
     {
       "id": "808276d359855d7c",
@@ -138,15 +435,6 @@
       "published": "2026-11-21T20:19:57+00:00"
     },
     {
-      "id": "360c0a9ac8733538",
-      "title": "Rappi devolverá 2 % en créditos en viajes a sus usuarios Pro Black hasta el 31 de diciembre: suma seis programas de millas y puntos",
-      "link": "https://www.eltiempo.com/economia/rappi-devolvera-2-en-creditos-en-viajes-a-sus-usuarios-pro-black-hasta-el-31-de-diciembre-suma-seis-programas-de-millas-y-puntos-3603050",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La app también premia con saldo a quienes repiten pedidos en más de 400 comercios aliados, con una mecánica similar a la de las tarjetas de sellos.",
-      "published": "2026-11-21T20:10:09+00:00"
-    },
-    {
       "id": "f62126391347ac8d",
       "title": "El hotel en Provenza que ofrece descanso, gastronomía y diversión sin salir del edificio",
       "link": "https://www.valoraanalitik.com/el-hotel-en-provenza-que-ofrece-descanso-gastronomia-y-diversion-sin-salir-del-edificio/",
@@ -154,15 +442,6 @@
       "category": "fuente directa",
       "summary": "El hotel cuenta con 35 habitaciones y recepción las 24 horas, y los huéspedes pueden elegir entre tres tipos de habitación.",
       "published": "2026-11-21T20:00:00+00:00"
-    },
-    {
-      "id": "5a86778a31007b4b",
-      "title": "Bre-B migra de las transferencias entre personas a ser plataforma de cobro para empresas, y ya es la mitad de las operaciones de la fintech Mono",
-      "link": "https://www.eltiempo.com/economia/bre-b-migra-de-las-transferencias-entre-personas-a-ser-plataforma-de-cobro-para-empresas-y-ya-es-la-mitad-de-las-operaciones-de-la-fintech-mono-3603044",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "La compañía pasó de 1.400 a más de 280.000 transacciones mensuales en ocho meses, y la nómina y los proveedores serían el siguiente paso.",
-      "published": "2026-11-21T19:53:36+00:00"
     },
     {
       "id": "faeee572823024fc",
@@ -208,15 +487,6 @@
       "category": "fuente directa",
       "summary": "D-Ganga de Corferias reunirá a cerca de 100 marcas en Mundo Aventura del 12 al 16 de diciembre, con entrada gratuita y ofertas de moda, tecnología y hogar.",
       "published": "2026-11-21T19:00:00+00:00"
-    },
-    {
-      "id": "cdb9315b567d79a4",
-      "title": "Ocde sugiere a Colombia subir gradualmente la edad de pensión e igualarla entre hombres y mujeres",
-      "link": "https://www.eltiempo.com/economia/sectores/ocde-sugiere-a-colombia-subir-gradualmente-la-edad-de-pension-e-igualarla-entre-hombres-y-mujeres-3602839",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El organismo también pidió al Gobierno Nacional \"ser aún más ambicioso\" con la reforma tributaria.",
-      "published": "2026-11-21T18:47:23+00:00"
     },
     {
       "id": "4c043404a8da07fc",
@@ -271,276 +541,6 @@
       "category": "fuente directa",
       "summary": "Tras la erupción, la Agencia Meteorológica de Japón, JMA, mantuvo vigente el nivel tres, sobre cinco",
       "published": "2026-11-21T17:56:45+00:00"
-    },
-    {
-      "id": "e75cc4a31a5fda69",
-      "title": "¿Cómo podrían afectar el bolsillo la reforma tributaria y el ajuste fiscal? | Participa en la charla con suscriptores con Mauricio Cárdenas",
-      "link": "https://www.eltiempo.com/economia/finanzas-personales/como-podrian-afectar-el-bolsillo-la-reforma-tributaria-y-el-ajuste-fiscal-participa-en-la-charla-con-suscriptores-con-mauricio-cardenas-3603021",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Hablaremos con el economista y exministro sobre los cambios que podría haber con las propuestas para recaudar más plata. Regístrate acá.",
-      "published": "2026-11-21T17:45:41+00:00"
-    },
-    {
-      "id": "eb531cb70513570b",
-      "title": "Qurable llega a Colombia con agentes de IA que fidelizan clientes en tiempo real: invertirá US$5 millones para hub de operaciones",
-      "link": "https://www.valoraanalitik.com/qurable-llega-a-colombia-con-agentes-de-ia-que-fidelizan-clientes-en-tiempo-real-invertira-us5-millones-para-hub-de-operaciones/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "La plataforma de Qurable usa agentes de IA que analizan en tiempo real cada compra y cada interacción del cliente",
-      "published": "2026-11-21T17:40:00+00:00"
-    },
-    {
-      "id": "08d293d9c0f46f47",
-      "title": "El sismo de magnitud 6,9 en Perú no genera amenaza de tsunami para Colombia",
-      "link": "https://www.larepublica.co/economia/sismo-de-magnitud-6-9-en-peru-no-genera-amenaza-de-tsunami-para-colombia-4530052",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El movimiento telúrico se registró en Ondores, Perú, a una profundidad de 142 kilómetros. Las autoridades mantienen el monitoreo ante posibles réplicas",
-      "published": "2026-11-21T17:34:48+00:00"
-    },
-    {
-      "id": "b0fb49bb0c5c2187",
-      "title": "Trump aseguró que hackeo al FBI podría revelar información sobre delitos electorales",
-      "link": "https://www.larepublica.co/globoeconomia/trump-aseguro-que-hackeo-al-fbi-revelaria-informacion-sobre-delitos-electorales-4530051",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Sus declaraciones se dan en un contexto en que el FBI investiga una posible vulneración de su base de datos nacional de información delictiva",
-      "published": "2026-11-21T17:27:21+00:00"
-    },
-    {
-      "id": "6b69abcd84e06cc9",
-      "title": "ANI pone en operación 106 kilómetros de vía entre Neiva, Pitalito y San Agustín tras inversión de $376.843 millones",
-      "link": "https://www.valoraanalitik.com/ani-pone-en-operacion-106-kilometros-de-via-entre-neiva-pitalito-y-san-agustin-tras-inversion-de-376-843-millones/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "La entrega comprende la rehabilitación de 101 km de vía existente, la variante de Timaná de 3,7 km y un tercer carril de 1 km en La Jagua.",
-      "published": "2026-11-21T17:20:00+00:00"
-    },
-    {
-      "id": "9627fdc5316db548",
-      "title": "Exclusiva | NG Energy y sus socios podrían aportar hasta 20 % del gas que consume Colombia; la empresa espera entrar en Venezuela",
-      "link": "https://www.valoraanalitik.com/ng-energy-y-sus-socios-podrian-aportar-hasta-20-del-gas-que-consume-colombia-la-empresa-espera-entrar-en-venezuela/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Jorge Fonseca, presidente de NG Energy, reveló algunos detalles de su incursión en el mercado con las mayores reservas de petróleo y gas del mundo.",
-      "published": "2026-11-21T17:00:00+00:00"
-    },
-    {
-      "id": "1dee5e44d05fd798",
-      "title": "Dubái abre la puerta a empresas latinoamericanas con el café como bandera desde Brasil y Colombia",
-      "link": "https://www.valoraanalitik.com/dubai-abre-la-puerta-a-empresas-latinoamericanas-con-el-cafe-como-bandera-desde-brasil-y-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El DMCC tiene hoy unas 300 empresas latinoamericanas entre sus miembros, de las cuales cerca de 200 son brasileñas.",
-      "published": "2026-11-21T16:40:00+00:00"
-    },
-    {
-      "id": "0e1e5c4f7c328ae1",
-      "title": "Avianca habilitó 6.682 sillas tras afectaciones en los aeropuertos de Bogotá y Medellín",
-      "link": "https://www.larepublica.co/empresas/avianca-habilito-6-682-sillas-adicionales-tras-afectaciones-en-aeropuertos-de-bogota-y-medellin-4530031",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La aerolínea activó 28 vuelos adicionales y realizó 10 cambios a aeronaves de mayor capacidad para atender a los pasajeros afectados por las condiciones meteorológicas",
-      "published": "2026-11-21T16:29:36+00:00"
-    },
-    {
-      "id": "3be5342d59e21338",
-      "title": "La incertidumbre sobre la IA golpea a Wall Street y hunde las acciones tecnológicas",
-      "link": "https://www.larepublica.co/globoeconomia/la-incertidumbre-sobre-la-inteligencia-artificial-golpea-a-wall-street-y-hunde-las-tecnologicas-4530025",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El Nasdaq 100 cayó 10% en la semana, su peor desempeño desde marzo de 2020, en medio de las dudas sobre la inteligencia artificial y el desplome de las acciones tecnológicas",
-      "published": "2026-11-21T16:20:50+00:00"
-    },
-    {
-      "id": "a541960df7eb4e02",
-      "title": "Netflix tiene lista la fecha para lanzamiento del plan con anuncios en Colombia",
-      "link": "https://www.valoraanalitik.com/netflix-tiene-lista-la-fecha-para-lanzamiento-del-plan-con-anuncios-en-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Colombia y Perú serán los únicos mercados latinoamericanos del primer grupo de lanzamientos del plan que permite publicidad durante las emisiones de contenido.",
-      "published": "2026-11-21T16:20:00+00:00"
-    },
-    {
-      "id": "d91f7f54c3e570d0",
-      "title": "Bre-B del Banco de la República gana el máximo premio en los Best Branding Awards Colombia",
-      "link": "https://www.valoraanalitik.com/bre-b-del-banco-de-la-republica-gana-el-maximo-premio-en-los-best-branding-awards-colombia/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "En esta edición compitieron casos implementados en Colombia entre el 1 de enero de 2023 y el 31 de marzo de 2026, y 16 de ellos llegaron a la final.",
-      "published": "2026-11-21T15:40:00+00:00"
-    },
-    {
-      "id": "f2fe1a48487bc85b",
-      "title": "‘Gravar el consumo es gravar a las clases menos favorecidas’: Jaime Alberto Cabal, presidente de Fenalco",
-      "link": "https://www.eltiempo.com/economia/sectores/gravar-el-consumo-es-gravar-a-las-clases-menos-favorecidas-jaime-alberto-cabal-presidente-de-fenalco-3602929",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El dirigente gremial propone aplazar la rebaja de renta empresarial, plantea recortes de gasto en otras ramas del Estado y advierte por el empleo.",
-      "published": "2026-11-21T15:36:01+00:00"
-    },
-    {
-      "id": "0db9a50c28cc9ac2",
-      "title": "Chile reabre su mercado a la carne bovina colombiana: Gobierno proyecta ventas de 27 millones de dólares en el 2027",
-      "link": "https://www.eltiempo.com/economia/chile-reabre-su-mercado-a-la-carne-bovina-colombiana-gobierno-proyecta-ventas-de-27-millones-de-dolares-en-el-3602993",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "Las ventas estaban frenadas desde mediados de junio por la falta de un aval sanitario, y el ICA calcula envíos de cerca de 3.500 toneladas.",
-      "published": "2026-11-21T15:29:20+00:00"
-    },
-    {
-      "id": "59b2547e8c1bf450",
-      "title": "¿Qué cambia para las pensiones tras la suspensión del decreto sobre el deslizamiento del salario mínimo? Fasecolda y Asofondos explican",
-      "link": "https://www.valoraanalitik.com/que-cambia-para-las-pensiones-tras-la-suspension-del-decreto-sobre-el-deslizamiento-del-salario-minimo-fasecolda-y-asofondos-explican/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El Decreto 1485 de 2025 modificaba las reglas para calcular el deslizamiento del salario mínimo en las rentas vitalicias y la participación del Estado.",
-      "published": "2026-11-21T15:00:00+00:00"
-    },
-    {
-      "id": "ef3457776a062734",
-      "title": "Gobierno prende alarmas por menor nivel de embalses ad portas de mayor golpe del fenómeno de El Niño",
-      "link": "https://www.valoraanalitik.com/gobierno-prende-alarmas-por-menor-nivel-de-embalses-ad-portas-de-mayor-golpe-del-fenomeno-de-el-nino/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "Lo anterior, explicó la jefe de cartera, derivado de la ausencia de lluvias y el aumento de la temperatura.",
-      "published": "2026-11-21T14:45:00+00:00"
-    },
-    {
-      "id": "a841b7946068fbc5",
-      "title": "La UE propone recortes al presupuesto a largo plazo para superar la brecha política",
-      "link": "https://www.larepublica.co/globoeconomia/la-ue-propone-recortes-al-presupuesto-a-largo-plazo-para-superar-la-brecha-politica-4530022",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La propuesta contempla una reducción de US$224.000 millones en el presupuesto de la Unión Europea y un impuesto de 3% a las grandes empresas de servicios digitales",
-      "published": "2026-11-21T14:30:57+00:00"
-    },
-    {
-      "id": "277310e6ce9f099c",
-      "title": "Las Fuerzas Militares mexicanas capturan al presunto líder del narcotráfico \"Chapo Isidro\"",
-      "link": "https://www.larepublica.co/globoeconomia/las-fuerzas-militares-mexicanas-capturan-presunto-lider-narco-chapo-isidro-4530017",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El operativo se realizó en Sinaloa y permitió la captura de otros dos integrantes de la organización. El FBI ofrecía US$5 millones por el narcotraficante",
-      "published": "2026-11-21T14:04:57+00:00"
-    },
-    {
-      "id": "9c6e886ca5415804",
-      "title": "Transacciones empresariales en Colombia superan US$11.400 millones en 2026, pese a caída de 20 % en operaciones",
-      "link": "https://www.valoraanalitik.com/transacciones-empresariales-colombia-2026/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El capital movilizado en fusiones y adquisiciones aumentó 59 % a septiembre. Software, energía, petróleo y banca, entre los sectores con mayor actividad.",
-      "published": "2026-11-21T14:00:00+00:00"
-    },
-    {
-      "id": "c7ec6d3636f6a9de",
-      "title": "Gobierno retira borrador de decreto sobre corridas de toros y descarta su regreso",
-      "link": "https://www.larepublica.co/economia/gobierno-retira-borrador-de-decreto-sobre-corridas-de-toros-y-descarta-su-regreso-4530008",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El Ejecutivo aclaró que el documento no fue ordenado por el presidente y que fue retirado por falta de revisiones institucionales",
-      "published": "2026-11-21T13:00:10+00:00"
-    },
-    {
-      "id": "d84446849584600e",
-      "title": "Proponen revivir los tres días sin IVA en Colombia: ¿Cuándo aplicarían?",
-      "link": "https://www.valoraanalitik.com/proponen-revivir-los-tres-dias-sin-iva-en-colombia-cuando-aplicarian/",
-      "source": "Valora Analitik",
-      "category": "fuente directa",
-      "summary": "El gobierno De la Espriella dice que no impondrá más IVA en Colombia a productos de la canasta básica.",
-      "published": "2026-11-21T13:00:00+00:00"
-    },
-    {
-      "id": "17a8a703d607e2f4",
-      "title": "Precio del dólar golpea a América Latina en Colombia: peso y otras monedas se ven golpeadas por aumento de la cotización",
-      "link": "https://www.eltiempo.com/economia/precio-del-dolar-golpea-a-america-latina-en-colombia-peso-y-otras-monedas-se-ven-golpeadas-por-aumento-de-la-cotizacion-3602963",
-      "source": "El Tiempo - Economía",
-      "category": "fuente directa",
-      "summary": "El dólar se fortaleció a nivel global y la incertidumbre económica golpeó al real brasileño y al peso colombiano.",
-      "published": "2026-11-21T11:25:31+00:00"
-    },
-    {
-      "id": "2062d18adab60429",
-      "title": "El iPhone Duo, es la gran apuesta plegable de Apple que por el momento está a prueba",
-      "link": "https://www.larepublica.co/internet-economy/el-iphone-duo-la-apuesta-de-apple-que-sigue-a-prueba-4529842",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Entre quejas por display y su capacidad de uso, el plegable de Apple priorizó el diseño por encima de la eficiencia, lo que le ha costado críticas de los clientes",
-      "published": "2026-11-21T05:03:27+00:00"
-    },
-    {
-      "id": "23b0d8c9e8f9be39",
-      "title": "Todo llega al instante, menos la experiencia",
-      "link": "https://www.larepublica.co/analisis/santiago-jimenez-londono-4353436/todo-llega-al-instante-menos-la-experiencia-4529650",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Los griegos tenían dos palabras que conviene recuperar, kairós, el momento oportuno que rara vez coincide con el cronograma, y aporía, el camino sin salida que obliga a pensar de nuevo",
-      "published": "2026-11-21T05:02:35+00:00"
-    },
-    {
-      "id": "819eaed321875c48",
-      "title": "¡La distopía de un mundo sin petróleo!",
-      "link": "https://www.larepublica.co/analisis/amylkar-d-acosta-m-557896/la-distopia-de-un-mundo-sin-petroleo-4529659",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Sin alternativas, reducir la producción aumenta la dependencia",
-      "published": "2026-11-21T05:02:32+00:00"
-    },
-    {
-      "id": "87dfb6696a2a816b",
-      "title": "PIB del país crecerá 2,1% en 2027, 0,5% menos que el año pasado, según la Ocde",
-      "link": "https://www.larepublica.co/economia/pib-del-pais-crecera-2-1-el-proximo-ano-0-5-menos-que-el-ano-pasado-segun-la-ocde-4529755",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "La economía creció 2,6% en 2025 y 2026, pero la Ocde proyecta una desaceleración a 2,1% en el próximo año, debido a condiciones financieras más restrictivas",
-      "published": "2026-11-21T05:02:07+00:00"
-    },
-    {
-      "id": "c66b26cd429a5f03",
-      "title": "Colombia es el cuarto país de la región con más población en pobreza extrema",
-      "link": "https://www.larepublica.co/globoeconomia/colombia-es-el-cuarto-pais-de-la-region-con-mas-poblacion-en-pobreza-extrema-4529780",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "El indicador de personas en esta condición fue de 13,4% del total de los nacionales, mientras que el promedio de América Latina y el Caribe fue de 9,4%",
-      "published": "2026-11-21T05:01:58+00:00"
-    },
-    {
-      "id": "af82328261a5a083",
-      "title": "España, segundo mayor inversionista en Colombia, a elecciones general",
-      "link": "https://www.larepublica.co/globoeconomia/espana-segundo-mayor-inversionista-en-colombia-a-elecciones-4529770",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Sánchez y Feijóo debatieron el pasado jueves. El Partido Popular, de centroderecha, sigue primero, mientras que el PSOE recorta y nuestro paÍs se coló en el debate",
-      "published": "2026-11-21T05:01:58+00:00"
-    },
-    {
-      "id": "df1ee7eb7d875e00",
-      "title": "Valor de los minimis desde plataformas como Temu ha crecido 500% desde 2023",
-      "link": "https://www.larepublica.co/economia/valor-de-los-minimis-desde-plataformas-como-temu-crecio-500-desde-2023-4529736",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Registros de documentos de transporte evidencian la atomización de la carga en varios envíos para no superar el umbral de US$200 con el que se excluye el pago de IVA",
-      "published": "2026-11-21T05:01:56+00:00"
-    },
-    {
-      "id": "bc95faba736630cf",
-      "title": "“El rojo llegó para quedarse”, la apuesta de PatPrimo y Sisterly Style para la temporada",
-      "link": "https://www.larepublica.co/ocio/el-rojo-llego-para-quedarse-la-apuesta-de-patprimo-y-sisterly-style-para-la-temporada-4529396",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "PatPrimo y Sisterly Style presentan su tercera colaboración, una colección para fin de año que combina prendas versátiles, diseños atemporales y detalles festivos",
-      "published": "2026-11-21T05:01:54+00:00"
-    },
-    {
-      "id": "ee148581ecc0180b",
-      "title": "Los Juegos del Hambre inspiraron una pasarela de moda en Cine Colombia",
-      "link": "https://www.larepublica.co/ocio/los-juegos-del-hambre-inspiraron-una-pasarela-de-moda-en-cine-colombia-4529439",
-      "source": "La República",
-      "category": "fuente directa",
-      "summary": "Estudiantes de seis instituciones de diseño y moda reinterpretaron el universo de Panem en una pasarela organizada por Cine Colombia Distribución",
-      "published": "2026-11-21T05:01:52+00:00"
     }
   ]
 }
